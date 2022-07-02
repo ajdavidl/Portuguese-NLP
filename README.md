@@ -6,6 +6,7 @@ List of resources and tools developed with focus on Portuguese.
 
 - [Brazilian Portuguese Web as Corpus - BrWaC](https://www.inf.ufrgs.br/pln/wiki/index.php?title=BrWaC)
 - [Mac-Morpho](http://www.nilc.icmc.usp.br/macmorpho/)
+- [Projeto ACDC](https://www.linguateca.pt/ACDC/)
 
 ## Models
 
