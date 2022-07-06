@@ -48,4 +48,4 @@ List of resources and tools developed with focus on Portuguese.
 - [polyglot](https://github.com/aboSamoor/polyglot)
 - [Stanza NLP](https://stanfordnlp.github.io/stanza/available_models.html)
 - [udpipe](https://github.com/bnosac/udpipe)
-
+- [nlpnet](http://nilc.icmc.usp.br/nlpnet/)
