@@ -33,9 +33,19 @@ List of resources and tools developed with focus on Portuguese.
 
 ## Word Embeddings
 
+- [fastText](https://fasttext.cc/docs/en/crawl-vectors.html) - Multi-lingual word vectors
 - [NILC-Embeddings](http://www.nilc.icmc.usp.br/embeddings)
+- [MUSE](https://github.com/facebookresearch/MUSE) - Multilingual Unsupervised and Supervised Embeddings
 
 ## Metrics
 
 - [Coh-Metrix-Port](https://github.com/nilc-nlp/coh-metrix-port) - an adaptation of the Coh-Metrix text analysis tool to the Brazilian Portuguese language.
 - [NILC-Metrix](https://github.com/sidleal/nilcmetrix) - it gathers the metrics developed over more than a decade in NILC Lab.
+
+## Frameworks
+
+- [spaCy](https://spacy.io/models/pt)
+- [polyglot](https://github.com/aboSamoor/polyglot)
+- [Stanza NLP](https://stanfordnlp.github.io/stanza/available_models.html)
+- [udpipe](https://github.com/bnosac/udpipe)
+
