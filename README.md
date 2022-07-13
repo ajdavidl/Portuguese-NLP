@@ -12,6 +12,7 @@ List of resources and tools developed with focus on Portuguese.
 - [Brazilian Portuguese Web as Corpus - BrWaC](https://www.inf.ufrgs.br/pln/wiki/index.php?title=BrWaC)
 - [BlogSet-BR](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/blogset-br-english/) - a collection of posts gathered from Blogspot platform written by Brazillian users.
 - [B2W-Reviews01](https://github.com/americanas-tech/b2w-reviews01) - product reviews.
+- [CHAVE](https://www.linguateca.pt/CHAVE/) - collection for Information Retrieval and Question Answering.
 - [CORAA](https://github.com/nilc-nlp/CORAA) - dataset for Automatic Speech Recognition.
 - [HAREM first](https://www.linguateca.pt/primeiroHAREM/harem_coleccaodourada_en.html) - evaluation contest for named entity recognizers in Portuguese.
 - [HAREM second](https://www.linguateca.pt/HAREM/) - evaluation contest for named entity recognizers in Portuguese.
