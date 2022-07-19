@@ -14,6 +14,7 @@ List of resources and tools developed with focus on Portuguese.
 - [B2W-Reviews01](https://github.com/americanas-tech/b2w-reviews01) - product reviews.
 - [CETENFolha](https://www.linguateca.pt/cetenfolha/index_info.html) - news from the newspaper Folha de S. Paulo.
 - [CHAVE](https://www.linguateca.pt/CHAVE/) - collection for Information Retrieval and Question Answering.
+- [Complexidade Textual para Estágios Escolares do Sistema Educacional Brasileiro](https://github.com/gazzola/corpus_readability_nlp_portuguese)
 - [CORAA](https://github.com/nilc-nlp/CORAA) - dataset for Automatic Speech Recognition.
 - [HAREM first](https://www.linguateca.pt/primeiroHAREM/harem_coleccaodourada_en.html) - evaluation contest for named entity recognizers in Portuguese.
 - [HAREM second](https://www.linguateca.pt/HAREM/) - evaluation contest for named entity recognizers in Portuguese.
@@ -25,6 +26,7 @@ List of resources and tools developed with focus on Portuguese.
 - [News of the site Folha de São Paulo](https://www.kaggle.com/datasets/marlesson/news-of-the-site-folhauol)
 - [NER in Brazilian Portuguese tweets](https://www.kaggle.com/datasets/rafaelperes/ner-in-brazilian-portuguese-tweets) - Twitter messages in pt-br annotated for the entities PER, LOC and ORG.
 - [NER-datasets for Portuguese](https://github.com/davidsbatista/NER-datasets/tree/master/Portuguese)
+- [OpenWordnet-PT](https://github.com/own-pt/openWordnet-PT) - an open access wordnet for Portuguese.
 - [Parallel Corpora from Revista Pesquisa FAPESP](http://www.nilc.icmc.usp.br/nilc/tools/Fapesp%20Corpora.htm) - Portuguese-English and Portuguese-Spanish bilingual collections of the online issues of the scientific news Brazilian magazine Revista Pesquisa FAPESP.
 - [PorSimplesSent](https://github.com/sidleal/porsimplessent) - of aligned sentences pairs to investigate sentence readability assessment.
 - [Propbank](http://143.107.183.175:21380/portlex/index.php/en/downloadsingl) - Contains instances annotated with semantic role labels (SRL). 
