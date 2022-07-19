@@ -9,7 +9,7 @@ List of resources and tools developed with focus on Portuguese.
 
 - [ASSIN](http://nilc.icmc.usp.br/assin/) - a dataset with semantic similarity score and entailment annotations.
 - [ASSIN 2](https://sites.google.com/view/assin2) - sequence of ASSIN.
-- [Brazilian Portuguese Web as Corpus - BrWaC](https://www.inf.ufrgs.br/pln/wiki/index.php?title=BrWaC)
+- [BrWaC](https://www.inf.ufrgs.br/pln/wiki/index.php?title=BrWaC) - Brazilian Portuguese Web as Corpus.
 - [BlogSet-BR](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/blogset-br-english/) - a collection of posts gathered from Blogspot platform written by Brazillian users.
 - [B2W-Reviews01](https://github.com/americanas-tech/b2w-reviews01) - product reviews.
 - [CETENFolha](https://www.linguateca.pt/cetenfolha/index_info.html) - news from the newspaper Folha de S. Paulo.
@@ -26,7 +26,6 @@ List of resources and tools developed with focus on Portuguese.
 - [News of the site Folha de São Paulo](https://www.kaggle.com/datasets/marlesson/news-of-the-site-folhauol)
 - [NER in Brazilian Portuguese tweets](https://www.kaggle.com/datasets/rafaelperes/ner-in-brazilian-portuguese-tweets) - Twitter messages in pt-br annotated for the entities PER, LOC and ORG.
 - [NER-datasets for Portuguese](https://github.com/davidsbatista/NER-datasets/tree/master/Portuguese)
-- [OpenWordnet-PT](https://github.com/own-pt/openWordnet-PT) - an open access wordnet for Portuguese.
 - [Parallel Corpora from Revista Pesquisa FAPESP](http://www.nilc.icmc.usp.br/nilc/tools/Fapesp%20Corpora.htm) - Portuguese-English and Portuguese-Spanish bilingual collections of the online issues of the scientific news Brazilian magazine Revista Pesquisa FAPESP.
 - [PorSimplesSent](https://github.com/sidleal/porsimplessent) - of aligned sentences pairs to investigate sentence readability assessment.
 - [Propbank](http://143.107.183.175:21380/portlex/index.php/en/downloadsingl) - Contains instances annotated with semantic role labels (SRL). 
@@ -46,6 +45,14 @@ List of resources and tools developed with focus on Portuguese.
 - [OpenSubtitles](https://opus.nlpl.eu/OpenSubtitles.php) - collection of translated movie subtitles.
 - [Tatoeba](https://tatoeba.org/en/downloads) - a large database of sentences and translations. 
 - [WikiMatrix](https://github.com/facebookresearch/LASER/tree/main/tasks/WikiMatrix) - Parallel Sentences in 1620 Language Pairs from Wikipedia.
+
+## Lexicon
+
+- [lexiconPT](https://github.com/sillasgonzaga/lexiconPT) - R package that provides lexicons for Portuguese Text Analysis.
+- [LIWC](http://nilc.icmc.usp.br/portlex/index.php/en/liwc) - Linguistic Inquiry and Word Count ([dictionary](https://sites.icmc.usp.br/sandra/LIWC/LIWC2007_Portugues_win.dic))
+- [OpenWordnet-PT](https://github.com/own-pt/openWordnet-PT) - an open access wordnet for Portuguese.
+- [OpLexicon](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/oplexicon/) - a sentiment lexicon for the Portuguese language.
+- [Wordnetaffectbr](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/wordnetaffectbr/) - vocabulary of emotions words.
 
 ## Models
 
