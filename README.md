@@ -78,3 +78,8 @@ List of resources and tools developed with focus on Portuguese.
 - [Stanza NLP](https://stanfordnlp.github.io/stanza/available_models.html)
 - [udpipe](https://github.com/bnosac/udpipe)
 - [nlpnet](http://nilc.icmc.usp.br/nlpnet/)
+
+## Institutions
+
+- [NILC](http://www.nilc.icmc.usp.br/nilc/index.php)
+- [PLN PUCRS](https://www.inf.pucrs.br/linatural/wordpress/)
