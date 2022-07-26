@@ -48,10 +48,13 @@ List of resources and tools developed with focus on Portuguese.
 
 ## Lexicon
 
+- [br.ispell](https://www.ime.usp.br/~ueda/br.ispell/summary.html) - Ispell dictionary for brazilian portuguese ([github](https://github.com/fititnt/br.ispell-dicionario-portugues-brasileiro)).
+- [DicSin](https://github.com/fititnt/DicSin-dicionario-sinonimos-portugues-brasileiro) - Dictionary of synonyms and antonyms.
 - [lexiconPT](https://github.com/sillasgonzaga/lexiconPT) - R package that provides lexicons for Portuguese Text Analysis.
 - [LIWC](http://nilc.icmc.usp.br/portlex/index.php/en/liwc) - Linguistic Inquiry and Word Count ([dictionary](https://sites.icmc.usp.br/sandra/LIWC/LIWC2007_Portugues_win.dic))
 - [OpenWordnet-PT](https://github.com/own-pt/openWordnet-PT) - an open access wordnet for Portuguese.
 - [OpLexicon](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/oplexicon/) - a sentiment lexicon for the Portuguese language.
+- [Stopwords](https://github.com/stopwords-iso/stopwords-pt) - Portuguese stopwords collection.
 - [Wordnetaffectbr](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/wordnetaffectbr/) - vocabulary of emotions words.
 
 ## Models
