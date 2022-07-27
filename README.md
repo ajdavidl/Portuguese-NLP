@@ -86,3 +86,8 @@ List of resources and tools developed with focus on Portuguese.
 
 - [NILC](http://www.nilc.icmc.usp.br/nilc/index.php)
 - [PLN PUCRS](https://www.inf.pucrs.br/linatural/wordpress/)
+
+## Tools
+
+- [Verbecc](https://github.com/bretttolbert/verbecc) - Complete Conjugation of any Verb using Machine Learning for French, Spanish, Portuguese, Italian and Romanian.
+- [Languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages.
