@@ -61,7 +61,15 @@ List of resources and tools developed with focus on Portuguese.
 
 - [BERTimbau](https://huggingface.co/neuralmind/bert-base-portuguese-cased)
 - [GPT2 small](https://huggingface.co/pierreguillou/gpt2-small-portuguese)
+- [roberta-pt-br](https://huggingface.co/josu/roberta-pt-br)
 - [T5](https://github.com/unicamp-dl/PTT5)
+- [Wav2vec](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-portuguese)
+
+### Multilingual Models
+
+- [multilingual Bert](https://huggingface.co/bert-base-multilingual-cased)
+- [Bloom](https://huggingface.co/bigscience/bloom)
+- [XLM-RoBERTa](https://huggingface.co/xlm-roberta-base)
 
 ## Word Embeddings
 
