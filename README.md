@@ -41,6 +41,7 @@ List of resources and tools developed with focus on Portuguese.
 
 ### Multilingual datasets
 
+- [EUR-Lex](https://www.sketchengine.eu/eurlex-corpus/) - multilingual corpus in all the official languages of the European Union.
 - [OSCAR](https://oscar-corpus.com/) - Open Super-large Crawled Aggregated coRpus.
 - [OpenSubtitles](https://opus.nlpl.eu/OpenSubtitles.php) - collection of translated movie subtitles.
 - [Tatoeba](https://tatoeba.org/en/downloads) - a large database of sentences and translations. 
@@ -76,6 +77,7 @@ List of resources and tools developed with focus on Portuguese.
 - [fastText](https://fasttext.cc/docs/en/crawl-vectors.html) - Multi-lingual word vectors
 - [NILC-Embeddings](http://www.nilc.icmc.usp.br/embeddings)
 - [MUSE](https://github.com/facebookresearch/MUSE) - Multilingual Unsupervised and Supervised Embeddings
+- [word vectors](https://github.com/Kyubyong/wordvectors) - Pre-trained word vectors of 30+ languages.
 
 ## Metrics
 
