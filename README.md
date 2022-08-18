@@ -47,6 +47,7 @@ List of resources and tools developed with focus on Portuguese.
 ### Multilingual datasets
 
 - [EUR-Lex](https://www.sketchengine.eu/eurlex-corpus/) - multilingual corpus in all the official languages of the European Union.
+- [mc4](https://huggingface.co/datasets/mc4/viewer/pt/train) - multilingual colossal, cleaned version of Common Crawl's web crawl corpus. Based on Common Crawl dataset.
 - [OSCAR](https://oscar-corpus.com/) - Open Super-large Crawled Aggregated coRpus.
 - [OpenSubtitles](https://opus.nlpl.eu/OpenSubtitles.php) - collection of translated movie subtitles.
 - [Tatoeba](https://tatoeba.org/en/downloads) - a large database of sentences and translations. 
@@ -74,8 +75,10 @@ List of resources and tools developed with focus on Portuguese.
 
 ### Multilingual Models
 
-- [multilingual Bert](https://huggingface.co/bert-base-multilingual-cased)
 - [Bloom](https://huggingface.co/bigscience/bloom)
+- [multilingual Bert](https://huggingface.co/bert-base-multilingual-cased)
+- [mGPT](https://huggingface.co/sberbank-ai/mGPT) - Multilingual GPT model. An autoregressive GPT-like model.
+- [mT5](https://huggingface.co/google/mt5-base) - Multilingual T5. A massively multilingual pre-trained text-to-text transformer.
 - [XLM-RoBERTa](https://huggingface.co/xlm-roberta-base)
 
 ## Word Embeddings
