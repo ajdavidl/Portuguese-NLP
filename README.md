@@ -62,6 +62,7 @@ List of resources and tools developed with focus on Portuguese.
 - [LIWC](http://nilc.icmc.usp.br/portlex/index.php/en/liwc) - Linguistic Inquiry and Word Count ([dictionary](https://sites.icmc.usp.br/sandra/LIWC/LIWC2007_Portugues_win.dic))
 - [OpenWordnet-PT](https://github.com/own-pt/openWordnet-PT) - an open access wordnet for Portuguese.
 - [OpLexicon](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/oplexicon/) - a sentiment lexicon for the Portuguese language.
+- [SentiLex-PT](http://b2find.eudat.eu/dataset/b6bd16c2-a8ab-598f-be41-1e7aeecd60d3) - a sentiment lexicon for Portuguese.
 - [Stopwords](https://github.com/stopwords-iso/stopwords-pt) - Portuguese stopwords collection.
 - [Wordnetaffectbr](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/wordnetaffectbr/) - vocabulary of emotions words.
 
