@@ -66,6 +66,7 @@ List of resources and tools developed with focus on Portuguese.
 - [OpLexicon](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/oplexicon/) - a sentiment lexicon for the Portuguese language.
 - [SentiLex-PT](http://b2find.eudat.eu/dataset/b6bd16c2-a8ab-598f-be41-1e7aeecd60d3) - a sentiment lexicon for Portuguese.
 - [Stopwords](https://github.com/stopwords-iso/stopwords-pt) - Portuguese stopwords collection.
+- [VaLexPB](https://github.com/jessemourao/VaLexPB) - a lexicon of Brazilian Portuguese verb valences.
 - [Wordnetaffectbr](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/wordnetaffectbr/) - vocabulary of emotions words.
 
 ## Models
@@ -111,9 +112,11 @@ List of resources and tools developed with focus on Portuguese.
 
 ## Tools
 
-- [Verbecc](https://github.com/bretttolbert/verbecc) - Complete Conjugation of any Verb using Machine Learning for French, Spanish, Portuguese, Italian and Romanian.
+- [BrGram](https://github.com/LR-POR/BrGram) - Computational grammar fragment of Brazilian Portuguese in the LFG formalism implemented in XLE.
 - [Languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages.
 - [LegalNLP](https://github.com/felipemaiapolo/legalnlp) - Natural Language Processing Methods for the Brazilian Legal Language.
+- [OpCluster](https://github.com/franciellevargas/Opcluster) - Automatic extraction and clustering of fine-grained opinions.
+- [Verbecc](https://github.com/bretttolbert/verbecc) - Complete Conjugation of any Verb using Machine Learning for French, Spanish, Portuguese, Italian and Romanian.
 
 ## Other links
 
