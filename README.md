@@ -59,16 +59,22 @@ List of resources and tools developed with focus on Portuguese.
 ## Lexicon
 
 - [br.ispell](https://www.ime.usp.br/~ueda/br.ispell/summary.html) - Ispell dictionary for brazilian portuguese ([github](https://github.com/fititnt/br.ispell-dicionario-portugues-brasileiro)).
+- [Conceptnet](https://conceptnet.io/) - an open, multilingual knowledge graph.
 - [DicSin](https://github.com/fititnt/DicSin-dicionario-sinonimos-portugues-brasileiro) - Dictionary of synonyms and antonyms.
 - [lexiconPT](https://github.com/sillasgonzaga/lexiconPT) - R package that provides lexicons for Portuguese Text Analysis.
 - [LIWC](http://nilc.icmc.usp.br/portlex/index.php/en/liwc) - Linguistic Inquiry and Word Count ([dictionary](https://sites.icmc.usp.br/sandra/LIWC/LIWC2007_Portugues_win.dic))
+- [Onto.PT](http://ontopt.dei.uc.pt/) - Ontologia Lexical para o Português.
 - [OpenWordnet-PT](https://github.com/own-pt/openWordnet-PT) - an open access wordnet for Portuguese.
 - [OpLexicon](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/oplexicon/) - a sentiment lexicon for the Portuguese language.
+- [PAPEL](https://www.linguateca.pt/PAPEL/)
+- [PULO](http://wordnet.pt/) - Portuguese Unified Lexical Ontology.
 - [SentiLex-PT](http://b2find.eudat.eu/dataset/b6bd16c2-a8ab-598f-be41-1e7aeecd60d3) - a sentiment lexicon for Portuguese.
 - [Stopwords](https://github.com/stopwords-iso/stopwords-pt) - Portuguese stopwords collection.
+- [Tep2](http://www.nilc.icmc.usp.br/tep2/)
 - [Unitex-PB](http://www.nilc.icmc.usp.br/nilc/projects/unitex-pb/web/dicionarios.html) - lexical resources.
 - [VaLexPB](https://github.com/jessemourao/VaLexPB) - a lexicon of Brazilian Portuguese verb valences.
 - [Wordnetaffectbr](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/wordnetaffectbr/) - vocabulary of emotions words.
+- [Wordnet.Br](http://www.nilc.icmc.usp.br/wordnetbr/)
 
 ## Models
 
@@ -108,6 +114,7 @@ List of resources and tools developed with focus on Portuguese.
 
 ## Institutions
 
+- [Linguateca](https://www.linguateca.pt/)
 - [NILC](http://www.nilc.icmc.usp.br/nilc/index.php)
 - [PLN PUCRS](https://www.inf.pucrs.br/linatural/wordpress/)
 
