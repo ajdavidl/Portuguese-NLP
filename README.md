@@ -5,7 +5,7 @@
 
 List of resources and tools developed with focus on Portuguese.
 
-## Text corpora
+## Datasets
 
 - [ASSIN](http://nilc.icmc.usp.br/assin/) - a dataset with semantic similarity score and entailment annotations.
 - [ASSIN 2](https://sites.google.com/view/assin2) - sequence of ASSIN.
@@ -17,7 +17,7 @@ List of resources and tools developed with focus on Portuguese.
 - [CHAVE](https://www.linguateca.pt/CHAVE/) - collection for Information Retrieval and Question Answering.
 - [Complexidade Textual para Estágios Escolares do Sistema Educacional Brasileiro](https://github.com/gazzola/corpus_readability_nlp_portuguese)
 - [CORAA](https://github.com/nilc-nlp/CORAA) - dataset for Automatic Speech Recognition.
-- [Priberam Fine-Grained Opinion Corpus](http://labs.priberam.pt/Resources/Fine-Grained-Opinion-Corpus.aspx) - a Portuguese fine-grained dependency opinion mining corpus.
+- [Floresta Sintá(c)tica](https://www.linguateca.pt/Floresta/) - treebank for Portuguese.
 - [HAREM first](https://www.linguateca.pt/primeiroHAREM/harem_coleccaodourada_en.html) - evaluation contest for named entity recognizers in Portuguese.
 - [HAREM second](https://www.linguateca.pt/HAREM/) - evaluation contest for named entity recognizers in Portuguese.
 - [Historical Portuguese Corpora](http://www.nilc.icmc.usp.br/nilc/projects/hpc/) - tools and resources for manipulation of historical corpora and management of historical dictionaries.
@@ -31,6 +31,7 @@ List of resources and tools developed with focus on Portuguese.
 - [NER-datasets for Portuguese](https://github.com/davidsbatista/NER-datasets/tree/master/Portuguese)
 - [Parallel Corpora from Revista Pesquisa FAPESP](http://www.nilc.icmc.usp.br/nilc/tools/Fapesp%20Corpora.htm) - Portuguese-English and Portuguese-Spanish bilingual collections of the online issues of the scientific news Brazilian magazine Revista Pesquisa FAPESP.
 - [PorSimplesSent](https://github.com/sidleal/porsimplessent) - of aligned sentences pairs to investigate sentence readability assessment.
+- [Priberam Fine-Grained Opinion Corpus](http://labs.priberam.pt/Resources/Fine-Grained-Opinion-Corpus.aspx) - a Portuguese fine-grained dependency opinion mining corpus.
 - [Propbank](http://143.107.183.175:21380/portlex/index.php/en/downloadsingl) - Contains instances annotated with semantic role labels (SRL). 
 - [Projeto ACDC](https://www.linguateca.pt/ACDC/) - Internet Access to Corpora.
 - [ReLi](https://www.linguateca.pt/Repositorio/ReLi/) - REsenha de LIvros.
@@ -42,6 +43,7 @@ List of resources and tools developed with focus on Portuguese.
 - [TTS-Portuguese Corpus](https://github.com/Edresson/TTS-Portuguese-Corpus) - Text To Speech Portuguese.
 - [TweetSentBR](https://bitbucket.org/HBrum/tweetsentbr/src/master/) - Tweets in Brazilian Portuguese.
 - [Tweets for Sentiment Analysis](https://www.kaggle.com/datasets/augustop/portuguese-tweets-for-sentiment-analysis)
+- [Universal Dependencies](https://github.com/UniversalDependencies/UD_Portuguese-Bosque) - Universal Dependencies (UD) Portuguese treebank.
 
 
 ### Multilingual datasets
