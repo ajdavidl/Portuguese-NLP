@@ -80,7 +80,7 @@ List of resources and tools developed with focus on Portuguese.
 
 ## Models
 
-- [BERTimbau](https://huggingface.co/neuralmind/bert-base-portuguese-cased)
+- [BERTimbau](https://huggingface.co/neuralmind/bert-base-portuguese-cased) ([Github](https://github.com/neuralmind-ai/portuguese-bert))
 - [GPT2 small](https://huggingface.co/pierreguillou/gpt2-small-portuguese)
 - [roberta-pt-br](https://huggingface.co/josu/roberta-pt-br)
 - [T5](https://github.com/unicamp-dl/PTT5)
