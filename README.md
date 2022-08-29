@@ -59,6 +59,7 @@ List of resources and tools developed with focus on Portuguese.
 - [OpenSubtitles](https://opus.nlpl.eu/OpenSubtitles.php) - collection of translated movie subtitles.
 - [Tatoeba](https://tatoeba.org/en/downloads) - a large database of sentences and translations. 
 - [English-Portuguese Sentences](http://www.manythings.org/bilingual/por/) - English-Portuguese Sentences from the Tatoeba Project.
+- [WikiANN](https://huggingface.co/datasets/wikiann) - multilingual named entity recognition dataset consisting of Wikipedia articles annotated with LOC (location), PER (person), and ORG (organisation) tags in the IOB2 format.
 - [WikiMatrix](https://github.com/facebookresearch/LASER/tree/main/tasks/WikiMatrix) - Parallel Sentences in 1620 Language Pairs from Wikipedia.
 
 ## Lexicon
