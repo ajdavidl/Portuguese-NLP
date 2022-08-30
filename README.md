@@ -41,7 +41,9 @@ List of resources and tools developed with focus on Portuguese.
 - [SIMPLEX-PB](https://github.com/nathanshartmann/SIMPLEX-PB) - A Lexical Simplification Database and Benchmark for Portuguese.
 - [SIMPLEX-PB-2.0](https://github.com/nathanshartmann/simplex-pb-2.0) - improved version of SIMPLEX-PB.
 - [SIMPLEX-PB-3.0](https://github.com/nathanshartmann/simplex-pb-3.0) - new version of SIMPLEX-PB.
-- [SQUAD-PT](https://github.com/nunorc/squad-v1.1-pt) - Portuguese translation of the SQuAD dataset.
+- [SQUAD-PT v1.1](https://github.com/nunorc/squad-v1.1-pt) - Portuguese translation of the SQuAD dataset.
+- [SQUAD-PT v2.0](https://github.com/cjaniake/squad_v2.0_pt) - Portuguese translation of SQuAD 2.0 dataset.
+- [Textual Complexity Corpus](https://github.com/gazzola/corpus_readability_nlp_portuguese) - Textual Complexity Corpus for School Internships in the Brazilian Educational System.
 - [TTS-Portuguese Corpus](https://github.com/Edresson/TTS-Portuguese-Corpus) - Text To Speech Portuguese.
 - [TweetSentBR](https://bitbucket.org/HBrum/tweetsentbr/src/master/) - Tweets in Brazilian Portuguese.
 - [Tweets for Sentiment Analysis](https://www.kaggle.com/datasets/augustop/portuguese-tweets-for-sentiment-analysis)
@@ -125,6 +127,7 @@ List of resources and tools developed with focus on Portuguese.
 
 ## Tools
 
+- [Autocorrect](https://github.com/filyp/autocorrect) - Spelling corrector in python.
 - [BrGram](https://github.com/LR-POR/BrGram) - Computational grammar fragment of Brazilian Portuguese in the LFG formalism implemented in XLE.
 - [Languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages.
 - [LegalNLP](https://github.com/felipemaiapolo/legalnlp) - Natural Language Processing Methods for the Brazilian Legal Language.
@@ -133,6 +136,11 @@ List of resources and tools developed with focus on Portuguese.
 - [OpCluster](https://github.com/franciellevargas/Opcluster) - Automatic extraction and clustering of fine-grained opinions.
 - [PorGram](https://github.com/LR-POR/PorGram) - pen source computational grammar for Portuguese in the HPSG formalism.
 - [Verbecc](https://github.com/bretttolbert/verbecc) - Complete Conjugation of any Verb using Machine Learning for French, Spanish, Portuguese, Italian and Romanian.
+
+## Other lists
+
+- [Annotated Semantic Relationships Datasets](https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets)
+- [Linguistic datasets](https://github.com/EticaAI/linguistic-datasets-portuguese) - Linguistic Datasets for Portuguese.
 
 ## Other links
 
