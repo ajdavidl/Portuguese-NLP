@@ -1,7 +1,4 @@
 # Portuguese-NLP
-<!--
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ajdavidl.Portuguese-NLP)
--->
 
 List of resources and tools developed with focus on Portuguese.
 
@@ -12,12 +9,14 @@ List of resources and tools developed with focus on Portuguese.
 - [BrWaC](https://www.inf.ufrgs.br/pln/wiki/index.php?title=BrWaC) - Brazilian Portuguese Web as Corpus.
 - [BlogSet-BR](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/blogset-br-english/) - a collection of posts gathered from Blogspot platform written by Brazillian users.
 - [B2W-Reviews01](https://github.com/americanas-tech/b2w-reviews01) - product reviews.
+- [Capes](https://huggingface.co/datasets/capes) - parallel corpus of theses and dissertations abstracts in English and Portuguese.
 - [CC100-Portuguese](https://autonlp.ai/datasets/cc100-portuguese) - Created by Conneau & Wenzek et al. at 2020. This dataset is one of the 100 corpora of monolingual data that was processed from the January-December 2018 Commoncrawl snapshots from the CC-Net repository. 
 - [CETENFolha](https://www.linguateca.pt/cetenfolha/index_info.html) - news from the newspaper Folha de S. Paulo.
 - [CHAVE](https://www.linguateca.pt/CHAVE/) - collection for Information Retrieval and Question Answering.
 - [Complexidade Textual para Estágios Escolares do Sistema Educacional Brasileiro](https://github.com/gazzola/corpus_readability_nlp_portuguese)
 - [CORAA](https://github.com/nilc-nlp/CORAA) - dataset for Automatic Speech Recognition.
 - [DNLT-BP](https://github.com/nilc-nlp/DNLT-BP) - Datasets of Neuropsychological Language Tests in Brazilian Portuguese.
+- [FakeRecogna](https://github.com/Gabriel-Lino-Garcia/FakeRecogna) - dataset comprised of real and fake news.
 - [Floresta Sintá(c)tica](https://www.linguateca.pt/Floresta/) - treebank for Portuguese.
 - [HAREM first](https://www.linguateca.pt/primeiroHAREM/harem_coleccaodourada_en.html) - evaluation contest for named entity recognizers in Portuguese.
 - [HAREM second](https://www.linguateca.pt/HAREM/) - evaluation contest for named entity recognizers in Portuguese.
@@ -139,3 +138,6 @@ List of resources and tools developed with focus on Portuguese.
 
 - [OPUS](https://opus.nlpl.eu/) - OPUS is a growing collection of translated texts from the web. 
 - [Statistical and Neural Machine Translation](https://statmt.org/).
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ajdavidl.Portuguese-NLP)
