@@ -48,6 +48,7 @@ List of resources and tools developed with focus on Portuguese.
 - [TweetSentBR](https://bitbucket.org/HBrum/tweetsentbr/src/master/) - Tweets in Brazilian Portuguese.
 - [Tweets for Sentiment Analysis](https://www.kaggle.com/datasets/augustop/portuguese-tweets-for-sentiment-analysis)
 - [Universal Dependencies](https://github.com/UniversalDependencies/UD_Portuguese-Bosque) - Universal Dependencies (UD) Portuguese treebank.
+- [Winograd Schema Challenge](https://github.com/gabimelo/portuguese_wsc) - Solver for the Portuguese-based Winograd Schema Challenge.
 
 
 ### Multilingual datasets
