@@ -63,6 +63,7 @@ List of resources and tools developed with focus on Portuguese.
 - [English-Portuguese Sentences](http://www.manythings.org/bilingual/por/) - English-Portuguese Sentences from the Tatoeba Project.
 - [WikiANN](https://huggingface.co/datasets/wikiann) - multilingual named entity recognition dataset consisting of Wikipedia articles annotated with LOC (location), PER (person), and ORG (organisation) tags in the IOB2 format.
 - [WikiMatrix](https://github.com/facebookresearch/LASER/tree/main/tasks/WikiMatrix) - Parallel Sentences in 1620 Language Pairs from Wikipedia.
+- [Wikipedia](https://huggingface.co/datasets/wikipedia) - Wikipedia dataset containing cleaned articles of all languages.
 
 ## Lexicon
 
@@ -72,7 +73,7 @@ List of resources and tools developed with focus on Portuguese.
 - [lexiconPT](https://github.com/sillasgonzaga/lexiconPT) - R package that provides lexicons for Portuguese Text Analysis.
 - [LIWC](http://nilc.icmc.usp.br/portlex/index.php/en/liwc) - Linguistic Inquiry and Word Count ([dictionary](https://sites.icmc.usp.br/sandra/LIWC/LIWC2007_Portugues_win.dic))
 - [Onto.PT](http://ontopt.dei.uc.pt/) - Ontologia Lexical para o Português.
-- [OpenWordnet-PT](https://github.com/own-pt/openWordnet-PT) - an open access wordnet for Portuguese.
+- [OpenWordnet-PT](https://github.com/own-pt/openWordnet-PT) - an open access wordnet for Portuguese ([site](http://wn.mybluemix.net/)).
 - [OpLexicon](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/oplexicon/) - a sentiment lexicon for the Portuguese language.
 - [PAPEL](https://www.linguateca.pt/PAPEL/)
 - [PULO](http://wordnet.pt/) - Portuguese Unified Lexical Ontology.
