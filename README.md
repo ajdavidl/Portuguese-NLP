@@ -44,6 +44,7 @@ List of resources and tools developed with focus on Portuguese.
 - [SQUAD-PT v1.1](https://github.com/nunorc/squad-v1.1-pt) - Portuguese translation of the SQuAD dataset.
 - [SQUAD-PT v2.0](https://github.com/cjaniake/squad_v2.0_pt) - Portuguese translation of SQuAD 2.0 dataset.
 - [Textual Complexity Corpus](https://github.com/gazzola/corpus_readability_nlp_portuguese) - Textual Complexity Corpus for School Internships in the Brazilian Educational System.
+- [ToLD-Br](https://huggingface.co/datasets/told-br) - Toxic Language Detection in Social Media for Brazilian Portuguese ([github](https://github.com/JAugusto97/ToLD-Br)).
 - [TTS-Portuguese Corpus](https://github.com/Edresson/TTS-Portuguese-Corpus) - Text To Speech Portuguese.
 - [TweetSentBR](https://bitbucket.org/HBrum/tweetsentbr/src/master/) - Tweets in Brazilian Portuguese.
 - [Tweets for Sentiment Analysis](https://www.kaggle.com/datasets/augustop/portuguese-tweets-for-sentiment-analysis)
