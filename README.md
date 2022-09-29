@@ -6,8 +6,10 @@ List of resources and tools developed with focus on Portuguese.
 
 - [ASSIN](http://nilc.icmc.usp.br/assin/) - a dataset with semantic similarity score and entailment annotations.
 - [ASSIN 2](https://sites.google.com/view/assin2) - sequence of ASSIN.
-- [BrWaC](https://www.inf.ufrgs.br/pln/wiki/index.php?title=BrWaC) - Brazilian Portuguese Web as Corpus.
 - [BlogSet-BR](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/blogset-br-english/) - a collection of posts gathered from Blogspot platform written by Brazillian users.
+- [Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) - Brazilian E-Commerce Public Dataset by Olist store.
+- [Brazilian TCU's judgments](https://www.kaggle.com/datasets/ferraz/acordaos-tcu) - Judgments of Federal Court of Accounts - Brazil (TCU).
+- [BrWaC](https://www.inf.ufrgs.br/pln/wiki/index.php?title=BrWaC) - Brazilian Portuguese Web as Corpus.
 - [B2W-Reviews01](https://github.com/americanas-tech/b2w-reviews01) - product reviews.
 - [Capes](https://huggingface.co/datasets/capes) - parallel corpus of theses and dissertations abstracts in English and Portuguese.
 - [CC100-Portuguese](https://autonlp.ai/datasets/cc100-portuguese) - Created by Conneau & Wenzek et al. at 2020. This dataset is one of the 100 corpora of monolingual data that was processed from the January-December 2018 Commoncrawl snapshots from the CC-Net repository. 
