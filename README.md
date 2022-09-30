@@ -30,7 +30,6 @@ List of resources and tools developed with focus on Portuguese.
 - [News-Crawl-PT](https://data.statmt.org/news-crawl/pt/) - Monolingual News Crawl used for WMT.
 - [News of the site Folha de São Paulo](https://www.kaggle.com/datasets/marlesson/news-of-the-site-folhauol)
 - [NER in Brazilian Portuguese tweets](https://www.kaggle.com/datasets/rafaelperes/ner-in-brazilian-portuguese-tweets) - Twitter messages in pt-br annotated for the entities PER, LOC and ORG.
-- [NER-datasets for Portuguese](https://github.com/davidsbatista/NER-datasets/tree/master/Portuguese)
 - [Parallel Corpora from Revista Pesquisa FAPESP](http://www.nilc.icmc.usp.br/nilc/tools/Fapesp%20Corpora.htm) - Portuguese-English and Portuguese-Spanish bilingual collections of the online issues of the scientific news Brazilian magazine Revista Pesquisa FAPESP.
 - [PLUE](https://github.com/ju-resplande/PLUE) - Portuguese translation of the GLUE benchmark and Scitail dataset.
 - [PorSimplesSent](https://github.com/sidleal/porsimplessent) - of aligned sentences pairs to investigate sentence readability assessment.
@@ -146,6 +145,7 @@ List of resources and tools developed with focus on Portuguese.
 
 - [Annotated Semantic Relationships Datasets](https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets)
 - [Linguistic datasets](https://github.com/EticaAI/linguistic-datasets-portuguese) - Linguistic Datasets for Portuguese.
+- [NER-datasets for Portuguese](https://github.com/davidsbatista/NER-datasets/tree/master/Portuguese)
 
 ## Other links
 
