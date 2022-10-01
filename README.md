@@ -22,6 +22,7 @@ List of resources and tools developed with focus on Portuguese.
 - [Floresta Sintá(c)tica](https://www.linguateca.pt/Floresta/) - treebank for Portuguese.
 - [HAREM first](https://www.linguateca.pt/primeiroHAREM/harem_coleccaodourada_en.html) - evaluation contest for named entity recognizers in Portuguese.
 - [HAREM second](https://www.linguateca.pt/HAREM/) - evaluation contest for named entity recognizers in Portuguese.
+- [HateBR](https://github.com/franciellevargas/HateBR) - large-scale expert annotated corpus of Brazilian Instagram comments for hate speech and offensive language detection on the web and social media.
 - [Historical Portuguese Corpora](http://www.nilc.icmc.usp.br/nilc/projects/hpc/) - tools and resources for manipulation of historical corpora and management of historical dictionaries.
 - [LeNER-Br](https://github.com/peluz/lener-br) - a Dataset for Named Entity Recognition in Brazilian Legal Text.
 - [Lex2Kids](http://www.nilc.icmc.usp.br/leg2kids/) - lexicon in Portuguese most heard by children.
