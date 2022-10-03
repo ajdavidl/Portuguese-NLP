@@ -137,6 +137,7 @@ List of resources and tools developed with focus on Portuguese.
 - [BrGram](https://github.com/LR-POR/BrGram) - Computational grammar fragment of Brazilian Portuguese in the LFG formalism implemented in XLE.
 - [Languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages.
 - [LegalNLP](https://github.com/felipemaiapolo/legalnlp) - Natural Language Processing Methods for the Brazilian Legal Language.
+- [LexML Parser](https://github.com/lexml/lexml-parser-projeto-lei) - parser for legal documents.
 - [mlconjug3](https://github.com/SekouDiaoNlp/mlconjug3) - a Python library to conjugate verbs in Portuguese and other languages.
 - [MorphoBr](https://github.com/LR-POR/MorphoBr) - Resources for morphological analysis of Portuguese.
 - [OpCluster](https://github.com/franciellevargas/Opcluster) - Automatic extraction and clustering of fine-grained opinions.
