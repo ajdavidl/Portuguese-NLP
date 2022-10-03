@@ -60,6 +60,7 @@ List of resources and tools developed with focus on Portuguese.
 - [mc4](https://huggingface.co/datasets/mc4/viewer/pt/train) - multilingual colossal, cleaned version of Common Crawl's web crawl corpus. Based on Common Crawl dataset.
 - [mfaq](https://huggingface.co/datasets/clips/mfaq) - multilingual corpus of Frequently Asked Questions parsed from the Common Crawl.
 - [MQA](https://huggingface.co/datasets/clips/mqa) - multilingual corpus of Questions and Answers (MQA) parsed from the Common Crawl.
+- [MuST-C](https://ict.fbk.eu/must-c/) - multilingual speech translation corpus.
 - [OSCAR](https://oscar-corpus.com/) - Open Super-large Crawled Aggregated coRpus.
 - [OpenSubtitles](https://opus.nlpl.eu/OpenSubtitles.php) - collection of translated movie subtitles.
 - [Tatoeba](https://tatoeba.org/en/downloads) - a large database of sentences and translations. 
