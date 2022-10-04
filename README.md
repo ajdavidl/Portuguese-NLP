@@ -17,6 +17,7 @@ List of resources and tools developed with focus on Portuguese.
 - [CHAVE](https://www.linguateca.pt/CHAVE/) - collection for Information Retrieval and Question Answering.
 - [Complexidade Textual para Estágios Escolares do Sistema Educacional Brasileiro](https://github.com/gazzola/corpus_readability_nlp_portuguese)
 - [CORAA](https://github.com/nilc-nlp/CORAA) - dataset for Automatic Speech Recognition.
+- [DEEPAGÉ](https://github.com/C4AI/deepage) - Answering Questions in Portuguese about the Brazilian Environment.
 - [DNLT-BP](https://github.com/nilc-nlp/DNLT-BP) - Datasets of Neuropsychological Language Tests in Brazilian Portuguese.
 - [FakeRecogna](https://github.com/Gabriel-Lino-Garcia/FakeRecogna) - dataset comprised of real and fake news.
 - [Floresta Sintá(c)tica](https://www.linguateca.pt/Floresta/) - treebank for Portuguese.
@@ -32,8 +33,10 @@ List of resources and tools developed with focus on Portuguese.
 - [News of the site Folha de São Paulo](https://www.kaggle.com/datasets/marlesson/news-of-the-site-folhauol)
 - [NER in Brazilian Portuguese tweets](https://www.kaggle.com/datasets/rafaelperes/ner-in-brazilian-portuguese-tweets) - Twitter messages in pt-br annotated for the entities PER, LOC and ORG.
 - [Parallel Corpora from Revista Pesquisa FAPESP](http://www.nilc.icmc.usp.br/nilc/tools/Fapesp%20Corpora.htm) - Portuguese-English and Portuguese-Spanish bilingual collections of the online issues of the scientific news Brazilian magazine Revista Pesquisa FAPESP.
+- [Pirá](https://github.com/C4AI/Pira) - A Bilingual Portuguese-English Dataset for Question-Answering about the Ocean.
 - [PLUE](https://github.com/ju-resplande/PLUE) - Portuguese translation of the GLUE benchmark and Scitail dataset.
 - [PorSimplesSent](https://github.com/sidleal/porsimplessent) - of aligned sentences pairs to investigate sentence readability assessment.
+- [PraCegoVer](https://github.com/larocs/PraCegoVer) - multi-modal dataset containing images associated to Portuguese captions based on posts from Instagram.
 - [Priberam Fine-Grained Opinion Corpus](http://labs.priberam.pt/Resources/Fine-Grained-Opinion-Corpus.aspx) - a Portuguese fine-grained dependency opinion mining corpus.
 - [Propbank](http://143.107.183.175:21380/portlex/index.php/en/downloadsingl) - Contains instances annotated with semantic role labels (SRL). 
 - [Projeto ACDC](https://www.linguateca.pt/ACDC/) - Internet Access to Corpora.
@@ -141,6 +144,7 @@ List of resources and tools developed with focus on Portuguese.
 - [mlconjug3](https://github.com/SekouDiaoNlp/mlconjug3) - a Python library to conjugate verbs in Portuguese and other languages.
 - [MorphoBr](https://github.com/LR-POR/MorphoBr) - Resources for morphological analysis of Portuguese.
 - [OpCluster](https://github.com/franciellevargas/Opcluster) - Automatic extraction and clustering of fine-grained opinions.
+- [Phonemizer](https://github.com/bootphon/phonemizer) - Simple text to phones converter for multiple languages.
 - [PorGram](https://github.com/LR-POR/PorGram) - pen source computational grammar for Portuguese in the HPSG formalism.
 - [Verbecc](https://github.com/bretttolbert/verbecc) - Complete Conjugation of any Verb using Machine Learning for French, Spanish, Portuguese, Italian and Romanian.
 
