@@ -29,9 +29,10 @@ List of resources and tools developed with focus on Portuguese.
 - [Lex2Kids](http://www.nilc.icmc.usp.br/leg2kids/) - lexicon in Portuguese most heard by children.
 - [Mac-Morpho](http://www.nilc.icmc.usp.br/macmorpho/) - Brazilian Portuguese texts annotated with part-of-speech tags.
 - [MilkQA](http://www.nilc.icmc.usp.br/nilc/index.php/milkqa/) - a dataset of dense questions for the task of answer selection.
+- [NER in Brazilian Portuguese tweets](https://www.kaggle.com/datasets/rafaelperes/ner-in-brazilian-portuguese-tweets) - Twitter messages in pt-br annotated for the entities PER, LOC and ORG.
 - [News-Crawl-PT](https://data.statmt.org/news-crawl/pt/) - Monolingual News Crawl used for WMT.
 - [News of the site Folha de São Paulo](https://www.kaggle.com/datasets/marlesson/news-of-the-site-folhauol)
-- [NER in Brazilian Portuguese tweets](https://www.kaggle.com/datasets/rafaelperes/ner-in-brazilian-portuguese-tweets) - Twitter messages in pt-br annotated for the entities PER, LOC and ORG.
+- [News published in Brazil](https://www.kaggle.com/datasets/diogocaliman/notcias-publicadas-no-brasil)
 - [Parallel Corpora from Revista Pesquisa FAPESP](http://www.nilc.icmc.usp.br/nilc/tools/Fapesp%20Corpora.htm) - Portuguese-English and Portuguese-Spanish bilingual collections of the online issues of the scientific news Brazilian magazine Revista Pesquisa FAPESP.
 - [Pirá](https://github.com/C4AI/Pira) - A Bilingual Portuguese-English Dataset for Question-Answering about the Ocean.
 - [PLUE](https://github.com/ju-resplande/PLUE) - Portuguese translation of the GLUE benchmark and Scitail dataset.
