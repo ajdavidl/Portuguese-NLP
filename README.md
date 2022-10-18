@@ -74,6 +74,7 @@ List of resources and tools developed with focus on Portuguese.
 - [Tatoeba](https://tatoeba.org/en/downloads) - a large database of sentences and translations. 
 - [English-Portuguese Sentences](http://www.manythings.org/bilingual/por/) - English-Portuguese Sentences from the Tatoeba Project.
 - [WikiANN](https://huggingface.co/datasets/wikiann) - multilingual named entity recognition dataset consisting of Wikipedia articles annotated with LOC (location), PER (person), and ORG (organisation) tags in the IOB2 format.
+- [WikiLingua](https://github.com/esdurmus/Wikilingua) - Multilingual abstractive summarization dataset extracted from WikiHow.
 - [WikiMatrix](https://github.com/facebookresearch/LASER/tree/main/tasks/WikiMatrix) - Parallel Sentences in 1620 Language Pairs from Wikipedia.
 - [Wikiner](https://figshare.com/articles/dataset/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500) - Learning multilingual named entity recognition from Wikipedia.
 - [WikiNEuRal](https://github.com/Babelscape/wikineural) - Combined Neural and Knowledge-based Silver Data Creation for Multilingual NER (EMNLP 2021).
