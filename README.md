@@ -29,6 +29,7 @@ List of resources and tools developed with focus on Portuguese.
 - [HAREM second](https://www.linguateca.pt/HAREM/) - evaluation contest for named entity recognizers in Portuguese.
 - [HateBR](https://github.com/franciellevargas/HateBR) - large-scale expert annotated corpus of Brazilian Instagram comments for hate speech and offensive language detection on the web and social media.
 - [Historical Portuguese Corpora](http://www.nilc.icmc.usp.br/nilc/projects/hpc/) - tools and resources for manipulation of historical corpora and management of historical dictionaries.
+- [Iudicium Textum Dataset](http://dadosabertos.c3sl.ufpr.br/acordaos/) - contains legal documents created by Brazilian Federal Supreme Court in its integral composition ([paper](https://www.researchgate.net/publication/336022563_Iudicium_Textum_Dataset_Uma_Base_de_Textos_Juridicos_para_NLP)).
 - [LeNER-Br](https://github.com/peluz/lener-br) - a Dataset for Named Entity Recognition in Brazilian Legal Text.
 - [Lex2Kids](http://www.nilc.icmc.usp.br/leg2kids/) - lexicon in Portuguese most heard by children.
 - [Mac-Morpho](http://www.nilc.icmc.usp.br/macmorpho/) - Brazilian Portuguese texts annotated with part-of-speech tags.
@@ -46,6 +47,7 @@ List of resources and tools developed with focus on Portuguese.
 - [Propbank](http://143.107.183.175:21380/portlex/index.php/en/downloadsingl) - Contains instances annotated with semantic role labels (SRL). 
 - [Projeto ACDC](https://www.linguateca.pt/ACDC/) - Internet Access to Corpora.
 - [ReLi](https://www.linguateca.pt/Repositorio/ReLi/) - REsenha de LIvros.
+- [Rhetalho](https://sites.icmc.usp.br/taspardo/rhetalho.zip) - corpus annotated with Daniel Marcu's RSTTool.
 - [SESAME](https://sesame-pt.github.io/) - corpus for NER in portuguese.
 - [SIGARRA News Corpus](https://rdm.inesctec.pt/dataset/cs-2017-004) - SIGARRA information system at the University of Porto.
 - [SIMPLEX-PB](https://github.com/nathanshartmann/SIMPLEX-PB) - A Lexical Simplification Database and Benchmark for Portuguese.
