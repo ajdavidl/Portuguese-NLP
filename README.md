@@ -108,6 +108,7 @@ List of resources and tools developed with focus on Portuguese.
 - [GPT2 small](https://huggingface.co/pierreguillou/gpt2-small-portuguese)
 - [roberta-pt-br](https://huggingface.co/josu/roberta-pt-br)
 - [T5](https://github.com/unicamp-dl/PTT5)
+- [tgf-xlm-roberta-base-pt-br](https://huggingface.co/thegoodfellas/tgf-xlm-roberta-base-pt-br) ([Github](https://github.com/the-good-fellas/xlm-roberta-pt-br))
 - [Wav2vec](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-portuguese)
 
 ### Multilingual Models
