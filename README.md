@@ -4,6 +4,7 @@ List of resources and tools developed with focus on Portuguese.
 
 ## Datasets
 
+- [Aspect-based annotated](https://github.com/franciellevargas/AspectPRO) - the corpus consist of implicit and explicit annotated aspects and groups of (hierarchically organized) opinion aspects for aspect-based sentiment analysis applications, as well as text summarization.
 - [ASSIN](http://nilc.icmc.usp.br/assin/) - a dataset with semantic similarity score and entailment annotations.
 - [ASSIN 2](https://sites.google.com/view/assin2) - sequence of ASSIN.
 - [BlogSet-BR](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/blogset-br-english/) - a collection of posts gathered from Blogspot platform written by Brazillian users.
@@ -61,6 +62,7 @@ List of resources and tools developed with focus on Portuguese.
 - [TweetSentBR](https://bitbucket.org/HBrum/tweetsentbr/src/master/) - Tweets in Brazilian Portuguese.
 - [Tweets for Sentiment Analysis](https://www.kaggle.com/datasets/augustop/portuguese-tweets-for-sentiment-analysis)
 - [Universal Dependencies](https://github.com/UniversalDependencies/UD_Portuguese-Bosque) - Universal Dependencies (UD) Portuguese treebank.
+- [UTLCorpus](https://github.com/RogerFig/UTLCorpus) - a corpus of online reviews in Brazilian Portuguese annotated with helpfulness classification.
 - [Winograd Schema Challenge](https://github.com/gabimelo/portuguese_wsc) - Solver for the Portuguese-based Winograd Schema Challenge.
 
 
