@@ -70,6 +70,7 @@ List of resources and tools developed with focus on Portuguese.
 
 ### Multilingual datasets
 
+- [English-Portuguese Sentences](http://www.manythings.org/bilingual/por/) - English-Portuguese Sentences from the Tatoeba Project.
 - [EUR-Lex](https://www.sketchengine.eu/eurlex-corpus/) - multilingual corpus in all the official languages of the European Union.
 - [Europarl-ST](https://www.mllp.upv.es/europarl-st/) - Multilingual Speech Translation Corpus, that contains paired audio-text samples for Speech Translation, constructed using the debates carried out in the European Parliament in the period between 2008 and 2012.
 - [mc4](https://huggingface.co/datasets/mc4/viewer/pt/train) - multilingual colossal, cleaned version of Common Crawl's web crawl corpus. Based on Common Crawl dataset.
@@ -79,7 +80,7 @@ List of resources and tools developed with focus on Portuguese.
 - [OSCAR](https://oscar-corpus.com/) - Open Super-large Crawled Aggregated coRpus.
 - [OpenSubtitles](https://opus.nlpl.eu/OpenSubtitles.php) - collection of translated movie subtitles.
 - [Tatoeba](https://tatoeba.org/en/downloads) - a large database of sentences and translations. 
-- [English-Portuguese Sentences](http://www.manythings.org/bilingual/por/) - English-Portuguese Sentences from the Tatoeba Project.
+- [TED2020](https://opus.nlpl.eu/TED2020.php) - contains a crawl of nearly 4000 TED and TED-X transcripts from July 2020. 
 - [WikiANN](https://huggingface.co/datasets/wikiann) - multilingual named entity recognition dataset consisting of Wikipedia articles annotated with LOC (location), PER (person), and ORG (organisation) tags in the IOB2 format.
 - [WikiLingua](https://github.com/esdurmus/Wikilingua) - Multilingual abstractive summarization dataset extracted from WikiHow.
 - [WikiMatrix](https://github.com/facebookresearch/LASER/tree/main/tasks/WikiMatrix) - Parallel Sentences in 1620 Language Pairs from Wikipedia.
