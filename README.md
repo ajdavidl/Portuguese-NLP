@@ -74,8 +74,8 @@ List of resources and tools developed with focus on Portuguese.
 - [EUR-Lex](https://www.sketchengine.eu/eurlex-corpus/) - multilingual corpus in all the official languages of the European Union.
 - [Europarl-ST](https://www.mllp.upv.es/europarl-st/) - Multilingual Speech Translation Corpus, that contains paired audio-text samples for Speech Translation, constructed using the debates carried out in the European Parliament in the period between 2008 and 2012.
 - [mc4](https://huggingface.co/datasets/mc4/viewer/pt/train) - multilingual colossal, cleaned version of Common Crawl's web crawl corpus. Based on Common Crawl dataset.
-- [MKQA](https://huggingface.co/datasets/mkqa) - Multilingual Knowledge Questions & Answers ([github](https://github.com/apple/ml-mkqa)).
 - [mfaq](https://huggingface.co/datasets/clips/mfaq) - multilingual corpus of Frequently Asked Questions parsed from the Common Crawl.
+- [MKQA](https://huggingface.co/datasets/mkqa) - Multilingual Knowledge Questions & Answers ([github](https://github.com/apple/ml-mkqa)).
 - [MQA](https://huggingface.co/datasets/clips/mqa) - multilingual corpus of Questions and Answers (MQA) parsed from the Common Crawl.
 - [MuST-C](https://ict.fbk.eu/must-c/) - multilingual speech translation corpus.
 - [OSCAR](https://oscar-corpus.com/) - Open Super-large Crawled Aggregated coRpus.
@@ -88,6 +88,7 @@ List of resources and tools developed with focus on Portuguese.
 - [Wikiner](https://figshare.com/articles/dataset/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500) - Learning multilingual named entity recognition from Wikipedia.
 - [WikiNEuRal](https://github.com/Babelscape/wikineural) - Combined Neural and Knowledge-based Silver Data Creation for Multilingual NER (EMNLP 2021).
 - [Wikipedia](https://huggingface.co/datasets/wikipedia) - Wikipedia dataset containing cleaned articles of all languages.
+- [XFORMAL](https://github.com/Elbria/xformal-FoST) - A Benchmark for Multilingual Formality Style Transfer.
 
 ## Lexicon
 
