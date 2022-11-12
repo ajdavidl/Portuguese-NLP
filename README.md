@@ -158,6 +158,7 @@ List of resources and tools developed with focus on Portuguese.
 
 - [Autocorrect](https://github.com/filyp/autocorrect) - Spelling corrector in python.
 - [BrGram](https://github.com/LR-POR/BrGram) - Computational grammar fragment of Brazilian Portuguese in the LFG formalism implemented in XLE.
+- [Dicio API](https://github.com/ThiagoNelsi/dicio-api) - Portuguese dictionary API.
 - [Languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages.
 - [LegalNLP](https://github.com/felipemaiapolo/legalnlp) - Natural Language Processing Methods for the Brazilian Legal Language.
 - [LexML Parser](https://github.com/lexml/lexml-parser-projeto-lei) - parser for legal documents.
