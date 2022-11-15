@@ -176,7 +176,8 @@ List of resources and tools developed with focus on Portuguese.
 - [Linguistic datasets](https://github.com/EticaAI/linguistic-datasets-portuguese) - Linguistic Datasets for Portuguese.
 - [NER-datasets for Portuguese](https://github.com/davidsbatista/NER-datasets/tree/master/Portuguese)
 - [NILC](http://www.nilc.icmc.usp.br/nilc/index.php/tools-and-resources)
-- [NILC 2](https://sites.icmc.usp.br/taspardo/Projects.htm)
+- [NILC 2](https://sites.google.com/view/nilc-usp/resources-and-tools)
+- [NILC 3](https://sites.icmc.usp.br/taspardo/Projects.htm)
 
 
 ## Other links
