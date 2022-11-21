@@ -12,6 +12,7 @@ List of resources and tools developed with focus on Portuguese.
 - [Brazilian Portuguese Literature Corpus](https://www.kaggle.com/datasets/rtatman/brazilian-portuguese-literature-corpus) - 3.7 million word corpus of Brazilian literature published between 1840-1908.
 - [Brazilian TCU's judgments](https://www.kaggle.com/datasets/ferraz/acordaos-tcu) - Judgments of Federal Court of Accounts - Brazil (TCU).
 - [BrWaC](https://www.inf.ufrgs.br/pln/wiki/index.php?title=BrWaC) - Brazilian Portuguese Web as Corpus.
+- [BrWac2Wiki](https://github.com/aseidelo/BrWac2Wiki) - a dataset for multi-document summarization in Portuguese.
 - [B2W-Reviews01](https://github.com/americanas-tech/b2w-reviews01) - product reviews.
 - [Capes](https://huggingface.co/datasets/capes) - parallel corpus of theses and dissertations abstracts in English and Portuguese.
 - [CC100-Portuguese](https://autonlp.ai/datasets/cc100-portuguese) - Created by Conneau & Wenzek et al. at 2020. This dataset is one of the 100 corpora of monolingual data that was processed from the January-December 2018 Commoncrawl snapshots from the CC-Net repository. 
@@ -161,6 +162,7 @@ List of resources and tools developed with focus on Portuguese.
 - [Autocorrect](https://github.com/filyp/autocorrect) - Spelling corrector in python.
 - [BrGram](https://github.com/LR-POR/BrGram) - Computational grammar fragment of Brazilian Portuguese in the LFG formalism implemented in XLE.
 - [Dicio API](https://github.com/ThiagoNelsi/dicio-api) - Portuguese dictionary API.
+- [dict-pt-br](https://github.com/VisualText/dict-pt-br) - dictionary for Brazilian Portuguese.
 - [Languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages.
 - [LegalNLP](https://github.com/felipemaiapolo/legalnlp) - Natural Language Processing Methods for the Brazilian Legal Language.
 - [LexML Parser](https://github.com/lexml/lexml-parser-projeto-lei) - parser for legal documents.
