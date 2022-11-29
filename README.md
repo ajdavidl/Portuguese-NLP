@@ -75,6 +75,7 @@ List of resources and tools developed with focus on Portuguese.
 
 - [English-Portuguese Sentences](http://www.manythings.org/bilingual/por/) - English-Portuguese Sentences from the Tatoeba Project.
 - [EUR-Lex](https://www.sketchengine.eu/eurlex-corpus/) - multilingual corpus in all the official languages of the European Union.
+- [Europarl](https://www.statmt.org/europarl/) - European Parliament Proceedings Parallel Corpus 1996-2011.
 - [Europarl-ST](https://www.mllp.upv.es/europarl-st/) - Multilingual Speech Translation Corpus, that contains paired audio-text samples for Speech Translation, constructed using the debates carried out in the European Parliament in the period between 2008 and 2012.
 - [mc4](https://huggingface.co/datasets/mc4/viewer/pt/train) - multilingual colossal, cleaned version of Common Crawl's web crawl corpus. Based on Common Crawl dataset.
 - [mfaq](https://huggingface.co/datasets/clips/mfaq) - multilingual corpus of Frequently Asked Questions parsed from the Common Crawl.
