@@ -24,6 +24,8 @@ List of resources and tools developed with focus on Portuguese.
 - [CSTNews](https://sites.icmc.usp.br/taspardo/sucinto/cstnews.html) - a corpus with 50 clusters of news texts with their multi-document summaries, as well as several discourse and semantic annotations.
 - [DEEPAGÉ](https://github.com/C4AI/deepage) - Answering Questions in Portuguese about the Brazilian Environment.
 - [DNLT-BP](https://github.com/nilc-nlp/DNLT-BP) - Datasets of Neuropsychological Language Tests in Brazilian Portuguese.
+- [Essay-BR](https://github.com/rafaelanchieta/essay) - Essay-BR: a corpus of essays for the Brazilian Portuguese language.
+- [Extended Essay-BR](https://github.com/lplnufpi/essay-br) - Extended version of the Essay-BR corpus.
 - [FACTCK.BR](https://github.com/jghm-f/FACTCK.BR) - A dataset to study Fake News in Portuguese.
 - [Fake.Br](https://github.com/roneysco/Fake.br-Corpus) - aligned true and fake news written in Brazilian Portuguese.
 - [FakeRecogna](https://github.com/Gabriel-Lino-Garcia/FakeRecogna) - dataset comprised of real and fake news.
