@@ -173,7 +173,7 @@ List of resources and tools developed with focus on Portuguese.
 - [MorphoBr](https://github.com/LR-POR/MorphoBr) - Resources for morphological analysis of Portuguese.
 - [OpCluster](https://github.com/franciellevargas/Opcluster) - Automatic extraction and clustering of fine-grained opinions.
 - [Phonemizer](https://github.com/bootphon/phonemizer) - Simple text to phones converter for multiple languages.
-- [PorGram](https://github.com/LR-POR/PorGram) - pen source computational grammar for Portuguese in the HPSG formalism.
+- [PorGram](https://github.com/LR-POR/PorGram) - Open source computational grammar for Portuguese in the HPSG formalism.
 - [Verbecc](https://github.com/bretttolbert/verbecc) - Complete Conjugation of any Verb using Machine Learning for French, Spanish, Portuguese, Italian and Romanian.
 
 ## Other lists
