@@ -14,6 +14,7 @@ List of resources and tools developed with focus on Portuguese.
 - [BrWaC](https://www.inf.ufrgs.br/pln/wiki/index.php?title=BrWaC) - Brazilian Portuguese Web as Corpus.
 - [BrWac2Wiki](https://github.com/aseidelo/BrWac2Wiki) - a dataset for multi-document summarization in Portuguese.
 - [B2W-Reviews01](https://github.com/americanas-tech/b2w-reviews01) - product reviews.
+- [Carolina](https://sites.usp.br/corpuscarolina/) - Corpus Geral do Português Brasileiro Contemporâneo.
 - [Capes](https://huggingface.co/datasets/capes) - parallel corpus of theses and dissertations abstracts in English and Portuguese.
 - [CC100-Portuguese](https://autonlp.ai/datasets/cc100-portuguese) - Created by Conneau & Wenzek et al. at 2020. This dataset is one of the 100 corpora of monolingual data that was processed from the January-December 2018 Commoncrawl snapshots from the CC-Net repository. 
 - [CETENFolha](https://www.linguateca.pt/cetenfolha/index_info.html) - news from the newspaper Folha de S. Paulo.
@@ -47,14 +48,17 @@ List of resources and tools developed with focus on Portuguese.
 - [Parallel Corpora from Revista Pesquisa FAPESP](http://www.nilc.icmc.usp.br/nilc/tools/Fapesp%20Corpora.htm) - Portuguese-English and Portuguese-Spanish bilingual collections of the online issues of the scientific news Brazilian magazine Revista Pesquisa FAPESP.
 - [Pirá](https://github.com/C4AI/Pira) - A Bilingual Portuguese-English Dataset for Question-Answering about the Ocean.
 - [PLUE](https://github.com/ju-resplande/PLUE) - Portuguese translation of the GLUE benchmark and Scitail dataset.
+- [POeTiSA](https://sites.google.com/icmc.usp.br/poetisa) - POrtuguese processing - Towards Syntactic Analysis and parsing.
 - [PorSimplesSent](https://github.com/sidleal/porsimplessent) - of aligned sentences pairs to investigate sentence readability assessment.
 - [PortiLexicon-UD](https://portilexicon.icmc.usp.br/) -  a lexicon for Brazilian Portuguese according to Universal Dependencies.
+- [Portuguese Presidential Elections](https://github.com/msramalho/election-watch/blob/master/datasets/01_portuguese_presidential_elections_2021_01_24.md) - This dataset contains tweets and users mostly from the Portuguese Twittersphere.
 - [PraCegoVer](https://github.com/larocs/PraCegoVer) - multi-modal dataset containing images associated to Portuguese captions based on posts from Instagram.
 - [Priberam Fine-Grained Opinion Corpus](http://labs.priberam.pt/Resources/Fine-Grained-Opinion-Corpus.aspx) - a Portuguese fine-grained dependency opinion mining corpus.
 - [Propbank](http://143.107.183.175:21380/portlex/index.php/en/downloadsingl) - Contains instances annotated with semantic role labels (SRL). 
 - [Projeto ACDC](https://www.linguateca.pt/ACDC/) - Internet Access to Corpora.
 - [ReLi](https://www.linguateca.pt/Repositorio/ReLi/) - REsenha de LIvros.
 - [Rhetalho](https://sites.icmc.usp.br/taspardo/rhetalho.zip) - corpus annotated with Daniel Marcu's RSTTool.
+- [SemClinBr](https://github.com/HAILab-PUCPR/SemClinBr) - multi-institutional and multi-specialty semantically annotated corpus for Portuguese clinical NLP tasks.
 - [SESAME](https://sesame-pt.github.io/) - corpus for NER in portuguese.
 - [SIGARRA News Corpus](https://rdm.inesctec.pt/dataset/cs-2017-004) - SIGARRA information system at the University of Porto.
 - [SIMPLEX-PB](https://github.com/nathanshartmann/SIMPLEX-PB) - A Lexical Simplification Database and Benchmark for Portuguese.
