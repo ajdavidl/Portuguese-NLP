@@ -110,7 +110,9 @@ List of resources and tools developed with focus on Portuguese.
 - [Onto.PT](http://ontopt.dei.uc.pt/) - Ontologia Lexical para o Português.
 - [OpenWordnet-PT](https://github.com/own-pt/openWordnet-PT) - an open access wordnet for Portuguese ([site](http://wn.mybluemix.net/)).
 - [OpLexicon](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/oplexicon/) - a sentiment lexicon for the Portuguese language.
+- [palavras](https://github.com/pythonprobr/palavras) - Word list of Brazillian Portuguese.
 - [PAPEL](https://www.linguateca.pt/PAPEL/)
+- [pt-br](https://github.com/fserb/pt-br) - Wordlist, verbs, conjugations, term frequencies.
 - [PULO](http://wordnet.pt/) - Portuguese Unified Lexical Ontology.
 - [SentiLex-PT](http://b2find.eudat.eu/dataset/b6bd16c2-a8ab-598f-be41-1e7aeecd60d3) - a sentiment lexicon for Portuguese.
 - [Stopwords](https://github.com/stopwords-iso/stopwords-pt) - Portuguese stopwords collection.
