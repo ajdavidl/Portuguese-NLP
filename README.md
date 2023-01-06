@@ -25,6 +25,7 @@ List of resources and tools developed with focus on Portuguese.
 - [CORAA](https://github.com/nilc-nlp/CORAA) - dataset for Automatic Speech Recognition.
 - [CORAA SER](https://github.com/rmarcacini/ser-coraa-pt-br) - Emotion Recognition from Brazilian Portuguese Informal Spontaneous Speech.
 - [CSTNews](https://sites.icmc.usp.br/taspardo/sucinto/cstnews.html) - a corpus with 50 clusters of news texts with their multi-document summaries, as well as several discourse and semantic annotations.
+- [C-ORAL-BRASIL](http://www.c-oral-brasil.org/english-site/index.html) - This project is dedicated to the study of Brazilian Portuguese spontaneous speech and, more broadly, to the compilation of spoken corpora.
 - [DEEPAGÉ](https://github.com/C4AI/deepage) - Answering Questions in Portuguese about the Brazilian Environment.
 - [DNLT-BP](https://github.com/nilc-nlp/DNLT-BP) - Datasets of Neuropsychological Language Tests in Brazilian Portuguese.
 - [Essay-BR](https://github.com/rafaelanchieta/essay) - Essay-BR: a corpus of essays for the Brazilian Portuguese language.
