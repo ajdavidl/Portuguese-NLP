@@ -9,6 +9,7 @@ List of resources and tools developed with focus on Portuguese.
 - [ASSIN 2](https://sites.google.com/view/assin2) - sequence of ASSIN.
 - [BlogSet-BR](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/blogset-br-english/) - a collection of posts gathered from Blogspot platform written by Brazillian users.
 - [Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) - Brazilian E-Commerce Public Dataset by Olist store.
+- [Brazilian Headlines Sentiments](https://www.kaggle.com/datasets/brunoluvizotto/brazilian-headlines-sentiments) - Dataset containing sentiment analysis of Brazilian news agencies headlines.
 - [Brazilian Portuguese Literature Corpus](https://www.kaggle.com/datasets/rtatman/brazilian-portuguese-literature-corpus) - 3.7 million word corpus of Brazilian literature published between 1840-1908.
 - [Brazilian Portuguese Sentiment Analysis Datasets](https://www.kaggle.com/datasets/fredericods/ptbr-sentiment-analysis-datasets).
 - [Brazilian TCU's judgments](https://www.kaggle.com/datasets/ferraz/acordaos-tcu) - Judgments of Federal Court of Accounts - Brazil (TCU).
