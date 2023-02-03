@@ -196,6 +196,7 @@ List of resources and tools developed with focus on Portuguese.
 - [NILC](http://www.nilc.icmc.usp.br/nilc/index.php/tools-and-resources)
 - [NILC 2](https://sites.google.com/view/nilc-usp/resources-and-tools)
 - [NILC 3](https://sites.icmc.usp.br/taspardo/Projects.htm)
+- [Opinando](https://sites.google.com/icmc.usp.br/opinando/p%C3%A1gina-inicial) - Opinion Mining for Portuguese.
 
 
 ## Other links
