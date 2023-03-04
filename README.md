@@ -96,6 +96,7 @@ List of resources and tools developed with focus on Portuguese.
 - [OpenSubtitles](https://opus.nlpl.eu/OpenSubtitles.php) - collection of translated movie subtitles.
 - [Tatoeba](https://tatoeba.org/en/downloads) - a large database of sentences and translations. 
 - [TED2020](https://opus.nlpl.eu/TED2020.php) - contains a crawl of nearly 4000 TED and TED-X transcripts from July 2020. 
+- [TSAR-2022-Shared-Task](https://github.com/LaSTUS-TALN-UPF/TSAR-2022-Shared-Task) - TSAR2022 Shared Task on Lexical Simplification.
 - [WikiANN](https://huggingface.co/datasets/wikiann) - multilingual named entity recognition dataset consisting of Wikipedia articles annotated with LOC (location), PER (person), and ORG (organisation) tags in the IOB2 format.
 - [WikiLingua](https://github.com/esdurmus/Wikilingua) - Multilingual abstractive summarization dataset extracted from WikiHow.
 - [WikiMatrix](https://github.com/facebookresearch/LASER/tree/main/tasks/WikiMatrix) - Parallel Sentences in 1620 Language Pairs from Wikipedia.
