@@ -8,6 +8,7 @@ List of resources and tools developed with focus on Portuguese.
 - [ASSIN](http://nilc.icmc.usp.br/assin/) - a dataset with semantic similarity score and entailment annotations.
 - [ASSIN 2](https://sites.google.com/view/assin2) - sequence of ASSIN.
 - [BlogSet-BR](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/blogset-br-english/) - a collection of posts gathered from Blogspot platform written by Brazillian users.
+- [br-quad-2.0](https://github.com/piEsposito/br-quad-2.0) - Stanford Question Answering Dataset (SQuAD) 2.0 translated to Brazilian Portuguese (PT-BR) language. 
 - [Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) - Brazilian E-Commerce Public Dataset by Olist store.
 - [Brazilian Headlines Sentiments](https://www.kaggle.com/datasets/brunoluvizotto/brazilian-headlines-sentiments) - Dataset containing sentiment analysis of Brazilian news agencies headlines.
 - [Brazilian Portuguese Literature Corpus](https://www.kaggle.com/datasets/rtatman/brazilian-portuguese-literature-corpus) - 3.7 million word corpus of Brazilian literature published between 1840-1908.
@@ -79,7 +80,6 @@ List of resources and tools developed with focus on Portuguese.
 - [Universal Dependencies](https://github.com/UniversalDependencies/UD_Portuguese-Bosque) - Universal Dependencies (UD) Portuguese treebank.
 - [UTLCorpus](https://github.com/RogerFig/UTLCorpus) - a corpus of online reviews in Brazilian Portuguese annotated with helpfulness classification.
 - [Winograd Schema Challenge](https://github.com/gabimelo/portuguese_wsc) - Solver for the Portuguese-based Winograd Schema Challenge.
-
 
 ### Multilingual datasets
 
