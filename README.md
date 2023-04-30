@@ -77,7 +77,11 @@ List of resources and tools developed with focus on Portuguese.
 - [TTS-Portuguese Corpus](https://github.com/Edresson/TTS-Portuguese-Corpus) - Text To Speech Portuguese.
 - [TweetSentBR](https://bitbucket.org/HBrum/tweetsentbr/src/master/) - Tweets in Brazilian Portuguese.
 - [Tweets for Sentiment Analysis](https://www.kaggle.com/datasets/augustop/portuguese-tweets-for-sentiment-analysis)
-- [Universal Dependencies](https://github.com/UniversalDependencies/UD_Portuguese-Bosque) - Universal Dependencies (UD) Portuguese treebank.
+- [UD_Portuguese-Bosque](https://github.com/UniversalDependencies/UD_Portuguese-Bosque) - Universal Dependencies (UD) Portuguese treebank.
+- [UD_Portuguese-CINTIL](https://github.com/UniversalDependencies/UD_Portuguese-CINTIL) - Universal Dependencies (UD) Portuguese treebank.
+- [UD_Portuguese-GSD](https://github.com/UniversalDependencies/UD_Portuguese-GSD) - Universal Dependencies (UD) Portuguese treebank.
+- [UD_Portuguese-PetroGold](https://github.com/UniversalDependencies/UD_Portuguese-PetroGold) - Universal Dependencies (UD) Portuguese treebank.
+- [UD_Portuguese-PUD](https://github.com/UniversalDependencies/UD_Portuguese-PUD) - Universal Dependencies (UD) Portuguese treebank.
 - [UTLCorpus](https://github.com/RogerFig/UTLCorpus) - a corpus of online reviews in Brazilian Portuguese annotated with helpfulness classification.
 - [Winograd Schema Challenge](https://github.com/gabimelo/portuguese_wsc) - Solver for the Portuguese-based Winograd Schema Challenge.
 
