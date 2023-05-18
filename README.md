@@ -46,6 +46,7 @@ List of resources and tools developed with focus on Portuguese.
 - [Lex2Kids](http://www.nilc.icmc.usp.br/leg2kids/) - lexicon in Portuguese most heard by children.
 - [Mac-Morpho](http://www.nilc.icmc.usp.br/macmorpho/) - Brazilian Portuguese texts annotated with part-of-speech tags.
 - [MilkQA](http://www.nilc.icmc.usp.br/nilc/index.php/milkqa/) - a dataset of dense questions for the task of answer selection.
+- [Minutes of Central Bank of Brazil](https://github.com/ajdavidl/corpus-atas-copom/blob/main/README_English.md) - Minutes of the Monetary Policy Committee of the Central Bank of Brazil.
 - [NER in Brazilian Portuguese tweets](https://www.kaggle.com/datasets/rafaelperes/ner-in-brazilian-portuguese-tweets) - Twitter messages in pt-br annotated for the entities PER, LOC and ORG.
 - [News-Crawl-PT](https://data.statmt.org/news-crawl/pt/) - Monolingual News Crawl used for WMT.
 - [News of the site Folha de São Paulo](https://www.kaggle.com/datasets/marlesson/news-of-the-site-folhauol)
