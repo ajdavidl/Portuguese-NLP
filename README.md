@@ -145,8 +145,10 @@ List of resources and tools developed with focus on Portuguese.
 
 - [BERTimbau](https://huggingface.co/neuralmind/bert-base-portuguese-cased) -BERTimbau Base is a pretrained BERT model for Brazilian Portuguese that achieves state-of-the-art performances on three downstream NLP tasks: Named Entity Recognition, Sentence Textual Similarity and Recognizing Textual Entailment ([Github](https://github.com/neuralmind-ai/portuguese-bert)).
 - [Cabrita](https://huggingface.co/22h/cabrita-lora-v0-1) - A portuguese finetuned instruction LLaMA ([Github](https://github.com/22-hours/cabrita)).
+- [Electra](https://huggingface.co/dlb/electra-base-portuguese-uncased-brwac) - Electra model trained on BRWAC.
 - [GPT2 small](https://huggingface.co/pierreguillou/gpt2-small-portuguese) - GPorTuguese-2 (Portuguese GPT-2 small) is a state-of-the-art language model for Portuguese based on the GPT-2 small model.
 - [GPT-Neo small](https://huggingface.co/HeyLucasLeao/gpt-neo-small-portuguese) - a finetuned version from GPT-Neo 125M by EletheurAI to Portuguese language.
+- [mMiniLM](https://huggingface.co/unicamp-dl/mMiniLM-L6-v2-pt-v2) - mMiniLM-L6-v2 Reranker finetuned on mMARCO
 - [roberta-pt-br](https://huggingface.co/josu/roberta-pt-br)
 - [T5](https://github.com/unicamp-dl/PTT5)
 - [tgf-xlm-roberta-base-pt-br](https://huggingface.co/thegoodfellas/tgf-xlm-roberta-base-pt-br) ([Github](https://github.com/the-good-fellas/xlm-roberta-pt-br))
@@ -156,6 +158,7 @@ List of resources and tools developed with focus on Portuguese.
 
 - [Bloom](https://huggingface.co/bigscience/bloom)
 - [multilingual Bert](https://huggingface.co/bert-base-multilingual-cased)
+- [mDeBERTa](https://huggingface.co/microsoft/mdeberta-v3-base)
 - [mGPT](https://huggingface.co/sberbank-ai/mGPT) - Multilingual GPT model. An autoregressive GPT-like model.
 - [mT5](https://huggingface.co/google/mt5-base) - Multilingual T5. A massively multilingual pre-trained text-to-text transformer.
 - [XLM-RoBERTa](https://huggingface.co/xlm-roberta-base)
@@ -163,6 +166,7 @@ List of resources and tools developed with focus on Portuguese.
 ## Word Embeddings
 
 - [fastText](https://fasttext.cc/docs/en/crawl-vectors.html) - Multi-lingual word vectors
+- [LASER](https://github.com/facebookresearch/LASER)
 - [NILC-Embeddings](http://www.nilc.icmc.usp.br/embeddings)
 - [MUSE](https://github.com/facebookresearch/MUSE) - Multilingual Unsupervised and Supervised Embeddings
 - [word vectors](https://github.com/Kyubyong/wordvectors) - Pre-trained word vectors of 30+ languages.
