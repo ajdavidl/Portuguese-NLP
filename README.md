@@ -143,6 +143,7 @@ List of resources and tools developed with focus on Portuguese.
 - [Wordnet.Br](http://www.nilc.icmc.usp.br/wordnetbr/)
 
 ## Models
+- [Albertina PT-BR](https://huggingface.co/PORTULAN/albertina-ptbr)
 - [BERTimbau](https://huggingface.co/neuralmind/bert-base-portuguese-cased) - BERTimbau Base is a pretrained BERT model for Brazilian Portuguese that achieves state-of-the-art performances on three downstream NLP tasks: Named Entity Recognition, Sentence Textual Similarity and Recognizing Textual Entailment ([Github](https://github.com/neuralmind-ai/portuguese-bert)).
 - [BioBERTpt](https://github.com/HAILab-PUCPR/BioBERTpt) - fine-tuned BERT models trained on the clinical domain for Portuguese language
 - [Cabrita](https://huggingface.co/22h/cabrita-lora-v0-1) - A portuguese finetuned instruction LLaMA ([Github](https://github.com/22-hours/cabrita)).
