@@ -36,7 +36,8 @@ List of resources and tools developed with focus on Portuguese.
 - [Fake.Br](https://github.com/roneysco/Fake.br-Corpus) - aligned true and fake news written in Brazilian Portuguese.
 - [Fakepedia-Corpus](https://github.com/andersoncordeiro/Fakepedia-Corpus).
 - [FakeRecogna](https://github.com/Gabriel-Lino-Garcia/FakeRecogna) - dataset comprised of real and fake news.
-- [FakeWhatsApp.Br](https://github.com/cabrau/FakeWhatsApp.Br) - An annotated Corpus of WhatsApp messages in PT-BR for automatic detection of textual misinformation. 
+- [FakeWhatsApp.Br](https://github.com/cabrau/FakeWhatsApp.Br) - An annotated Corpus of WhatsApp messages in PT-BR for automatic detection of textual misinformation.
+- [FCN](https://github.com/GoloMarcos/FKTC)
 - [Floresta Sintá(c)tica](https://www.linguateca.pt/Floresta/) - treebank for Portuguese.
 - [HAREM first](https://www.linguateca.pt/primeiroHAREM/harem_coleccaodourada_en.html) - evaluation contest for named entity recognizers in Portuguese.
 - [HAREM second](https://www.linguateca.pt/HAREM/) - evaluation contest for named entity recognizers in Portuguese.
@@ -63,6 +64,8 @@ List of resources and tools developed with focus on Portuguese.
 - [Priberam Fine-Grained Opinion Corpus](http://labs.priberam.pt/Resources/Fine-Grained-Opinion-Corpus.aspx) - a Portuguese fine-grained dependency opinion mining corpus.
 - [Propbank](http://143.107.183.175:21380/portlex/index.php/en/downloadsingl) - Contains instances annotated with semantic role labels (SRL). 
 - [Projeto ACDC](https://www.linguateca.pt/ACDC/) - Internet Access to Corpora.
+- [QA-Portuguese](https://huggingface.co/datasets/ju-resplande/qa-pt) - Adaptation from MQA dataset Portuguese split (QA entailment pairs).
+- [REBEL-Portuguese](https://huggingface.co/datasets/ju-resplande/rebel-pt) - Datasets de relações a partir da Wikipedia.
 - [ReLi](https://www.linguateca.pt/Repositorio/ReLi/) - REsenha de LIvros.
 - [Rhetalho](https://sites.icmc.usp.br/taspardo/rhetalho.zip) - corpus annotated with Daniel Marcu's RSTTool.
 - [SemClinBr](https://github.com/HAILab-PUCPR/SemClinBr) - multi-institutional and multi-specialty semantically annotated corpus for Portuguese clinical NLP tasks.
