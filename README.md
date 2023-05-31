@@ -34,6 +34,7 @@ List of resources and tools developed with focus on Portuguese.
 - [Extended Essay-BR](https://github.com/lplnufpi/essay-br) - Extended version of the Essay-BR corpus.
 - [FACTCK.BR](https://github.com/jghm-f/FACTCK.BR) - A dataset to study Fake News in Portuguese.
 - [Fake.Br](https://github.com/roneysco/Fake.br-Corpus) - aligned true and fake news written in Brazilian Portuguese.
+- [Fakepedia-Corpus](https://github.com/andersoncordeiro/Fakepedia-Corpus).
 - [FakeRecogna](https://github.com/Gabriel-Lino-Garcia/FakeRecogna) - dataset comprised of real and fake news.
 - [FakeWhatsApp.Br](https://github.com/cabrau/FakeWhatsApp.Br) - An annotated Corpus of WhatsApp messages in PT-BR for automatic detection of textual misinformation. 
 - [Floresta Sintá(c)tica](https://www.linguateca.pt/Floresta/) - treebank for Portuguese.
