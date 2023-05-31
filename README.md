@@ -93,6 +93,7 @@ List of resources and tools developed with focus on Portuguese.
 
 ### Multilingual datasets
 
+- [askD](https://huggingface.co/datasets/ju-resplande/askD) - ELI5 dataset adapted on Medical Questions (AskDocs) subreddit.
 - [English-Portuguese Sentences](http://www.manythings.org/bilingual/por/) - English-Portuguese Sentences from the Tatoeba Project.
 - [EUR-Lex](https://www.sketchengine.eu/eurlex-corpus/) - multilingual corpus in all the official languages of the European Union.
 - [Europarl](https://www.statmt.org/europarl/) - European Parliament Proceedings Parallel Corpus 1996-2011.
