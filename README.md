@@ -59,6 +59,7 @@ List of resources and tools developed with focus on Portuguese.
 - [POeTiSA](https://sites.google.com/icmc.usp.br/poetisa) - POrtuguese processing - Towards Syntactic Analysis and parsing.
 - [PorSimplesSent](https://github.com/sidleal/porsimplessent) - of aligned sentences pairs to investigate sentence readability assessment.
 - [PortiLexicon-UD](https://portilexicon.icmc.usp.br/) -  a lexicon for Brazilian Portuguese according to Universal Dependencies.
+- [Portuguese Legal Sentences](https://huggingface.co/datasets/rufimelo/PortugueseLegalSentences-v3) - Collection of Legal Sentences from the Portuguese Supreme Court of Justice.
 - [Portuguese Presidential Elections](https://github.com/msramalho/election-watch/blob/master/datasets/01_portuguese_presidential_elections_2021_01_24.md) - This dataset contains tweets and users mostly from the Portuguese Twittersphere.
 - [PraCegoVer](https://github.com/larocs/PraCegoVer) - multi-modal dataset containing images associated to Portuguese captions based on posts from Instagram.
 - [Priberam Fine-Grained Opinion Corpus](http://labs.priberam.pt/Resources/Fine-Grained-Opinion-Corpus.aspx) - a Portuguese fine-grained dependency opinion mining corpus.
@@ -100,6 +101,7 @@ List of resources and tools developed with focus on Portuguese.
 - [mfaq](https://huggingface.co/datasets/clips/mfaq) - multilingual corpus of Frequently Asked Questions parsed from the Common Crawl.
 - [MKQA](https://huggingface.co/datasets/mkqa) - Multilingual Knowledge Questions & Answers ([github](https://github.com/apple/ml-mkqa)).
 - [MQA](https://huggingface.co/datasets/clips/mqa) - multilingual corpus of Questions and Answers (MQA) parsed from the Common Crawl.
+- [MMARCO](https://huggingface.co/datasets/unicamp-dl/mmarco) - Multilingual version of the MS MARCO passage ranking dataset.
 - [MuST-C](https://ict.fbk.eu/must-c/) - multilingual speech translation corpus.
 - [OSCAR](https://oscar-corpus.com/) - Open Super-large Crawled Aggregated coRpus.
 - [OpenSubtitles](https://opus.nlpl.eu/OpenSubtitles.php) - collection of translated movie subtitles.
