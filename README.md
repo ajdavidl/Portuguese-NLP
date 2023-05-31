@@ -142,8 +142,8 @@ List of resources and tools developed with focus on Portuguese.
 - [Wordnet.Br](http://www.nilc.icmc.usp.br/wordnetbr/)
 
 ## Models
-
-- [BERTimbau](https://huggingface.co/neuralmind/bert-base-portuguese-cased) -BERTimbau Base is a pretrained BERT model for Brazilian Portuguese that achieves state-of-the-art performances on three downstream NLP tasks: Named Entity Recognition, Sentence Textual Similarity and Recognizing Textual Entailment ([Github](https://github.com/neuralmind-ai/portuguese-bert)).
+- [BERTimbau](https://huggingface.co/neuralmind/bert-base-portuguese-cased) - BERTimbau Base is a pretrained BERT model for Brazilian Portuguese that achieves state-of-the-art performances on three downstream NLP tasks: Named Entity Recognition, Sentence Textual Similarity and Recognizing Textual Entailment ([Github](https://github.com/neuralmind-ai/portuguese-bert)).
+- [BioBERTpt](https://github.com/HAILab-PUCPR/BioBERTpt) - fine-tuned BERT models trained on the clinical domain for Portuguese language
 - [Cabrita](https://huggingface.co/22h/cabrita-lora-v0-1) - A portuguese finetuned instruction LLaMA ([Github](https://github.com/22-hours/cabrita)).
 - [Electra](https://huggingface.co/dlb/electra-base-portuguese-uncased-brwac) - Electra model trained on BRWAC.
 - [GPT2 small](https://huggingface.co/pierreguillou/gpt2-small-portuguese) - GPorTuguese-2 (Portuguese GPT-2 small) is a state-of-the-art language model for Portuguese based on the GPT-2 small model.
@@ -199,6 +199,7 @@ List of resources and tools developed with focus on Portuguese.
 - [Languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages.
 - [LegalNLP](https://github.com/felipemaiapolo/legalnlp) - Natural Language Processing Methods for the Brazilian Legal Language.
 - [LexML Parser](https://github.com/lexml/lexml-parser-projeto-lei) - parser for legal documents.
+- [LX parser](http://lxcenter.di.fc.ul.pt/tools/en/LXParserEN.html) - statistical constituency parser for Portuguese.
 - [metaphone-ptbr](https://github.com/carlosjordao/metaphone-ptbr) - Metaphone algorithm for the Portuguese language.
 - [mlconjug3](https://github.com/SekouDiaoNlp/mlconjug3) - a Python library to conjugate verbs in Portuguese and other languages.
 - [MorphoBr](https://github.com/LR-POR/MorphoBr) - Resources for morphological analysis of Portuguese.
@@ -217,6 +218,7 @@ List of resources and tools developed with focus on Portuguese.
 - [NILC](http://www.nilc.icmc.usp.br/nilc/index.php/tools-and-resources)
 - [NILC 2](https://sites.google.com/view/nilc-usp/resources-and-tools)
 - [NILC 3](https://sites.icmc.usp.br/taspardo/Projects.htm)
+- [NLX-Group](http://nlx.di.fc.ul.pt/)
 - [Opinando](https://sites.google.com/icmc.usp.br/opinando/p%C3%A1gina-inicial) - Opinion Mining for Portuguese.
 
 
