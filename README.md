@@ -102,6 +102,7 @@ List of resources and tools developed with focus on Portuguese.
 - [MKQA](https://huggingface.co/datasets/mkqa) - Multilingual Knowledge Questions & Answers ([github](https://github.com/apple/ml-mkqa)).
 - [MQA](https://huggingface.co/datasets/clips/mqa) - multilingual corpus of Questions and Answers (MQA) parsed from the Common Crawl.
 - [MMARCO](https://huggingface.co/datasets/unicamp-dl/mmarco) - Multilingual version of the MS MARCO passage ranking dataset.
+- [MultiCoNER](https://huggingface.co/datasets/MultiCoNER/multiconer_v2) - a large multilingual dataset for Named Entity Recognition.
 - [MuST-C](https://ict.fbk.eu/must-c/) - multilingual speech translation corpus.
 - [OSCAR](https://oscar-corpus.com/) - Open Super-large Crawled Aggregated coRpus.
 - [OpenSubtitles](https://opus.nlpl.eu/OpenSubtitles.php) - collection of translated movie subtitles.
