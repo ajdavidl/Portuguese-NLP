@@ -117,6 +117,7 @@ List of resources and tools developed with focus on Portuguese.
 - [WikiNEuRal](https://github.com/Babelscape/wikineural) - Combined Neural and Knowledge-based Silver Data Creation for Multilingual NER (EMNLP 2021).
 - [Wikipedia](https://huggingface.co/datasets/wikipedia) - Wikipedia dataset containing cleaned articles of all languages.
 - [XFORMAL](https://github.com/Elbria/xformal-FoST) - A Benchmark for Multilingual Formality Style Transfer.
+- [XLSUM](https://huggingface.co/datasets/csebuetnlp/xlsum) - 1.35 million professionally annotated article-summary pairs from BBC
 
 ## Lexicon
 
