@@ -4,10 +4,12 @@ List of resources and tools developed with focus on Portuguese.
 
 ## Datasets
 
+- [AG_news pt](https://huggingface.co/datasets/maritaca-ai/ag_news_pt) - Tradução autoaática do AG's corpus of news articles 
 - [Aspect-based annotated](https://github.com/franciellevargas/AspectPRO) - the corpus consist of implicit and explicit annotated aspects and groups of (hierarchically organized) opinion aspects for aspect-based sentiment analysis applications, as well as text summarization.
 - [ASSIN](http://nilc.icmc.usp.br/assin/) - a dataset with semantic similarity score and entailment annotations.
 - [ASSIN 2](https://sites.google.com/view/assin2) - sequence of ASSIN.
 - [BlogSet-BR](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/blogset-br-english/) - a collection of posts gathered from Blogspot platform written by Brazillian users.
+- [BoolQ](https://huggingface.co/datasets/maritaca-ai/boolq_pt) - tradução automática do BoolQ
 - [br-quad-2.0](https://github.com/piEsposito/br-quad-2.0) - Stanford Question Answering Dataset (SQuAD) 2.0 translated to Brazilian Portuguese (PT-BR) language. 
 - [Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) - Brazilian E-Commerce Public Dataset by Olist store.
 - [Brazilian Headlines Sentiments](https://www.kaggle.com/datasets/brunoluvizotto/brazilian-headlines-sentiments) - Dataset containing sentiment analysis of Brazilian news agencies headlines.
@@ -43,6 +45,7 @@ List of resources and tools developed with focus on Portuguese.
 - [HAREM second](https://www.linguateca.pt/HAREM/) - evaluation contest for named entity recognizers in Portuguese.
 - [HateBR](https://github.com/franciellevargas/HateBR) - large-scale expert annotated corpus of Brazilian Instagram comments for hate speech and offensive language detection on the web and social media.
 - [Historical Portuguese Corpora](http://www.nilc.icmc.usp.br/nilc/projects/hpc/) - tools and resources for manipulation of historical corpora and management of historical dictionaries.
+- [IMDB pt](https://huggingface.co/datasets/maritaca-ai/imdb_pt) - Tradução atomática do IMBD
 - [Iudicium Textum Dataset](http://dadosabertos.c3sl.ufpr.br/acordaos/) - contains legal documents created by Brazilian Federal Supreme Court in its integral composition ([paper](https://www.researchgate.net/publication/336022563_Iudicium_Textum_Dataset_Uma_Base_de_Textos_Juridicos_para_NLP)).
 - [LeNER-Br](https://github.com/peluz/lener-br) - a Dataset for Named Entity Recognition in Brazilian Legal Text.
 - [Lex2Kids](http://www.nilc.icmc.usp.br/leg2kids/) - lexicon in Portuguese most heard by children.
@@ -77,6 +80,7 @@ List of resources and tools developed with focus on Portuguese.
 - [SIMPLEX-PB-3.0](https://github.com/nathanshartmann/simplex-pb-3.0) - new version of SIMPLEX-PB.
 - [SQUAD-PT v1.1](https://github.com/nunorc/squad-v1.1-pt) - Portuguese translation of the SQuAD dataset.
 - [SQUAD-PT v2.0](https://github.com/cjaniake/squad_v2.0_pt) - Portuguese translation of SQuAD 2.0 dataset.
+- [SST-2 pt](https://huggingface.co/datasets/maritaca-ai/sst2_pt) - Tradução automática do Stanford Sentiment Treebank
 - [TeMário](https://www.linguateca.pt/Repositorio/TeMario/) - news texts and the corresponding human summaries for summarization purposes.
 - [Textual Complexity Corpus](https://github.com/gazzola/corpus_readability_nlp_portuguese) - Textual Complexity Corpus for School Internships in the Brazilian Educational System.
 - [ToLD-Br](https://huggingface.co/datasets/told-br) - Toxic Language Detection in Social Media for Brazilian Portuguese ([github](https://github.com/JAugusto97/ToLD-Br)).
