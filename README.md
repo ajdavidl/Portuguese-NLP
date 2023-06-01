@@ -188,8 +188,10 @@ List of resources and tools developed with focus on Portuguese.
 
 ## Institutions
 
+- [HAILab-PUCPR](https://github.com/HAILab-PUCPR) - 
 - [Linguateca](https://www.linguateca.pt/)
 - [NILC](http://www.nilc.icmc.usp.br/nilc/index.php)
+- [NLX-Group](http://nlx.di.fc.ul.pt/)
 - [PLN PUCRS](https://www.inf.pucrs.br/linatural/wordpress/)
 
 ## Tools
@@ -220,8 +222,8 @@ List of resources and tools developed with focus on Portuguese.
 - [NILC](http://www.nilc.icmc.usp.br/nilc/index.php/tools-and-resources)
 - [NILC 2](https://sites.google.com/view/nilc-usp/resources-and-tools)
 - [NILC 3](https://sites.icmc.usp.br/taspardo/Projects.htm)
-- [NLX-Group](http://nlx.di.fc.ul.pt/)
 - [Opinando](https://sites.google.com/icmc.usp.br/opinando/p%C3%A1gina-inicial) - Opinion Mining for Portuguese.
+- [Portuguese dataset List](https://forum.ailab.unb.br/t/datasets-em-portugues/251)
 
 
 ## Other links
