@@ -188,7 +188,7 @@ List of resources and tools developed with focus on Portuguese.
 
 ## Institutions
 
-- [HAILab-PUCPR](https://github.com/HAILab-PUCPR) - 
+- [HAILab-PUCPR](https://github.com/HAILab-PUCPR) - A pioneering research group aiming to develop solutions for health care using Natural Language Processing and Machine Learning
 - [Linguateca](https://www.linguateca.pt/)
 - [NILC](http://www.nilc.icmc.usp.br/nilc/index.php)
 - [NLX-Group](http://nlx.di.fc.ul.pt/)
