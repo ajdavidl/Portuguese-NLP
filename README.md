@@ -32,6 +32,8 @@ List of resources and tools developed with focus on Portuguese.
 - [C-ORAL-BRASIL](http://www.c-oral-brasil.org/english-site/index.html) - This project is dedicated to the study of Brazilian Portuguese spontaneous speech and, more broadly, to the compilation of spoken corpora.
 - [DEEPAGÉ](https://github.com/C4AI/deepage) - Answering Questions in Portuguese about the Brazilian Environment.
 - [DNLT-BP](https://github.com/nilc-nlp/DNLT-BP) - Datasets of Neuropsychological Language Tests in Brazilian Portuguese.
+- [ENEM Challenge](https://www.ime.usp.br/~ddm/project/enem/) - Consists of the writing of an essay and an objective part containing 180 multiple choice questions
+- [ENEM-2022](https://github.com/piresramon/gpt-4-enem/blob/main/data/enem/2022.json)
 - [Essay-BR](https://github.com/rafaelanchieta/essay) - Essay-BR: a corpus of essays for the Brazilian Portuguese language.
 - [Extended Essay-BR](https://github.com/lplnufpi/essay-br) - Extended version of the Essay-BR corpus.
 - [FACTCK.BR](https://github.com/jghm-f/FACTCK.BR) - A dataset to study Fake News in Portuguese.
