@@ -81,6 +81,7 @@ List of resources and tools developed with focus on Portuguese.
 - [SIMPLEX-PB-2.0](https://github.com/nathanshartmann/simplex-pb-2.0) - improved version of SIMPLEX-PB.
 - [SIMPLEX-PB-3.0](https://github.com/nathanshartmann/simplex-pb-3.0) - new version of SIMPLEX-PB.
 - [SQUAD-PT v1.1](https://github.com/nunorc/squad-v1.1-pt) - Portuguese translation of the SQuAD dataset.
+- [SQUAD-PT v1.1-pt-br](https://huggingface.co/datasets/ArthurBaia/squad_v1_pt_br) - Brazilian Portuguese translation of the SQuAD dataset, translated by Deep Learning Brasil
 - [SQUAD-PT v2.0](https://github.com/cjaniake/squad_v2.0_pt) - Portuguese translation of SQuAD 2.0 dataset.
 - [SST-2 pt](https://huggingface.co/datasets/maritaca-ai/sst2_pt) - Tradução automática do Stanford Sentiment Treebank
 - [TeMário](https://www.linguateca.pt/Repositorio/TeMario/) - news texts and the corresponding human summaries for summarization purposes.
