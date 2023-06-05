@@ -157,6 +157,7 @@ List of resources and tools developed with focus on Portuguese.
 - [Electra](https://huggingface.co/dlb/electra-base-portuguese-uncased-brwac) - Electra model trained on BRWAC.
 - [GPT2 small](https://huggingface.co/pierreguillou/gpt2-small-portuguese) - GPorTuguese-2 (Portuguese GPT-2 small) is a state-of-the-art language model for Portuguese based on the GPT-2 small model.
 - [GPT-Neo small](https://huggingface.co/HeyLucasLeao/gpt-neo-small-portuguese) - a finetuned version from GPT-Neo 125M by EletheurAI to Portuguese language.
+- [GPT2-Bio-PT](https://huggingface.co/pucpr/gpt2-bio-pt) - a biomedical finetuned version from GPorTuguese-2.
 - [mMiniLM](https://huggingface.co/unicamp-dl/mMiniLM-L6-v2-pt-v2) - mMiniLM-L6-v2 Reranker finetuned on mMARCO
 - [roberta-pt-br](https://huggingface.co/josu/roberta-pt-br)
 - [T5](https://github.com/unicamp-dl/PTT5)
