@@ -25,6 +25,7 @@ List of resources and tools developed with focus on Portuguese.
 - [CETENFolha](https://www.linguateca.pt/cetenfolha/index_info.html) - news from the newspaper Folha de S. Paulo.
 - [CHAVE](https://www.linguateca.pt/CHAVE/) - collection for Information Retrieval and Question Answering.
 - [CINTIL Corpus](http://cintil.ul.pt/cintilfeatures.html#corpus) - a linguistically interpreted corpus of Portuguese. 
+- [ClinicalNER](https://github.com/fabioacl/PortugueseClinicalNER) - Clinical Named Entity Recognition in Portuguese.
 - [Complexidade Textual para Estágios Escolares do Sistema Educacional Brasileiro](https://github.com/gazzola/corpus_readability_nlp_portuguese)
 - [CORAA](https://github.com/nilc-nlp/CORAA) - dataset for Automatic Speech Recognition.
 - [CORAA SER](https://github.com/rmarcacini/ser-coraa-pt-br) - Emotion Recognition from Brazilian Portuguese Informal Spontaneous Speech.
