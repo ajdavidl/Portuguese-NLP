@@ -5,6 +5,7 @@ List of resources and tools developed with focus on Portuguese.
 ## Datasets
 
 - [AG_news pt](https://huggingface.co/datasets/maritaca-ai/ag_news_pt) - Tradução autoaática do AG's corpus of news articles 
+- [Alpaca data pt-br](https://huggingface.co/datasets/dominguesm/alpaca-data-pt-br) - Stanford Alpaca dataset translated into Brazilian Portuguese using the Helsinki-NLP/opus-mt-tc-big-en-pt model.
 - [Aspect-based annotated](https://github.com/franciellevargas/AspectPRO) - the corpus consist of implicit and explicit annotated aspects and groups of (hierarchically organized) opinion aspects for aspect-based sentiment analysis applications, as well as text summarization.
 - [ASSIN](http://nilc.icmc.usp.br/assin/) - a dataset with semantic similarity score and entailment annotations.
 - [ASSIN 2](https://sites.google.com/view/assin2) - sequence of ASSIN.
@@ -152,6 +153,7 @@ List of resources and tools developed with focus on Portuguese.
 
 ## Models
 - [Albertina PT-BR](https://huggingface.co/PORTULAN/albertina-ptbr)
+- [Alpaca-LoRA-PTBR](https://huggingface.co/dominguesm/alpaca-lora-ptbr-7b) - Low-Rank LLaMA Instruct-Tuning.
 - [BERTimbau](https://huggingface.co/neuralmind/bert-base-portuguese-cased) - BERTimbau Base is a pretrained BERT model for Brazilian Portuguese that achieves state-of-the-art performances on three downstream NLP tasks: Named Entity Recognition, Sentence Textual Similarity and Recognizing Textual Entailment ([Github](https://github.com/neuralmind-ai/portuguese-bert)).
 - [BioBERTpt](https://huggingface.co/pucpr/biobertpt-all) - fine-tuned BERT models trained on the clinical domain for Portuguese language ([Github](https://github.com/HAILab-PUCPR/BioBERTpt)).
 - [Cabrita](https://huggingface.co/22h/cabrita-lora-v0-1) - A portuguese finetuned instruction LLaMA ([Github](https://github.com/22-hours/cabrita)).
