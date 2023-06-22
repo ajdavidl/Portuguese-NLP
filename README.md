@@ -134,6 +134,7 @@ List of resources and tools developed with focus on Portuguese.
 - [Conceptnet](https://conceptnet.io/) - an open, multilingual knowledge graph.
 - [DicSin](https://github.com/fititnt/DicSin-dicionario-sinonimos-portugues-brasileiro) - Dictionary of synonyms and antonyms.
 - [lexiconPT](https://github.com/sillasgonzaga/lexiconPT) - R package that provides lexicons for Portuguese Text Analysis.
+- [lexicons](https://github.com/davidsbatista/lexicons) - Dictionaries of names, surnames, acronyms and it's extensions, stop-words, etc.
 - [LIWC](http://nilc.icmc.usp.br/portlex/index.php/en/liwc) - Linguistic Inquiry and Word Count ([dictionary](https://sites.icmc.usp.br/sandra/LIWC/LIWC2007_Portugues_win.dic))
 - [Onto.PT](http://ontopt.dei.uc.pt/) - Ontologia Lexical para o Português.
 - [OpenWordnet-PT](https://github.com/own-pt/openWordnet-PT) - an open access wordnet for Portuguese ([site](http://wn.mybluemix.net/)).
