@@ -64,6 +64,7 @@ List of resources and tools developed with focus on Portuguese.
 - [Pirá](https://github.com/C4AI/Pira) - A Bilingual Portuguese-English Dataset for Question-Answering about the Ocean.
 - [PLUE](https://github.com/ju-resplande/PLUE) - Portuguese translation of the GLUE benchmark and Scitail dataset.
 - [POeTiSA](https://sites.google.com/icmc.usp.br/poetisa) - POrtuguese processing - Towards Syntactic Analysis and parsing.
+- [politiquices](https://github.com/politiquices/data-releases) -  Datasets related with the politiquices.pt project.
 - [PorSimplesSent](https://github.com/sidleal/porsimplessent) - of aligned sentences pairs to investigate sentence readability assessment.
 - [PortiLexicon-UD](https://portilexicon.icmc.usp.br/) -  a lexicon for Brazilian Portuguese according to Universal Dependencies.
 - [Portuguese Legal Sentences](https://huggingface.co/datasets/rufimelo/PortugueseLegalSentences-v3) - Collection of Legal Sentences from the Portuguese Supreme Court of Justice.
