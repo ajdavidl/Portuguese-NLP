@@ -154,12 +154,15 @@ List of resources and tools developed with focus on Portuguese.
 - [Wordnet.Br](http://www.nilc.icmc.usp.br/wordnetbr/)
 
 ## Models
-- [Albertina PT-BR](https://huggingface.co/PORTULAN/albertina-ptbr)
+- [Albertina PT-BR](https://huggingface.co/PORTULAN/albertina-ptbr) - It is an encoder of the BERT family for the Portuguese language - the American variant from Brazil.
+- [Albertina PT-PT](https://huggingface.co/PORTULAN/albertina-ptpt) - It is an encoder of the BERT family for the Portuguese language - the European variant from Portugal.
 - [Alpaca-LoRA-PTBR](https://huggingface.co/dominguesm/alpaca-lora-ptbr-7b) - Low-Rank LLaMA Instruct-Tuning.
 - [BERTimbau](https://huggingface.co/neuralmind/bert-base-portuguese-cased) - BERTimbau Base is a pretrained BERT model for Brazilian Portuguese that achieves state-of-the-art performances on three downstream NLP tasks: Named Entity Recognition, Sentence Textual Similarity and Recognizing Textual Entailment ([Github](https://github.com/neuralmind-ai/portuguese-bert)).
 - [BioBERTpt](https://huggingface.co/pucpr/biobertpt-all) - fine-tuned BERT models trained on the clinical domain for Portuguese language ([Github](https://github.com/HAILab-PUCPR/BioBERTpt)).
 - [Cabrita](https://huggingface.co/22h/cabrita-lora-v0-1) - A portuguese finetuned instruction LLaMA ([Github](https://github.com/22-hours/cabrita)).
 - [Electra](https://huggingface.co/dlb/electra-base-portuguese-uncased-brwac) - Electra model trained on BRWAC.
+- [Gervasio-PT-BR](https://huggingface.co/PORTULAN/gervasio-ptbr-base) - It is a decoder of the GPT family for the Portuguese language - the American variant from Brazil.
+- [Gervasio-PT-PT](https://huggingface.co/PORTULAN/gervasio-ptpt-base) - It is a decoder of the GPT family for the Portuguese language - the European variant from Portugal.
 - [GPT2 small](https://huggingface.co/pierreguillou/gpt2-small-portuguese) - GPorTuguese-2 (Portuguese GPT-2 small) is a state-of-the-art language model for Portuguese based on the GPT-2 small model.
 - [GPT-Neo small](https://huggingface.co/HeyLucasLeao/gpt-neo-small-portuguese) - a finetuned version from GPT-Neo 125M by EletheurAI to Portuguese language.
 - [GPT2-Bio-PT](https://huggingface.co/pucpr/gpt2-bio-pt) - a biomedical finetuned version from GPorTuguese-2 ([Github](https://github.com/HAILab-PUCPR/gpt2-bio-pt)).
