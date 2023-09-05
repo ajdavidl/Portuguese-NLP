@@ -215,6 +215,7 @@ List of resources and tools developed with focus on Portuguese.
 
 ## Tools
 
+- [Apertium-por](https://github.com/apertium/apertium-por) - Apertium linguistic data for Portuguese.
 - [Autocorrect](https://github.com/filyp/autocorrect) - Spelling corrector in python.
 - [BrGram](https://github.com/LR-POR/BrGram) - Computational grammar fragment of Brazilian Portuguese in the LFG formalism implemented in XLE.
 - [Dicio API](https://github.com/ThiagoNelsi/dicio-api) - Portuguese dictionary API.
