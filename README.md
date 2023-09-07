@@ -6,7 +6,7 @@ List of resources and tools developed with focus on Portuguese.
 
 - [AG_news pt](https://huggingface.co/datasets/maritaca-ai/ag_news_pt) - Tradução autoaática do AG's corpus of news articles.
 - [Alpaca data pt-br](https://huggingface.co/datasets/dominguesm/alpaca-data-pt-br) - Stanford Alpaca dataset translated into Brazilian Portuguese using the Helsinki-NLP/opus-mt-tc-big-en-pt model.
-- [Aspect-based annotated](https://github.com/franciellevargas/AspectPRO) - the corpus consist of implicit and explicit annotated aspects and groups of (hierarchically organized) opinion aspects for aspect-based sentiment analysis applications, as well as text summarization.
+- [AspectBR](https://github.com/franciellevargas/AspectBR) - Aspect-based annotated dataset of web consumer reviews.
 - [ASSIN](http://nilc.icmc.usp.br/assin/) - a dataset with semantic similarity score and entailment annotations.
 - [ASSIN 2](https://sites.google.com/view/assin2) - sequence of ASSIN.
 - [BlogSet-BR](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/blogset-br-english/) - a collection of posts gathered from Blogspot platform written by Brazillian users.
