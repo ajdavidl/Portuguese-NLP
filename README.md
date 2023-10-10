@@ -164,6 +164,7 @@ List of resources and tools developed with focus on Portuguese.
 - [BERTimbau](https://huggingface.co/neuralmind/bert-base-portuguese-cased) - BERTimbau Base is a pretrained BERT model for Brazilian Portuguese that achieves state-of-the-art performances on three downstream NLP tasks: Named Entity Recognition, Sentence Textual Similarity and Recognizing Textual Entailment ([Github](https://github.com/neuralmind-ai/portuguese-bert)).
 - [BioBERTpt](https://huggingface.co/pucpr/biobertpt-all) - fine-tuned BERT models trained on the clinical domain for Portuguese language ([Github](https://github.com/HAILab-PUCPR/BioBERTpt)).
 - [Cabrita](https://huggingface.co/22h/cabrita-lora-v0-1) - A portuguese finetuned instruction LLaMA ([Github](https://github.com/22-hours/cabrita)).
+- [DeBERTinha](https://huggingface.co/sagui-nlp/debertinha-ptbr-xsmall) - A DeBERTa V3 XSmall adapted to the Brazilian Portuguese language ([Github](https://github.com/sagui-nlp/DeBERTinha)).
 - [Electra](https://huggingface.co/dlb/electra-base-portuguese-uncased-brwac) - Electra model trained on BRWAC.
 - [Gervasio-PT-BR](https://huggingface.co/PORTULAN/gervasio-ptbr-base) - It is a decoder of the GPT family for the Portuguese language - the American variant from Brazil.
 - [Gervasio-PT-PT](https://huggingface.co/PORTULAN/gervasio-ptpt-base) - It is a decoder of the GPT family for the Portuguese language - the European variant from Portugal.
