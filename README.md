@@ -209,9 +209,11 @@ List of resources and tools developed with focus on Portuguese.
 
 ## Institutions
 
+- [Brasileiras em PLN](https://brasileiraspln.com/)
 - [HAILab-PUCPR](https://github.com/HAILab-PUCPR) - A pioneering research group aiming to develop solutions for health care using Natural Language Processing and Machine Learning
 - [Linguateca](https://www.linguateca.pt/)
 - [NILC](http://www.nilc.icmc.usp.br/nilc/index.php)
+- [NLPortuguês](https://nlportugues.ime.usp.br/) - Devoted to creating NLP courses in brazilian portuguese
 - [NLX-Group](http://nlx.di.fc.ul.pt/)
 - [PLN PUCRS](https://www.inf.pucrs.br/linatural/wordpress/)
 
