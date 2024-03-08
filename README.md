@@ -20,6 +20,7 @@ List of resources and tools developed with focus on Portuguese.
 - [BrWaC](https://www.inf.ufrgs.br/pln/wiki/index.php?title=BrWaC) - Brazilian Portuguese Web as Corpus.
 - [BrWac2Wiki](https://github.com/aseidelo/BrWac2Wiki) - a dataset for multi-document summarization in Portuguese.
 - [B2W-Reviews01](https://github.com/americanas-tech/b2w-reviews01) - product reviews.
+- [Canarim](https://github.com/DominguesM/canarim) - A Large-Scale Dataset of Web Pages in the Portuguese Language [[huggingface](https://huggingface.co/datasets/dominguesm/canarim)]
 - [Carolina](https://sites.usp.br/corpuscarolina/) - Corpus Geral do Português Brasileiro Contemporâneo.
 - [Capes](https://huggingface.co/datasets/capes) - parallel corpus of theses and dissertations abstracts in English and Portuguese.
 - [CC100-Portuguese](https://autonlp.ai/datasets/cc100-portuguese) - Created by Conneau & Wenzek et al. at 2020. This dataset is one of the 100 corpora of monolingual data that was processed from the January-December 2018 Commoncrawl snapshots from the CC-Net repository. 
