@@ -224,6 +224,9 @@ List of resources and tools developed with focus on Portuguese.
 - [Coh-Metrix-Port](https://github.com/nilc-nlp/coh-metrix-port) - an adaptation of the Coh-Metrix text analysis tool to the Brazilian Portuguese language.
 - [NILC-Metrix](https://github.com/sidleal/nilcmetrix) - it gathers the metrics developed over more than a decade in NILC Lab.
 
+## Leaderboards
+- [Open PT LLM Leaderboard](https://huggingface.co/spaces/eduagarcia/open_pt_llm_leaderboard) - Open PT LLM Leaderboard aims to provide a benchmark for the evaluation of Large Language Models (LLMs) in the Portuguese language across a variety of tasks and datasets.
+
 ## Frameworks
 
 - [nlpnet](http://nilc.icmc.usp.br/nlpnet/)
