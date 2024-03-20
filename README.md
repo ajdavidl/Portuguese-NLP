@@ -75,7 +75,7 @@ List of resources and tools developed with focus on Portuguese.
 - [News-Crawl-PT](https://data.statmt.org/news-crawl/pt/) - Monolingual News Crawl used for WMT.
 - [News of the site Folha de São Paulo](https://www.kaggle.com/datasets/marlesson/news-of-the-site-folhauol).
 - [News published in Brazil](https://www.kaggle.com/datasets/diogocaliman/notcias-publicadas-no-brasil).
-- [OAB exams](https://github.com/legal-nlp/oab-exams)
+- [OAB exams](https://github.com/legal-nlp/oab-exams) ([HuggingFace](https://huggingface.co/datasets/eduagarcia/oab_exams))
 - [Parallel Corpora from Revista Pesquisa FAPESP](http://www.nilc.icmc.usp.br/nilc/tools/Fapesp%20Corpora.htm) - Portuguese-English and Portuguese-Spanish bilingual collections of the online issues of the scientific news Brazilian magazine Revista Pesquisa FAPESP.
 - [NURC-SP](http://tarsila.icmc.usp.br:8080/nurc/catna)
 - [Pirá](https://github.com/C4AI/Pira) - A Bilingual Portuguese-English Dataset for Question-Answering about the Ocean.
@@ -85,6 +85,7 @@ List of resources and tools developed with focus on Portuguese.
 - [politiquices](https://github.com/politiquices/data-releases) -  Datasets related with the politiquices.pt project.
 - [PorSimplesSent](https://github.com/sidleal/porsimplessent) - of aligned sentences pairs to investigate sentence readability assessment.
 - [PortiLexicon-UD](https://portilexicon.icmc.usp.br/) -  a lexicon for Brazilian Portuguese according to Universal Dependencies.
+- [Portuguese-Hate-Speech-Dataset](https://github.com/paulafortuna/Portuguese-Hate-Speech-Dataset) - Portuguese dataset for hate speech detection composed of 5,668 tweets with binary annotations (i.e. 'hate' vs. 'no-hate') ([HuggingFace](https://huggingface.co/datasets/hate_speech_portuguese))
 - [Portuguese Legal Sentences](https://huggingface.co/datasets/rufimelo/PortugueseLegalSentences-v3) - Collection of Legal Sentences from the Portuguese Supreme Court of Justice.
 - [Portuguese Presidential Elections](https://github.com/msramalho/election-watch/blob/master/datasets/01_portuguese_presidential_elections_2021_01_24.md) - This dataset contains tweets and users mostly from the Portuguese Twittersphere.
 - [PraCegoVer](https://github.com/larocs/PraCegoVer) - multi-modal dataset containing images associated to Portuguese captions based on posts from Instagram.
