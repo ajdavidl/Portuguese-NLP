@@ -89,9 +89,9 @@ List of resources and tools developed with focus on Portuguese.
 - [SIMPLEX-PB-2.0](https://github.com/nathanshartmann/simplex-pb-2.0) - improved version of SIMPLEX-PB.
 - [SIMPLEX-PB-3.0](https://github.com/nathanshartmann/simplex-pb-3.0) - new version of SIMPLEX-PB.
 - [SQUAD-PT v1.1](https://github.com/nunorc/squad-v1.1-pt) - Portuguese translation of the SQuAD dataset.
-- [SQUAD-PT v1.1-pt-br](https://huggingface.co/datasets/ArthurBaia/squad_v1_pt_br) - Brazilian Portuguese translation of the SQuAD dataset, translated by Deep Learning Brasil
+- [SQUAD-PT v1.1-pt-br](https://huggingface.co/datasets/ArthurBaia/squad_v1_pt_br) - Brazilian Portuguese translation of the SQuAD dataset, translated by Deep Learning Brasil.
 - [SQUAD-PT v2.0](https://github.com/cjaniake/squad_v2.0_pt) - Portuguese translation of SQuAD 2.0 dataset.
-- [SST-2 pt](https://huggingface.co/datasets/maritaca-ai/sst2_pt) - Tradução automática do Stanford Sentiment Treebank
+- [SST-2 pt](https://huggingface.co/datasets/maritaca-ai/sst2_pt) - Tradução automática do Stanford Sentiment Treebank.
 - [TeMário](https://www.linguateca.pt/Repositorio/TeMario/) - news texts and the corresponding human summaries for summarization purposes.
 - [Textual Complexity Corpus](https://github.com/gazzola/corpus_readability_nlp_portuguese) - Textual Complexity Corpus for School Internships in the Brazilian Educational System.
 - [ToLD-Br](https://huggingface.co/datasets/told-br) - Toxic Language Detection in Social Media for Brazilian Portuguese ([github](https://github.com/JAugusto97/ToLD-Br)).
@@ -120,8 +120,8 @@ List of resources and tools developed with focus on Portuguese.
 - [MMARCO](https://huggingface.co/datasets/unicamp-dl/mmarco) - Multilingual version of the MS MARCO passage ranking dataset.
 - [MultiCoNER](https://huggingface.co/datasets/MultiCoNER/multiconer_v2) - a large multilingual dataset for Named Entity Recognition.
 - [MuST-C](https://ict.fbk.eu/must-c/) - multilingual speech translation corpus.
-- [OSCAR](https://oscar-corpus.com/) - Open Super-large Crawled Aggregated coRpus.
 - [OpenSubtitles](https://opus.nlpl.eu/OpenSubtitles.php) - collection of translated movie subtitles.
+- [OSCAR](https://oscar-corpus.com/) - Open Super-large Crawled Aggregated coRpus.
 - [Tatoeba](https://tatoeba.org/en/downloads) - a large database of sentences and translations. 
 - [TED2020](https://opus.nlpl.eu/TED2020.php) - contains a crawl of nearly 4000 TED and TED-X transcripts from July 2020. 
 - [TSAR-2022-Shared-Task](https://github.com/LaSTUS-TALN-UPF/TSAR-2022-Shared-Task) - TSAR2022 Shared Task on Lexical Simplification.
@@ -132,7 +132,7 @@ List of resources and tools developed with focus on Portuguese.
 - [WikiNEuRal](https://github.com/Babelscape/wikineural) - Combined Neural and Knowledge-based Silver Data Creation for Multilingual NER (EMNLP 2021).
 - [Wikipedia](https://huggingface.co/datasets/wikipedia) - Wikipedia dataset containing cleaned articles of all languages.
 - [XFORMAL](https://github.com/Elbria/xformal-FoST) - A Benchmark for Multilingual Formality Style Transfer.
-- [XLSUM](https://huggingface.co/datasets/csebuetnlp/xlsum) - 1.35 million professionally annotated article-summary pairs from BBC
+- [XLSUM](https://huggingface.co/datasets/csebuetnlp/xlsum) - 1.35 million professionally annotated article-summary pairs from BBC.
 
 ## Lexicon
 
@@ -146,18 +146,18 @@ List of resources and tools developed with focus on Portuguese.
 - [OpenWordnet-PT](https://github.com/own-pt/openWordnet-PT) - an open access wordnet for Portuguese ([site](http://wn.mybluemix.net/)).
 - [OpLexicon](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/oplexicon/) - a sentiment lexicon for the Portuguese language.
 - [palavras](https://github.com/pythonprobr/palavras) - Word list of Brazillian Portuguese.
-- [PAPEL](https://www.linguateca.pt/PAPEL/)
+- [PAPEL](https://www.linguateca.pt/PAPEL/).
 - [pt-br](https://github.com/fserb/pt-br) - Wordlist, verbs, conjugations, term frequencies.
 - [PULO](http://wordnet.pt/) - Portuguese Unified Lexical Ontology.
 - [SentiLex-PT](http://b2find.eudat.eu/dataset/b6bd16c2-a8ab-598f-be41-1e7aeecd60d3) - a sentiment lexicon for Portuguese.
 - [Stopwords](https://github.com/stopwords-iso/stopwords-pt) - Portuguese stopwords collection.
-- [Tep2](http://www.nilc.icmc.usp.br/tep2/)
+- [Tep2](http://www.nilc.icmc.usp.br/tep2/).
 - [Unitex-PB](http://www.nilc.icmc.usp.br/nilc/projects/unitex-pb/web/dicionarios.html) - lexical resources.
 - [VaLexPB](https://github.com/jessemourao/VaLexPB) - a lexicon of Brazilian Portuguese verb valences.
 - [VerbNet.Br 1.0](http://143.107.183.175:21380/portlex/index.php/en/projects/verbnetbringl) - verbal lexicon of Brazilian Portuguese.
 - [wikidict-dsl-pt](https://github.com/open-dsl-dict/wikidict-dsl-pt) - Wikidata Bilingual DSL Dictionaries.
 - [Wordnetaffectbr](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/wordnetaffectbr/) - vocabulary of emotions words.
-- [Wordnet.Br](http://www.nilc.icmc.usp.br/wordnetbr/)
+- [Wordnet.Br](http://www.nilc.icmc.usp.br/wordnetbr/).
 
 ## Models
 - [Albertina PT-BR](https://huggingface.co/PORTULAN/albertina-ptbr) - It is an encoder of the BERT family for the Portuguese language - the American variant from Brazil.
@@ -173,27 +173,27 @@ List of resources and tools developed with focus on Portuguese.
 - [GPT2 small](https://huggingface.co/pierreguillou/gpt2-small-portuguese) - GPorTuguese-2 (Portuguese GPT-2 small) is a state-of-the-art language model for Portuguese based on the GPT-2 small model.
 - [GPT-Neo small](https://huggingface.co/HeyLucasLeao/gpt-neo-small-portuguese) - a finetuned version from GPT-Neo 125M by EletheurAI to Portuguese language.
 - [GPT2-Bio-PT](https://huggingface.co/pucpr/gpt2-bio-pt) - a biomedical finetuned version from GPorTuguese-2 ([Github](https://github.com/HAILab-PUCPR/gpt2-bio-pt)).
-- [mMiniLM](https://huggingface.co/unicamp-dl/mMiniLM-L6-v2-pt-v2) - mMiniLM-L6-v2 Reranker finetuned on mMARCO
-- [roberta-pt-br](https://huggingface.co/josu/roberta-pt-br)
-- [T5](https://github.com/unicamp-dl/PTT5)
-- [tgf-xlm-roberta-base-pt-br](https://huggingface.co/thegoodfellas/tgf-xlm-roberta-base-pt-br) ([Github](https://github.com/the-good-fellas/xlm-roberta-pt-br))
-- [Wav2vec](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-portuguese)
+- [mMiniLM](https://huggingface.co/unicamp-dl/mMiniLM-L6-v2-pt-v2) - mMiniLM-L6-v2 Reranker finetuned on mMARCO.
+- [roberta-pt-br](https://huggingface.co/josu/roberta-pt-br).
+- [T5](https://github.com/unicamp-dl/PTT5).
+- [tgf-xlm-roberta-base-pt-br](https://huggingface.co/thegoodfellas/tgf-xlm-roberta-base-pt-br) ([Github](https://github.com/the-good-fellas/xlm-roberta-pt-br)).
+- [Wav2vec](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-portuguese).
 
 ### Multilingual Models
 
-- [Bloom](https://huggingface.co/bigscience/bloom)
-- [multilingual Bert](https://huggingface.co/bert-base-multilingual-cased)
-- [mDeBERTa](https://huggingface.co/microsoft/mdeberta-v3-base)
+- [Bloom](https://huggingface.co/bigscience/bloom).
+- [multilingual Bert](https://huggingface.co/bert-base-multilingual-cased).
+- [mDeBERTa](https://huggingface.co/microsoft/mdeberta-v3-base).
 - [mGPT](https://huggingface.co/sberbank-ai/mGPT) - Multilingual GPT model. An autoregressive GPT-like model.
 - [mT5](https://huggingface.co/google/mt5-base) - Multilingual T5. A massively multilingual pre-trained text-to-text transformer.
-- [XLM-RoBERTa](https://huggingface.co/xlm-roberta-base)
+- [XLM-RoBERTa](https://huggingface.co/xlm-roberta-base).
 
 ## Word Embeddings
 
-- [fastText](https://fasttext.cc/docs/en/crawl-vectors.html) - Multi-lingual word vectors
-- [LASER](https://github.com/facebookresearch/LASER)
-- [NILC-Embeddings](http://www.nilc.icmc.usp.br/embeddings)
-- [MUSE](https://github.com/facebookresearch/MUSE) - Multilingual Unsupervised and Supervised Embeddings
+- [fastText](https://fasttext.cc/docs/en/crawl-vectors.html) - Multi-lingual word vectors.
+- [LASER](https://github.com/facebookresearch/LASER).
+- [NILC-Embeddings](http://www.nilc.icmc.usp.br/embeddings).
+- [MUSE](https://github.com/facebookresearch/MUSE) - Multilingual Unsupervised and Supervised Embeddings.
 - [word vectors](https://github.com/Kyubyong/wordvectors) - Pre-trained word vectors of 30+ languages.
 
 ## Metrics
@@ -203,21 +203,21 @@ List of resources and tools developed with focus on Portuguese.
 
 ## Frameworks
 
-- [spaCy](https://spacy.io/models/pt)
-- [polyglot](https://github.com/aboSamoor/polyglot)
-- [Stanza NLP](https://stanfordnlp.github.io/stanza/available_models.html)
-- [udpipe](https://github.com/bnosac/udpipe)
-- [nlpnet](http://nilc.icmc.usp.br/nlpnet/)
+- [spaCy](https://spacy.io/models/pt).
+- [polyglot](https://github.com/aboSamoor/polyglot).
+- [Stanza NLP](https://stanfordnlp.github.io/stanza/available_models.html).
+- [udpipe](https://github.com/bnosac/udpipe).
+- [nlpnet](http://nilc.icmc.usp.br/nlpnet/).
 
 ## Institutions
 
-- [Brasileiras em PLN](https://brasileiraspln.com/)
-- [HAILab-PUCPR](https://github.com/HAILab-PUCPR) - A pioneering research group aiming to develop solutions for health care using Natural Language Processing and Machine Learning
-- [Linguateca](https://www.linguateca.pt/)
-- [NILC](http://www.nilc.icmc.usp.br/nilc/index.php)
-- [NLPortuguês](https://nlportugues.ime.usp.br/) - Devoted to creating NLP courses in brazilian portuguese
-- [NLX-Group](http://nlx.di.fc.ul.pt/)
-- [PLN PUCRS](https://www.inf.pucrs.br/linatural/wordpress/)
+- [Brasileiras em PLN](https://brasileiraspln.com/).
+- [HAILab-PUCPR](https://github.com/HAILab-PUCPR) - A pioneering research group aiming to develop solutions for health care using Natural Language Processing and Machine Learning.
+- [Linguateca](https://www.linguateca.pt/).
+- [NILC](http://www.nilc.icmc.usp.br/nilc/index.php).
+- [NLPortuguês](https://nlportugues.ime.usp.br/) - Devoted to creating NLP courses in brazilian portuguese.
+- [NLX-Group](http://nlx.di.fc.ul.pt/).
+- [PLN PUCRS](https://www.inf.pucrs.br/linatural/wordpress/).
 
 ## Tools
 
