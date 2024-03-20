@@ -5,7 +5,7 @@ List of resources and tools developed with focus on Portuguese.
 ## Datasets
 
 - [18th-century Portuguese medical texts](https://github.com/uebelsetzer/NLP_for_18th-century_Portuguese_medical_texts)
-- [AG_news pt](https://huggingface.co/datasets/maritaca-ai/ag_news_pt) - Tradução autoaática do AG's corpus of news articles.
+- [AG_news pt](https://huggingface.co/datasets/maritaca-ai/ag_news_pt) - Tradução automática do AG's corpus of news articles.
 - [Alpaca data pt-br](https://huggingface.co/datasets/dominguesm/alpaca-data-pt-br) - Stanford Alpaca dataset translated into Brazilian Portuguese using the Helsinki-NLP/opus-mt-tc-big-en-pt model.
 - [AspectBR](https://github.com/franciellevargas/AspectBR) - Aspect-based annotated dataset of web consumer reviews.
 - [ASSIN](http://nilc.icmc.usp.br/assin/) - a dataset with semantic similarity score and entailment annotations.
@@ -13,7 +13,8 @@ List of resources and tools developed with focus on Portuguese.
 - [Automated Essay Score (AES) ENEM Dataset](https://github.com/kamel-usp/aes_enem) - ([HuggingFace](https://huggingface.co/datasets/kamel-usp/aes_enem_dataset))
 - [BlogSet-BR](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/blogset-br-english/) - a collection of posts gathered from Blogspot platform written by Brazillian users.
 - [BoolQ](https://huggingface.co/datasets/maritaca-ai/boolq_pt) - tradução automática do BoolQ.
-- [br-quad-2.0](https://github.com/piEsposito/br-quad-2.0) - Stanford Question Answering Dataset (SQuAD) 2.0 translated to Brazilian Portuguese (PT-BR) language. 
+- [br-quad-2.0](https://github.com/piEsposito/br-quad-2.0) - Stanford Question Answering Dataset (SQuAD) 2.0 translated to Brazilian Portuguese (PT-BR) language.
+- [Brands.Br](https://github.com/metalmorphy/Brands.Br) - a Portuguese Reviews Corpus
 - [Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) - Brazilian E-Commerce Public Dataset by Olist store.
 - [Brazilian Headlines Sentiments](https://www.kaggle.com/datasets/brunoluvizotto/brazilian-headlines-sentiments) - Dataset containing sentiment analysis of Brazilian news agencies headlines.
 - [Brazilian Portuguese Literature Corpus](https://www.kaggle.com/datasets/rtatman/brazilian-portuguese-literature-corpus) - 3.7 million word corpus of Brazilian literature published between 1840-1908.
@@ -36,6 +37,7 @@ List of resources and tools developed with focus on Portuguese.
 - [CORAA SER](https://github.com/rmarcacini/ser-coraa-pt-br) - Emotion Recognition from Brazilian Portuguese Informal Spontaneous Speech.
 - [CSTNews](https://sites.icmc.usp.br/taspardo/sucinto/cstnews.html) - a corpus with 50 clusters of news texts with their multi-document summaries, as well as several discourse and semantic annotations.
 - [C-ORAL-BRASIL](http://www.c-oral-brasil.org/english-site/index.html) - This project is dedicated to the study of Brazilian Portuguese spontaneous speech and, more broadly, to the compilation of spoken corpora.
+- [DANTEStocks](https://www.kaggle.com/datasets/michelmzerbinati/portuguese-tweet-corpus-annotated-with-ner) - Corpus of stock market tweets written in Brazilian Portuguese and annotated with named entities according to HAREM's taxonomy.
 - [DEEPAGÉ](https://github.com/C4AI/deepage) - Answering Questions in Portuguese about the Brazilian Environment.
 - [DNLT-BP](https://github.com/nilc-nlp/DNLT-BP) - Datasets of Neuropsychological Language Tests in Brazilian Portuguese.
 - [ENEM Challenge](https://www.ime.usp.br/~ddm/project/enem/) - Consists of the writing of an essay and an objective part containing 180 multiple choice questions.
@@ -70,6 +72,7 @@ List of resources and tools developed with focus on Portuguese.
 - [Parallel Corpora from Revista Pesquisa FAPESP](http://www.nilc.icmc.usp.br/nilc/tools/Fapesp%20Corpora.htm) - Portuguese-English and Portuguese-Spanish bilingual collections of the online issues of the scientific news Brazilian magazine Revista Pesquisa FAPESP.
 - [NURC-SP](http://tarsila.icmc.usp.br:8080/nurc/catna)
 - [Pirá](https://github.com/C4AI/Pira) - A Bilingual Portuguese-English Dataset for Question-Answering about the Ocean.
+- [PL-corpus](https://huggingface.co/datasets/bergoliveira/pl-corpus) - part of the UlyssesNER-Br, a corpus of Brazilian Legislative Documents for NER with quality baselines.
 - [PLUE](https://github.com/ju-resplande/PLUE) - Portuguese translation of the GLUE benchmark and Scitail dataset.
 - [POeTiSA](https://sites.google.com/icmc.usp.br/poetisa) - POrtuguese processing - Towards Syntactic Analysis and parsing.
 - [politiquices](https://github.com/politiquices/data-releases) -  Datasets related with the politiquices.pt project.
@@ -109,6 +112,7 @@ List of resources and tools developed with focus on Portuguese.
 - [UD_Portuguese-GSD](https://github.com/UniversalDependencies/UD_Portuguese-GSD) - Universal Dependencies (UD) Portuguese treebank.
 - [UD_Portuguese-PetroGold](https://github.com/UniversalDependencies/UD_Portuguese-PetroGold) - Universal Dependencies (UD) Portuguese treebank.
 - [UD_Portuguese-PUD](https://github.com/UniversalDependencies/UD_Portuguese-PUD) - Universal Dependencies (UD) Portuguese treebank.
+- [UlyssesNER-Br](https://github.com/ulysses-camara/ulysses-ner-br/) - Corpus of Brazilian Legislative Documents for Named Entity Recognition
 - [UTLCorpus](https://github.com/RogerFig/UTLCorpus) - a corpus of online reviews in Brazilian Portuguese annotated with helpfulness classification.
 - [Winograd Schema Challenge](https://github.com/gabimelo/portuguese_wsc) - Solver for the Portuguese-based Winograd Schema Challenge.
 
