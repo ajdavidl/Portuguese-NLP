@@ -9,8 +9,8 @@ List of resources and tools developed with focus on Portuguese.
 - [AG_news pt](https://huggingface.co/datasets/maritaca-ai/ag_news_pt) - Tradução automática do AG's corpus of news articles.
 - [Alpaca data pt-br](https://huggingface.co/datasets/dominguesm/alpaca-data-pt-br) - Stanford Alpaca dataset translated into Brazilian Portuguese using the Helsinki-NLP/opus-mt-tc-big-en-pt model.
 - [AspectBR](https://github.com/franciellevargas/AspectBR) - Aspect-based annotated dataset of web consumer reviews.
-- [ASSIN](http://nilc.icmc.usp.br/assin/) - a dataset with semantic similarity score and entailment annotations.
-- [ASSIN 2](https://sites.google.com/view/assin2) - sequence of ASSIN.
+- [ASSIN](http://nilc.icmc.usp.br/assin/) - a dataset with semantic similarity score and entailment annotations. ([HuggingFace](https://huggingface.co/datasets/assin))
+- [ASSIN 2](https://sites.google.com/view/assin2) - sequence of ASSIN. ([HuggingFace](https://huggingface.co/datasets/assin2))
 - [Automated Essay Score (AES) ENEM Dataset](https://github.com/kamel-usp/aes_enem) - ([HuggingFace](https://huggingface.co/datasets/kamel-usp/aes_enem_dataset))
 - [Aya Dataset PT](https://huggingface.co/datasets/nicolasdec/aya_dataset_pt) - CohereForAI Aya Dataset filtrado para português (PT).
 - [BlogSet-BR](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/blogset-br-english/) - a collection of posts gathered from Blogspot platform written by Brazillian users.
@@ -135,6 +135,7 @@ List of resources and tools developed with focus on Portuguese.
 - [MKQA](https://huggingface.co/datasets/mkqa) - Multilingual Knowledge Questions & Answers ([github](https://github.com/apple/ml-mkqa)).
 - [MQA](https://huggingface.co/datasets/clips/mqa) - multilingual corpus of Questions and Answers (MQA) parsed from the Common Crawl.
 - [MMARCO](https://huggingface.co/datasets/unicamp-dl/mmarco) - Multilingual version of the MS MARCO passage ranking dataset.
+- [mRobust](https://huggingface.co/datasets/unicamp-dl/mrobust) - Multilingual version of the TREC 2004 Robust passage ranking dataset 
 - [MultiCoNER](https://huggingface.co/datasets/MultiCoNER/multiconer_v2) - a large multilingual dataset for Named Entity Recognition.
 - [MuST-C](https://ict.fbk.eu/must-c/) - multilingual speech translation corpus.
 - [OSCAR](https://oscar-corpus.com/) - Open Super-large Crawled Aggregated coRpus.
@@ -194,7 +195,6 @@ List of resources and tools developed with focus on Portuguese.
 - [GPT2 small](https://huggingface.co/pierreguillou/gpt2-small-portuguese) - GPorTuguese-2 (Portuguese GPT-2 small) is a state-of-the-art language model for Portuguese based on the GPT-2 small model.
 - [GPT-Neo small](https://huggingface.co/HeyLucasLeao/gpt-neo-small-portuguese) - a finetuned version from GPT-Neo 125M by EletheurAI to Portuguese language.
 - [GPT2-Bio-PT](https://huggingface.co/pucpr/gpt2-bio-pt) - a biomedical finetuned version from GPorTuguese-2 ([Github](https://github.com/HAILab-PUCPR/gpt2-bio-pt)).
-- [mMiniLM](https://huggingface.co/unicamp-dl/mMiniLM-L6-v2-pt-v2) - mMiniLM-L6-v2 Reranker finetuned on mMARCO
 - [roberta-pt-br](https://huggingface.co/josu/roberta-pt-br)
 - [RoBERTaCrawlPT-base](https://huggingface.co/eduagarcia/RoBERTaCrawlPT-base) - RoBERTaCrawlPT-base is a generic Portuguese Masked Language Model pretrained from scratch from the CrawlPT corpora
 - [RoBERTaLexPT-base](https://huggingface.co/eduagarcia/RoBERTaLexPT-base) - Portuguese Masked Language Model pretrained from scratch from the LegalPT and CrawlPT corpora
@@ -205,11 +205,13 @@ List of resources and tools developed with focus on Portuguese.
 ### Multilingual Models
 
 - [Bloom](https://huggingface.co/bigscience/bloom)
-- [multilingual Bert](https://huggingface.co/bert-base-multilingual-cased)
+- [mBert](https://huggingface.co/bert-base-multilingual-cased)
 - [mDeBERTa](https://huggingface.co/microsoft/mdeberta-v3-base)
 - [mGPT](https://huggingface.co/sberbank-ai/mGPT) - Multilingual GPT model. An autoregressive GPT-like model.
+- [mMiniLM](https://huggingface.co/unicamp-dl/mMiniLM-L6-v2-pt-v2) - mMiniLM-L6-v2 Reranker finetuned on mMARCO
 - [mT5](https://huggingface.co/google/mt5-base) - Multilingual T5. A massively multilingual pre-trained text-to-text transformer.
 - [XLM-RoBERTa](https://huggingface.co/xlm-roberta-base)
+- [LaBSE](https://huggingface.co/sentence-transformers/LaBSE) - Language-agnostic BERT Sentence Encoder (LaBSE) is a BERT-based model trained for sentence embedding for 109 languages. 
 
 ## Word Embeddings
 
