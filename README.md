@@ -4,17 +4,24 @@ List of resources and tools developed with focus on Portuguese.
 
 ## Datasets
 
-- [AG_news pt](https://huggingface.co/datasets/maritaca-ai/ag_news_pt) - Tradução autoaática do AG's corpus of news articles.
+- [#PraCegoVer](https://huggingface.co/datasets/gabrielsantosrv/pracegover) -  multi-modal dataset with Portuguese captions based on posts from Instagram.
+- [18th-century Portuguese medical texts](https://github.com/uebelsetzer/NLP_for_18th-century_Portuguese_medical_texts)
+- [AG_news pt](https://huggingface.co/datasets/maritaca-ai/ag_news_pt) - Tradução automática do AG's corpus of news articles.
 - [Alpaca data pt-br](https://huggingface.co/datasets/dominguesm/alpaca-data-pt-br) - Stanford Alpaca dataset translated into Brazilian Portuguese using the Helsinki-NLP/opus-mt-tc-big-en-pt model.
 - [AspectBR](https://github.com/franciellevargas/AspectBR) - Aspect-based annotated dataset of web consumer reviews.
-- [ASSIN](http://nilc.icmc.usp.br/assin/) - a dataset with semantic similarity score and entailment annotations.
-- [ASSIN 2](https://sites.google.com/view/assin2) - sequence of ASSIN.
+- [ASSIN](http://nilc.icmc.usp.br/assin/) - a dataset with semantic similarity score and entailment annotations. ([HuggingFace](https://huggingface.co/datasets/assin))
+- [ASSIN 2](https://sites.google.com/view/assin2) - sequence of ASSIN. ([HuggingFace](https://huggingface.co/datasets/assin2))
+- [Automated Essay Score (AES) ENEM Dataset](https://github.com/kamel-usp/aes_enem) - ([HuggingFace](https://huggingface.co/datasets/kamel-usp/aes_enem_dataset))
+- [Aya Dataset PT](https://huggingface.co/datasets/nicolasdec/aya_dataset_pt) - CohereForAI Aya Dataset filtrado para português (PT).
 - [BlogSet-BR](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/blogset-br-english/) - a collection of posts gathered from Blogspot platform written by Brazillian users.
+- [BLUEX](https://huggingface.co/datasets/portuguese-benchmark-datasets/BLUEX) - A benchmark based on Brazilian Leading Universities Entrance eXams.
 - [BoolQ](https://huggingface.co/datasets/maritaca-ai/boolq_pt) - tradução automática do BoolQ.
-- [br-quad-2.0](https://github.com/piEsposito/br-quad-2.0) - Stanford Question Answering Dataset (SQuAD) 2.0 translated to Brazilian Portuguese (PT-BR) language. 
+- [br-quad-2.0](https://github.com/piEsposito/br-quad-2.0) - Stanford Question Answering Dataset (SQuAD) 2.0 translated to Brazilian Portuguese (PT-BR) language.
+- [Brands.Br](https://github.com/metalmorphy/Brands.Br) - a Portuguese Reviews Corpus
 - [Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) - Brazilian E-Commerce Public Dataset by Olist store.
 - [Brazilian Headlines Sentiments](https://www.kaggle.com/datasets/brunoluvizotto/brazilian-headlines-sentiments) - Dataset containing sentiment analysis of Brazilian news agencies headlines.
 - [Brazilian Portuguese Literature Corpus](https://www.kaggle.com/datasets/rtatman/brazilian-portuguese-literature-corpus) - 3.7 million word corpus of Brazilian literature published between 1840-1908.
+- [Brazilian Portuguese Narrative Essays Dataset](https://www.kaggle.com/datasets/moesiof/portuguese-narrative-essays) - Dataset for Automatic Essay Scoring of Brazilian Portuguese Narrative Essays.
 - [Brazilian Portuguese Sentiment Analysis Datasets](https://www.kaggle.com/datasets/fredericods/ptbr-sentiment-analysis-datasets).
 - [Brazilian TCU's judgments](https://www.kaggle.com/datasets/ferraz/acordaos-tcu) - Judgments of Federal Court of Accounts - Brazil (TCU).
 - [BrWaC](https://www.inf.ufrgs.br/pln/wiki/index.php?title=BrWaC) - Brazilian Portuguese Web as Corpus.
@@ -31,21 +38,24 @@ List of resources and tools developed with focus on Portuguese.
 - [Complexidade Textual para Estágios Escolares do Sistema Educacional Brasileiro](https://github.com/gazzola/corpus_readability_nlp_portuguese).
 - [CORAA](https://github.com/nilc-nlp/CORAA) - dataset for Automatic Speech Recognition.
 - [CORAA SER](https://github.com/rmarcacini/ser-coraa-pt-br) - Emotion Recognition from Brazilian Portuguese Informal Spontaneous Speech.
+- [CrawlPT_dedup](https://huggingface.co/datasets/eduagarcia/CrawlPT_dedup) - CrawlPT (deduplicated) is composed by three corpora: brWaC, C100-PT, OSCAR-2301.
 - [CSTNews](https://sites.icmc.usp.br/taspardo/sucinto/cstnews.html) - a corpus with 50 clusters of news texts with their multi-document summaries, as well as several discourse and semantic annotations.
 - [C-ORAL-BRASIL](http://www.c-oral-brasil.org/english-site/index.html) - This project is dedicated to the study of Brazilian Portuguese spontaneous speech and, more broadly, to the compilation of spoken corpora.
+- [DANTEStocks](https://www.kaggle.com/datasets/michelmzerbinati/portuguese-tweet-corpus-annotated-with-ner) - Corpus of stock market tweets written in Brazilian Portuguese and annotated with named entities according to HAREM's taxonomy.
 - [DEEPAGÉ](https://github.com/C4AI/deepage) - Answering Questions in Portuguese about the Brazilian Environment.
 - [DNLT-BP](https://github.com/nilc-nlp/DNLT-BP) - Datasets of Neuropsychological Language Tests in Brazilian Portuguese.
 - [ENEM Challenge](https://www.ime.usp.br/~ddm/project/enem/) - Consists of the writing of an essay and an objective part containing 180 multiple choice questions.
 - [ENEM-2022](https://github.com/piresramon/gpt-4-enem/blob/main/data/enem/2022.json).
+- [ENEM-2022 and ENEM-2023](https://huggingface.co/datasets/maritaca-ai/enem).
 - [Essay-BR](https://github.com/rafaelanchieta/essay) - Essay-BR: a corpus of essays for the Brazilian Portuguese language.
 - [Extended Essay-BR](https://github.com/lplnufpi/essay-br) - Extended version of the Essay-BR corpus.
 - [FACTCK.BR](https://github.com/jghm-f/FACTCK.BR) - A dataset to study Fake News in Portuguese.
 - [FactNews](https://github.com/franciellevargas/FactNews) - dataset to predict sentence-level factuality of news reporting.
 - [Fake.Br](https://github.com/roneysco/Fake.br-Corpus) - aligned true and fake news written in Brazilian Portuguese ([Hugginface](https://huggingface.co/datasets/fake-news-UFG/fakebr)).
-- [fake-news-UFG/central_de_fatos](https://huggingface.co/datasets/fake-news-UFG/central_de_fatos).
-- [fake-news-UFG/FakeNewsSet](https://huggingface.co/datasets/fake-news-UFG/FakeNewsSet).
+- [Central_de_fatos](https://doi.org/10.5281/zenodo.5191798) - ([Huggingface](https://huggingface.co/datasets/fake-news-UFG/central_de_fatos)).
+- [FakeNewsSet](https://github.com/kamplus/FakeNewsSetGen) - ([HuggingFace](https://huggingface.co/datasets/fake-news-UFG/FakeNewsSet)).
 - [Fakepedia-Corpus](https://github.com/andersoncordeiro/Fakepedia-Corpus).
-- [FakeRecogna](https://github.com/Gabriel-Lino-Garcia/FakeRecogna) - dataset comprised of real and fake news ([Huggingface](https://huggingface.co/datasets/fake-news-UFG/FakeRecogna)).
+- [FakeRecogna](https://github.com/Gabriel-Lino-Garcia/FakeRecogna) - dataset comprised of real and fake news ([Huggingface](https://huggingface.co/datasets/recogna-nlp/FakeRecogna)).
 - [FakeWhatsApp.Br](https://github.com/cabrau/FakeWhatsApp.Br) - An annotated Corpus of WhatsApp messages in PT-BR for automatic detection of textual misinformation.
 - [FCN](https://github.com/GoloMarcos/FKTC).
 - [Floresta Sintá(c)tica](https://www.linguateca.pt/Floresta/) - treebank for Portuguese.
@@ -56,6 +66,7 @@ List of resources and tools developed with focus on Portuguese.
 - [IMDB pt](https://huggingface.co/datasets/maritaca-ai/imdb_pt) - Tradução atomática do IMBD.
 - [Iudicium Textum Dataset](http://dadosabertos.c3sl.ufpr.br/acordaos/) - contains legal documents created by Brazilian Federal Supreme Court in its integral composition ([paper](https://www.researchgate.net/publication/336022563_Iudicium_Textum_Dataset_Uma_Base_de_Textos_Juridicos_para_NLP)).
 - [LeNER-Br](https://github.com/peluz/lener-br) - a Dataset for Named Entity Recognition in Brazilian Legal Text.
+- [LegalPT_dedup](https://huggingface.co/datasets/eduagarcia/LegalPT_dedup) - LegalPT (deduplicated) aggregates the maximum amount of publicly available legal data in Portuguese.
 - [Lex2Kids](http://www.nilc.icmc.usp.br/leg2kids/) - lexicon in Portuguese most heard by children.
 - [Mac-Morpho](http://www.nilc.icmc.usp.br/macmorpho/) - Brazilian Portuguese texts annotated with part-of-speech tags.
 - [MilkQA](http://www.nilc.icmc.usp.br/nilc/index.php/milkqa/) - a dataset of dense questions for the task of answer selection.
@@ -64,23 +75,28 @@ List of resources and tools developed with focus on Portuguese.
 - [News-Crawl-PT](https://data.statmt.org/news-crawl/pt/) - Monolingual News Crawl used for WMT.
 - [News of the site Folha de São Paulo](https://www.kaggle.com/datasets/marlesson/news-of-the-site-folhauol).
 - [News published in Brazil](https://www.kaggle.com/datasets/diogocaliman/notcias-publicadas-no-brasil).
+- [OAB exams](https://github.com/legal-nlp/oab-exams) ([HuggingFace](https://huggingface.co/datasets/eduagarcia/oab_exams))
 - [Parallel Corpora from Revista Pesquisa FAPESP](http://www.nilc.icmc.usp.br/nilc/tools/Fapesp%20Corpora.htm) - Portuguese-English and Portuguese-Spanish bilingual collections of the online issues of the scientific news Brazilian magazine Revista Pesquisa FAPESP.
+- [NURC-SP](http://tarsila.icmc.usp.br:8080/nurc/catna)
 - [Pirá](https://github.com/C4AI/Pira) - A Bilingual Portuguese-English Dataset for Question-Answering about the Ocean.
+- [PL-corpus](https://huggingface.co/datasets/bergoliveira/pl-corpus) - part of the UlyssesNER-Br, a corpus of Brazilian Legislative Documents for NER with quality baselines.
 - [PLUE](https://github.com/ju-resplande/PLUE) - Portuguese translation of the GLUE benchmark and Scitail dataset.
 - [POeTiSA](https://sites.google.com/icmc.usp.br/poetisa) - POrtuguese processing - Towards Syntactic Analysis and parsing.
 - [politiquices](https://github.com/politiquices/data-releases) -  Datasets related with the politiquices.pt project.
 - [PorSimplesSent](https://github.com/sidleal/porsimplessent) - of aligned sentences pairs to investigate sentence readability assessment.
 - [PortiLexicon-UD](https://portilexicon.icmc.usp.br/) -  a lexicon for Brazilian Portuguese according to Universal Dependencies.
+- [Portuguese-Hate-Speech-Dataset](https://github.com/paulafortuna/Portuguese-Hate-Speech-Dataset) - Portuguese dataset for hate speech detection composed of 5,668 tweets with binary annotations (i.e. 'hate' vs. 'no-hate') ([HuggingFace](https://huggingface.co/datasets/hate_speech_portuguese))
 - [Portuguese Legal Sentences](https://huggingface.co/datasets/rufimelo/PortugueseLegalSentences-v3) - Collection of Legal Sentences from the Portuguese Supreme Court of Justice.
 - [Portuguese Presidential Elections](https://github.com/msramalho/election-watch/blob/master/datasets/01_portuguese_presidential_elections_2021_01_24.md) - This dataset contains tweets and users mostly from the Portuguese Twittersphere.
 - [PraCegoVer](https://github.com/larocs/PraCegoVer) - multi-modal dataset containing images associated to Portuguese captions based on posts from Instagram.
 - [Priberam Fine-Grained Opinion Corpus](http://labs.priberam.pt/Resources/Fine-Grained-Opinion-Corpus.aspx) - a Portuguese fine-grained dependency opinion mining corpus.
 - [Propbank](http://143.107.183.175:21380/portlex/index.php/en/downloadsingl) - Contains instances annotated with semantic role labels (SRL). 
 - [Projeto ACDC](https://www.linguateca.pt/ACDC/) - Internet Access to Corpora.
-- [Puntuguese](https://huggingface.co/datasets/Superar/Puntuguese) - Puntuguese is a corpus of punning texts in Portuguese, including jokes in Brazilian and European Portuguese. ([github](https://github.com/Superar/Puntuguese)).
+- [Puntuguese](https://github.com/Superar/Puntuguese/) - A Corpus of Puns in Portuguese with Micro-editions ([HuggingFace](https://huggingface.co/datasets/Superar/Puntuguese))
 - [QA-Portuguese](https://huggingface.co/datasets/ju-resplande/qa-pt) - Adaptation from MQA dataset Portuguese split (QA entailment pairs).
 - [REBEL-Portuguese](https://huggingface.co/datasets/ju-resplande/rebel-pt) - Datasets de relações a partir da Wikipedia.
 - [ReLi](https://www.linguateca.pt/Repositorio/ReLi/) - REsenha de LIvros.
+- [RePro: A Benchmark Dataset for Opinion Mining for Brazilian Portuguese](https://github.com/lucasnil/repro) - A Benchmark Dataset for Opinion Mining for Brazilian Portuguese. ([HuggingFace](https://huggingface.co/datasets/lucasnil/repro))
 - [Rhetalho](https://sites.icmc.usp.br/taspardo/rhetalho.zip) - corpus annotated with Daniel Marcu's RSTTool.
 - [SemClinBr](https://github.com/HAILab-PUCPR/SemClinBr) - multi-institutional and multi-specialty semantically annotated corpus for Portuguese clinical NLP tasks.
 - [SESAME](https://sesame-pt.github.io/) - corpus for NER in portuguese.
@@ -88,6 +104,7 @@ List of resources and tools developed with focus on Portuguese.
 - [SIMPLEX-PB](https://github.com/nathanshartmann/SIMPLEX-PB) - A Lexical Simplification Database and Benchmark for Portuguese.
 - [SIMPLEX-PB-2.0](https://github.com/nathanshartmann/simplex-pb-2.0) - improved version of SIMPLEX-PB.
 - [SIMPLEX-PB-3.0](https://github.com/nathanshartmann/simplex-pb-3.0) - new version of SIMPLEX-PB.
+- [Spotify Subset](https://github.com/aryamtos/spotify-subset) - classifying language variations in Brazilian Portuguese
 - [SQUAD-PT v1.1](https://github.com/nunorc/squad-v1.1-pt) - Portuguese translation of the SQuAD dataset.
 - [SQUAD-PT v1.1-pt-br](https://huggingface.co/datasets/ArthurBaia/squad_v1_pt_br) - Brazilian Portuguese translation of the SQuAD dataset, translated by Deep Learning Brasil.
 - [SQUAD-PT v2.0](https://github.com/cjaniake/squad_v2.0_pt) - Portuguese translation of SQuAD 2.0 dataset.
@@ -103,11 +120,14 @@ List of resources and tools developed with focus on Portuguese.
 - [UD_Portuguese-GSD](https://github.com/UniversalDependencies/UD_Portuguese-GSD) - Universal Dependencies (UD) Portuguese treebank.
 - [UD_Portuguese-PetroGold](https://github.com/UniversalDependencies/UD_Portuguese-PetroGold) - Universal Dependencies (UD) Portuguese treebank.
 - [UD_Portuguese-PUD](https://github.com/UniversalDependencies/UD_Portuguese-PUD) - Universal Dependencies (UD) Portuguese treebank.
+- [UlyssesNER-Br](https://github.com/ulysses-camara/ulysses-ner-br/) - Corpus of Brazilian Legislative Documents for Named Entity Recognition
 - [UTLCorpus](https://github.com/RogerFig/UTLCorpus) - a corpus of online reviews in Brazilian Portuguese annotated with helpfulness classification.
 - [Winograd Schema Challenge](https://github.com/gabimelo/portuguese_wsc) - Solver for the Portuguese-based Winograd Schema Challenge.
+- [WizardVicuna-PTBR-Instruct-Clean](https://huggingface.co/datasets/cnmoro/WizardVicuna-PTBR-Instruct-Clean)
 
 ### Multilingual datasets
 
+- [A Multilingual Dataset for Investigating Stereotypes and Negative Attitudes Towards Migrant Groups in Large Language Models](https://github.com/dsorato/stereotypes_negative_attitudes_towards_migrants_dataset)
 - [askD](https://huggingface.co/datasets/ju-resplande/askD) - ELI5 dataset adapted on Medical Questions (AskDocs) subreddit.
 - [English-Portuguese Sentences](http://www.manythings.org/bilingual/por/) - English-Portuguese Sentences from the Tatoeba Project.
 - [EUR-Lex](https://www.sketchengine.eu/eurlex-corpus/) - multilingual corpus in all the official languages of the European Union.
@@ -118,6 +138,7 @@ List of resources and tools developed with focus on Portuguese.
 - [MKQA](https://huggingface.co/datasets/mkqa) - Multilingual Knowledge Questions & Answers ([github](https://github.com/apple/ml-mkqa)).
 - [MQA](https://huggingface.co/datasets/clips/mqa) - multilingual corpus of Questions and Answers (MQA) parsed from the Common Crawl.
 - [MMARCO](https://huggingface.co/datasets/unicamp-dl/mmarco) - Multilingual version of the MS MARCO passage ranking dataset.
+- [mRobust](https://huggingface.co/datasets/unicamp-dl/mrobust) - Multilingual version of the TREC 2004 Robust passage ranking dataset 
 - [MultiCoNER](https://huggingface.co/datasets/MultiCoNER/multiconer_v2) - a large multilingual dataset for Named Entity Recognition.
 - [MuST-C](https://ict.fbk.eu/must-c/) - multilingual speech translation corpus.
 - [OpenSubtitles](https://opus.nlpl.eu/OpenSubtitles.php) - collection of translated movie subtitles.
@@ -136,6 +157,7 @@ List of resources and tools developed with focus on Portuguese.
 
 ## Lexicon
 
+- [BATS-PT](https://github.com/NLP-CISUC/PT-LexicalSemantics/tree/master/BATS-PT) - manual translation of the lexicographic portion of the Bigger Analogy Test Set (BATS) to Portuguese
 - [br.ispell](https://www.ime.usp.br/~ueda/br.ispell/summary.html) - Ispell dictionary for brazilian portuguese ([github](https://github.com/fititnt/br.ispell-dicionario-portugues-brasileiro)).
 - [Conceptnet](https://conceptnet.io/) - an open, multilingual knowledge graph.
 - [DicSin](https://github.com/fititnt/DicSin-dicionario-sinonimos-portugues-brasileiro) - Dictionary of synonyms and antonyms.
@@ -148,6 +170,7 @@ List of resources and tools developed with focus on Portuguese.
 - [palavras](https://github.com/pythonprobr/palavras) - Word list of Brazillian Portuguese.
 - [PAPEL](https://www.linguateca.pt/PAPEL/).
 - [pt-br](https://github.com/fserb/pt-br) - Wordlist, verbs, conjugations, term frequencies.
+- [PT-LKB](https://github.com/NLP-CISUC/PT-LexicalSemantics/) - Large Portuguese Lexical-Semantic Knowledge Base
 - [PULO](http://wordnet.pt/) - Portuguese Unified Lexical Ontology.
 - [SentiLex-PT](http://b2find.eudat.eu/dataset/b6bd16c2-a8ab-598f-be41-1e7aeecd60d3) - a sentiment lexicon for Portuguese.
 - [Stopwords](https://github.com/stopwords-iso/stopwords-pt) - Portuguese stopwords collection.
@@ -163,6 +186,7 @@ List of resources and tools developed with focus on Portuguese.
 - [Albertina PT-BR](https://huggingface.co/PORTULAN/albertina-ptbr) - It is an encoder of the BERT family for the Portuguese language - the American variant from Brazil.
 - [Albertina PT-PT](https://huggingface.co/PORTULAN/albertina-ptpt) - It is an encoder of the BERT family for the Portuguese language - the European variant from Portugal.
 - [Alpaca-LoRA-PTBR](https://huggingface.co/dominguesm/alpaca-lora-ptbr-7b) - Low-Rank LLaMA Instruct-Tuning.
+- [BART](https://huggingface.co/adalbertojunior/bart-base-portuguese) - BART pre-treinado em português.
 - [BERTimbau](https://huggingface.co/neuralmind/bert-base-portuguese-cased) - BERTimbau Base is a pretrained BERT model for Brazilian Portuguese that achieves state-of-the-art performances on three downstream NLP tasks: Named Entity Recognition, Sentence Textual Similarity and Recognizing Textual Entailment ([Github](https://github.com/neuralmind-ai/portuguese-bert)).
 - [BioBERTpt](https://huggingface.co/pucpr/biobertpt-all) - fine-tuned BERT models trained on the clinical domain for Portuguese language ([Github](https://github.com/HAILab-PUCPR/BioBERTpt)).
 - [Cabrita](https://huggingface.co/22h/cabrita-lora-v0-1) - A portuguese finetuned instruction LLaMA ([Github](https://github.com/22-hours/cabrita)).
@@ -170,23 +194,28 @@ List of resources and tools developed with focus on Portuguese.
 - [Electra](https://huggingface.co/dlb/electra-base-portuguese-uncased-brwac) - Electra model trained on BRWAC.
 - [Gervasio-PT-BR](https://huggingface.co/PORTULAN/gervasio-ptbr-base) - It is a decoder of the GPT family for the Portuguese language - the American variant from Brazil.
 - [Gervasio-PT-PT](https://huggingface.co/PORTULAN/gervasio-ptpt-base) - It is a decoder of the GPT family for the Portuguese language - the European variant from Portugal.
+- [GlórIA 1.3B](https://github.com/rvlopes/GlorIA) - A Portuguese European-focused Large Language Model ([HuggingFace](https://huggingface.co/NOVA-vision-language/GlorIA-1.3B))
 - [GPT2 small](https://huggingface.co/pierreguillou/gpt2-small-portuguese) - GPorTuguese-2 (Portuguese GPT-2 small) is a state-of-the-art language model for Portuguese based on the GPT-2 small model.
 - [GPT-Neo small](https://huggingface.co/HeyLucasLeao/gpt-neo-small-portuguese) - a finetuned version from GPT-Neo 125M by EletheurAI to Portuguese language.
 - [GPT2-Bio-PT](https://huggingface.co/pucpr/gpt2-bio-pt) - a biomedical finetuned version from GPorTuguese-2 ([Github](https://github.com/HAILab-PUCPR/gpt2-bio-pt)).
-- [mMiniLM](https://huggingface.co/unicamp-dl/mMiniLM-L6-v2-pt-v2) - mMiniLM-L6-v2 Reranker finetuned on mMARCO.
-- [roberta-pt-br](https://huggingface.co/josu/roberta-pt-br).
-- [T5](https://github.com/unicamp-dl/PTT5).
-- [tgf-xlm-roberta-base-pt-br](https://huggingface.co/thegoodfellas/tgf-xlm-roberta-base-pt-br) ([Github](https://github.com/the-good-fellas/xlm-roberta-pt-br)).
-- [Wav2vec](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-portuguese).
+- [roberta-pt-br](https://huggingface.co/josu/roberta-pt-br)
+- [RoBERTaCrawlPT-base](https://huggingface.co/eduagarcia/RoBERTaCrawlPT-base) - RoBERTaCrawlPT-base is a generic Portuguese Masked Language Model pretrained from scratch from the CrawlPT corpora
+- [RoBERTaLexPT-base](https://huggingface.co/eduagarcia/RoBERTaLexPT-base) - Portuguese Masked Language Model pretrained from scratch from the LegalPT and CrawlPT corpora
+- [T5](https://github.com/unicamp-dl/PTT5)
+- [tgf-xlm-roberta-base-pt-br](https://huggingface.co/thegoodfellas/tgf-xlm-roberta-base-pt-br) ([Github](https://github.com/the-good-fellas/xlm-roberta-pt-br))
+- [Wav2vec](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-portuguese)
 
 ### Multilingual Models
 
-- [Bloom](https://huggingface.co/bigscience/bloom).
-- [multilingual Bert](https://huggingface.co/bert-base-multilingual-cased).
-- [mDeBERTa](https://huggingface.co/microsoft/mdeberta-v3-base).
+- [Bloom](https://huggingface.co/bigscience/bloom)
+- [mBert](https://huggingface.co/bert-base-multilingual-cased)
+- [mDeBERTa](https://huggingface.co/microsoft/mdeberta-v3-base)
 - [mGPT](https://huggingface.co/sberbank-ai/mGPT) - Multilingual GPT model. An autoregressive GPT-like model.
+- [mMiniLM](https://huggingface.co/unicamp-dl/mMiniLM-L6-v2-pt-v2) - mMiniLM-L6-v2 Reranker finetuned on mMARCO
 - [mT5](https://huggingface.co/google/mt5-base) - Multilingual T5. A massively multilingual pre-trained text-to-text transformer.
-- [XLM-RoBERTa](https://huggingface.co/xlm-roberta-base).
+- [XLM-RoBERTa](https://huggingface.co/xlm-roberta-base)
+- [LaBSE](https://huggingface.co/sentence-transformers/LaBSE) - Language-agnostic BERT Sentence Encoder (LaBSE) is a BERT-based model trained for sentence embedding for 109 languages. 
+
 
 ## Word Embeddings
 
@@ -201,13 +230,15 @@ List of resources and tools developed with focus on Portuguese.
 - [Coh-Metrix-Port](https://github.com/nilc-nlp/coh-metrix-port) - an adaptation of the Coh-Metrix text analysis tool to the Brazilian Portuguese language.
 - [NILC-Metrix](https://github.com/sidleal/nilcmetrix) - it gathers the metrics developed over more than a decade in NILC Lab.
 
-## Frameworks
+## Leaderboards
+- [Open PT LLM Leaderboard](https://huggingface.co/spaces/eduagarcia/open_pt_llm_leaderboard) - Open PT LLM Leaderboard aims to provide a benchmark for the evaluation of Large Language Models (LLMs) in the Portuguese language across a variety of tasks and datasets.
 
-- [spaCy](https://spacy.io/models/pt).
-- [polyglot](https://github.com/aboSamoor/polyglot).
-- [Stanza NLP](https://stanfordnlp.github.io/stanza/available_models.html).
-- [udpipe](https://github.com/bnosac/udpipe).
-- [nlpnet](http://nilc.icmc.usp.br/nlpnet/).
+## Frameworks
+- [nlpnet](http://nilc.icmc.usp.br/nlpnet/)
+- [polyglot](https://github.com/aboSamoor/polyglot)
+- [spaCy](https://spacy.io/models/pt)
+- [Stanza NLP](https://stanfordnlp.github.io/stanza/available_models.html)
+- [udpipe](https://github.com/bnosac/udpipe)
 
 ## Institutions
 
