@@ -72,6 +72,7 @@ List of resources and tools developed with focus on Portuguese.
 - [MilkQA](http://www.nilc.icmc.usp.br/nilc/index.php/milkqa/) - a dataset of dense questions for the task of answer selection.
 - [Minutes of Central Bank of Brazil](https://github.com/ajdavidl/corpus-atas-copom/blob/main/README_English.md) - Minutes of the Monetary Policy Committee of the Central Bank of Brazil.
 - [NER in Brazilian Portuguese tweets](https://www.kaggle.com/datasets/rafaelperes/ner-in-brazilian-portuguese-tweets) - Twitter messages in pt-br annotated for the entities PER, LOC and ORG.
+- [NERDE](https://huggingface.co/datasets/Gpaiva/NERDE) - Documents from [CADE](https://www.gov.br/cade/pt-br)'s jurisprudence annotated for the entities ORG, PER, TEMPO, LOC, LEG (legislation), DOCS (documents), VALOR. 
 - [News-Crawl-PT](https://data.statmt.org/news-crawl/pt/) - Monolingual News Crawl used for WMT.
 - [News of the site Folha de São Paulo](https://www.kaggle.com/datasets/marlesson/news-of-the-site-folhauol).
 - [News published in Brazil](https://www.kaggle.com/datasets/diogocaliman/notcias-publicadas-no-brasil).
@@ -198,6 +199,7 @@ List of resources and tools developed with focus on Portuguese.
 - [GPT2 small](https://huggingface.co/pierreguillou/gpt2-small-portuguese) - GPorTuguese-2 (Portuguese GPT-2 small) is a state-of-the-art language model for Portuguese based on the GPT-2 small model.
 - [GPT-Neo small](https://huggingface.co/HeyLucasLeao/gpt-neo-small-portuguese) - a finetuned version from GPT-Neo 125M by EletheurAI to Portuguese language.
 - [GPT2-Bio-PT](https://huggingface.co/pucpr/gpt2-bio-pt) - a biomedical finetuned version from GPorTuguese-2 ([Github](https://github.com/HAILab-PUCPR/gpt2-bio-pt)).
+- [NERDE-base](Gpaiva/NERDE-base) - BERTimbau finetuned to NER on Judicial Documents. 
 - [roberta-pt-br](https://huggingface.co/josu/roberta-pt-br)
 - [RoBERTaCrawlPT-base](https://huggingface.co/eduagarcia/RoBERTaCrawlPT-base) - RoBERTaCrawlPT-base is a generic Portuguese Masked Language Model pretrained from scratch from the CrawlPT corpora
 - [RoBERTaLexPT-base](https://huggingface.co/eduagarcia/RoBERTaLexPT-base) - Portuguese Masked Language Model pretrained from scratch from the LegalPT and CrawlPT corpora
