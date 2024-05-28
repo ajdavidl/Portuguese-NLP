@@ -6,12 +6,12 @@ List of resources and tools developed with focus on Portuguese.
 
 - [#PraCegoVer](https://huggingface.co/datasets/gabrielsantosrv/pracegover) -  multi-modal dataset with Portuguese captions based on posts from Instagram.
 - [18th-century Portuguese medical texts](https://github.com/uebelsetzer/NLP_for_18th-century_Portuguese_medical_texts)
-- [AG_news pt](https://huggingface.co/datasets/maritaca-ai/ag_news_pt) - Tradução automática do AG's corpus of news articles.
+- [AG_news pt](https://huggingface.co/datasets/maritaca-ai/ag_news_pt) - automatic translation of the AG's corpus of news articles.
 - [Alpaca data pt-br](https://huggingface.co/datasets/dominguesm/alpaca-data-pt-br) - Stanford Alpaca dataset translated into Brazilian Portuguese using the Helsinki-NLP/opus-mt-tc-big-en-pt model.
 - [AspectBR](https://github.com/franciellevargas/AspectBR) - Aspect-based annotated dataset of web consumer reviews.
 - [ASSIN](http://nilc.icmc.usp.br/assin/) - a dataset with semantic similarity score and entailment annotations. ([HuggingFace](https://huggingface.co/datasets/assin))
 - [ASSIN 2](https://sites.google.com/view/assin2) - sequence of ASSIN. ([HuggingFace](https://huggingface.co/datasets/assin2))
-- [Automated Essay Score (AES) ENEM Dataset](https://github.com/kamel-usp/aes_enem) - ([HuggingFace](https://huggingface.co/datasets/kamel-usp/aes_enem_dataset))
+- [Automated Essay Score (AES) ENEM Dataset](https://github.com/kamel-usp/aes_enem) - Benchmark for automatic essay scoring in Portuguese ([HuggingFace](https://huggingface.co/datasets/kamel-usp/aes_enem_dataset))
 - [Aya Dataset PT](https://huggingface.co/datasets/nicolasdec/aya_dataset_pt) - CohereForAI Aya Dataset filtrado para português (PT).
 - [BlogSet-BR](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/blogset-br-english/) - a collection of posts gathered from Blogspot platform written by Brazillian users.
 - [BLUEX](https://huggingface.co/datasets/portuguese-benchmark-datasets/BLUEX) - A benchmark based on Brazilian Leading Universities Entrance eXams.
@@ -27,7 +27,7 @@ List of resources and tools developed with focus on Portuguese.
 - [BrWaC](https://www.inf.ufrgs.br/pln/wiki/index.php?title=BrWaC) - Brazilian Portuguese Web as Corpus.
 - [BrWac2Wiki](https://github.com/aseidelo/BrWac2Wiki) - a dataset for multi-document summarization in Portuguese.
 - [B2W-Reviews01](https://github.com/americanas-tech/b2w-reviews01) - product reviews.
-- [Canarim](https://github.com/DominguesM/canarim) - A Large-Scale Dataset of Web Pages in the Portuguese Language [[huggingface](https://huggingface.co/datasets/dominguesm/canarim)]
+- [Canarim](https://github.com/DominguesM/canarim) - A Large-Scale Dataset of Web Pages in the Portuguese Language ([huggingface](https://huggingface.co/datasets/dominguesm/canarim))
 - [Carolina](https://sites.usp.br/corpuscarolina/) - Corpus Geral do Português Brasileiro Contemporâneo.
 - [Capes](https://huggingface.co/datasets/capes) - parallel corpus of theses and dissertations abstracts in English and Portuguese.
 - [CC100-Portuguese](https://autonlp.ai/datasets/cc100-portuguese) - Created by Conneau & Wenzek et al. at 2020. This dataset is one of the 100 corpora of monolingual data that was processed from the January-December 2018 Commoncrawl snapshots from the CC-Net repository. 
@@ -74,10 +74,10 @@ List of resources and tools developed with focus on Portuguese.
 - [NER in Brazilian Portuguese tweets](https://www.kaggle.com/datasets/rafaelperes/ner-in-brazilian-portuguese-tweets) - Twitter messages in pt-br annotated for the entities PER, LOC and ORG.
 - [NERDE](https://huggingface.co/datasets/Gpaiva/NERDE) - Documents from [CADE](https://www.gov.br/cade/pt-br)'s jurisprudence annotated for the entities ORG, PER, TEMPO, LOC, LEG (legislation), DOCS (documents), VALOR. 
 - [News-Crawl-PT](https://data.statmt.org/news-crawl/pt/) - Monolingual News Crawl used for WMT.
-- [News of the site Folha de São Paulo](https://www.kaggle.com/datasets/marlesson/news-of-the-site-folhauol).
-- [News published in Brazil](https://www.kaggle.com/datasets/diogocaliman/notcias-publicadas-no-brasil).
-- [OAB exams](https://github.com/legal-nlp/oab-exams) ([HuggingFace](https://huggingface.co/datasets/eduagarcia/oab_exams))
-- [OpenWordNet-pt](https://www.openwordnet-pt.org/) Code in github https://github.com/own-pt/openWordnet-PT
+- [News of the site Folha de São Paulo](https://www.kaggle.com/datasets/marlesson/news-of-the-site-folhauol) - news of the Brazilian Newspaper Folha de São Paulo.
+- [News published in Brazil](https://www.kaggle.com/datasets/diogocaliman/notcias-publicadas-no-brasil) - news compilation of the Globo group.
+- [OAB exams](https://github.com/legal-nlp/oab-exams) - Brazilian version of the BAR exam (USA) ([HuggingFace](https://huggingface.co/datasets/eduagarcia/oab_exams)).
+- [OpenWordNet-pt](https://www.openwordnet-pt.org/) - open access wordnet for Portuguese ([github](https://github.com/own-pt/openWordnet-PT)).
 - [Parallel Corpora from Revista Pesquisa FAPESP](http://www.nilc.icmc.usp.br/nilc/tools/Fapesp%20Corpora.htm) - Portuguese-English and Portuguese-Spanish bilingual collections of the online issues of the scientific news Brazilian magazine Revista Pesquisa FAPESP.
 - [NURC-SP](http://tarsila.icmc.usp.br:8080/nurc/catna)
 - [Pirá](https://github.com/C4AI/Pira) - A Bilingual Portuguese-English Dataset for Question-Answering about the Ocean.
@@ -110,7 +110,7 @@ List of resources and tools developed with focus on Portuguese.
 - [SQUAD-PT v1.1](https://github.com/nunorc/squad-v1.1-pt) - Portuguese translation of the SQuAD dataset.
 - [SQUAD-PT v1.1-pt-br](https://huggingface.co/datasets/ArthurBaia/squad_v1_pt_br) - Brazilian Portuguese translation of the SQuAD dataset, translated by Deep Learning Brasil.
 - [SQUAD-PT v2.0](https://github.com/cjaniake/squad_v2.0_pt) - Portuguese translation of SQuAD 2.0 dataset.
-- [SST-2 pt](https://huggingface.co/datasets/maritaca-ai/sst2_pt) - Tradução automática do Stanford Sentiment Treebank.
+- [SST-2 pt](https://huggingface.co/datasets/maritaca-ai/sst2_pt) - Automatic translation of the Stanford Sentiment Treebank.
 - [TeMário](https://www.linguateca.pt/Repositorio/TeMario/) - news texts and the corresponding human summaries for summarization purposes.
 - [Textual Complexity Corpus](https://github.com/gazzola/corpus_readability_nlp_portuguese) - Textual Complexity Corpus for School Internships in the Brazilian Educational System.
 - [ToLD-Br](https://huggingface.co/datasets/told-br) - Toxic Language Detection in Social Media for Brazilian Portuguese ([github](https://github.com/JAugusto97/ToLD-Br)).
