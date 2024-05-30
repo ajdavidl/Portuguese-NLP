@@ -77,7 +77,6 @@ List of resources and tools developed with focus on Portuguese.
 - [News of the site Folha de São Paulo](https://www.kaggle.com/datasets/marlesson/news-of-the-site-folhauol) - news of the Brazilian Newspaper Folha de São Paulo.
 - [News published in Brazil](https://www.kaggle.com/datasets/diogocaliman/notcias-publicadas-no-brasil) - news compilation of the Globo group.
 - [OAB exams](https://github.com/legal-nlp/oab-exams) - Brazilian version of the BAR exam (USA) ([HuggingFace](https://huggingface.co/datasets/eduagarcia/oab_exams)).
-- [OpenWordNet-pt](https://www.openwordnet-pt.org/) - open access wordnet for Portuguese ([github](https://github.com/own-pt/openWordnet-PT)).
 - [Parallel Corpora from Revista Pesquisa FAPESP](http://www.nilc.icmc.usp.br/nilc/tools/Fapesp%20Corpora.htm) - Portuguese-English and Portuguese-Spanish bilingual collections of the online issues of the scientific news Brazilian magazine Revista Pesquisa FAPESP.
 - [NURC-SP](http://tarsila.icmc.usp.br:8080/nurc/catna)
 - [Pirá](https://github.com/C4AI/Pira) - A Bilingual Portuguese-English Dataset for Question-Answering about the Ocean.
