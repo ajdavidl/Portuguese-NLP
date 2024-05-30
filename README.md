@@ -270,6 +270,7 @@ List of resources and tools developed with focus on Portuguese.
 - [Phonemizer](https://github.com/bootphon/phonemizer) - Simple text to phones converter for multiple languages.
 - [PorGram](https://github.com/LR-POR/PorGram) - Open source computational grammar for Portuguese in the HPSG formalism.
 - [pymetaphone-br](https://github.com/Escavador/pymetaphone-br) - Metaphone algorithm package for the Portuguese language.
+- [pysentimiento](https://github.com/pysentimiento/pysentimiento) - Multilingual toolkit for Sentiment Analysis and Social NLP tasks.
 - [pyspellchecker](https://github.com/barrust/pyspellchecker) - Multilingual Spell Checking.
 - [RBAMR](https://github.com/rafaelanchieta/rbamr) - A Rule-Based AMR Parser for Portuguese.
 - [Verbecc](https://github.com/bretttolbert/verbecc) - Complete Conjugation of any Verb using Machine Learning for French, Spanish, Portuguese, Italian and Romanian.
