@@ -237,6 +237,7 @@ List of resources and tools developed with focus on Portuguese.
 
 ## Frameworks
 - [nlpnet](http://nilc.icmc.usp.br/nlpnet/)
+- [NLTK](https://www.nltk.org/howto/portuguese_en.html)
 - [polyglot](https://github.com/aboSamoor/polyglot)
 - [spaCy](https://spacy.io/models/pt)
 - [Stanza NLP](https://stanfordnlp.github.io/stanza/available_models.html)
