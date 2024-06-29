@@ -203,6 +203,8 @@ List of resources and tools developed with focus on Portuguese.
 - [roberta-pt-br](https://huggingface.co/josu/roberta-pt-br)
 - [RoBERTaCrawlPT-base](https://huggingface.co/eduagarcia/RoBERTaCrawlPT-base) - RoBERTaCrawlPT-base is a generic Portuguese Masked Language Model pretrained from scratch from the CrawlPT corpora
 - [RoBERTaLexPT-base](https://huggingface.co/eduagarcia/RoBERTaLexPT-base) - Portuguese Masked Language Model pretrained from scratch from the LegalPT and CrawlPT corpora
+- [Sabiá](https://huggingface.co/maritaca-ai/sabia-7b) - Sabiá-7B is Portuguese language model developed by Maritaca AI.
+- [Sabiá 2](https://www.maritaca.ai/en/sabia-2) - Language model trained on Portuguese text, especially in the Brazilian domain.
 - [T5](https://github.com/unicamp-dl/PTT5)
 - [tgf-xlm-roberta-base-pt-br](https://huggingface.co/thegoodfellas/tgf-xlm-roberta-base-pt-br) ([Github](https://github.com/the-good-fellas/xlm-roberta-pt-br))
 - [Wav2vec](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-portuguese)
