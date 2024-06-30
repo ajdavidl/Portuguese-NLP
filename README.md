@@ -45,8 +45,7 @@ List of resources and tools developed with focus on Portuguese.
 - [DEEPAGÉ](https://github.com/C4AI/deepage) - Answering Questions in Portuguese about the Brazilian Environment.
 - [DNLT-BP](https://github.com/nilc-nlp/DNLT-BP) - Datasets of Neuropsychological Language Tests in Brazilian Portuguese.
 - [ENEM Challenge](https://www.ime.usp.br/~ddm/project/enem/) - Consists of the writing of an essay and an objective part containing 180 multiple choice questions.
-- [ENEM-2022](https://github.com/piresramon/gpt-4-enem/blob/main/data/enem/2022.json).
-- [ENEM-2022 and ENEM-2023](https://huggingface.co/datasets/maritaca-ai/enem).
+- [ENEM-2022 and ENEM-2023](https://huggingface.co/datasets/maritaca-ai/enem) - These projects encompass all multiple-choice questions from the last two editions of the Exame Nacional do Ensino Médio (ENEM), the main standardized entrance examination adopted by Brazilian universities.
 - [Essay-BR](https://github.com/rafaelanchieta/essay) - Essay-BR: a corpus of essays for the Brazilian Portuguese language.
 - [Extended Essay-BR](https://github.com/lplnufpi/essay-br) - Extended version of the Essay-BR corpus.
 - [FACTCK.BR](https://github.com/jghm-f/FACTCK.BR) - A dataset to study Fake News in Portuguese.
@@ -54,10 +53,10 @@ List of resources and tools developed with focus on Portuguese.
 - [Fake.Br](https://github.com/roneysco/Fake.br-Corpus) - aligned true and fake news written in Brazilian Portuguese ([Hugginface](https://huggingface.co/datasets/fake-news-UFG/fakebr)).
 - [Central_de_fatos](https://doi.org/10.5281/zenodo.5191798) - ([Huggingface](https://huggingface.co/datasets/fake-news-UFG/central_de_fatos)).
 - [FakeNewsSet](https://github.com/kamplus/FakeNewsSetGen) - ([HuggingFace](https://huggingface.co/datasets/fake-news-UFG/FakeNewsSet)).
-- [Fakepedia-Corpus](https://github.com/andersoncordeiro/Fakepedia-Corpus).
+- [Fakepedia-Corpus](https://github.com/andersoncordeiro/Fakepedia-Corpus) - fake news dataset.
 - [FakeRecogna](https://github.com/Gabriel-Lino-Garcia/FakeRecogna) - dataset comprised of real and fake news ([Huggingface](https://huggingface.co/datasets/recogna-nlp/FakeRecogna)).
 - [FakeWhatsApp.Br](https://github.com/cabrau/FakeWhatsApp.Br) - An annotated Corpus of WhatsApp messages in PT-BR for automatic detection of textual misinformation.
-- [FCN](https://github.com/GoloMarcos/FKTC).
+- [FKTC](https://github.com/GoloMarcos/FKTC) - FaKe news Text Collections.
 - [Floresta Sintá(c)tica](https://www.linguateca.pt/Floresta/) - treebank for Portuguese.
 - [HAREM first](https://www.linguateca.pt/primeiroHAREM/harem_coleccaodourada_en.html) - evaluation contest for named entity recognizers in Portuguese.
 - [HAREM second](https://www.linguateca.pt/HAREM/) - evaluation contest for named entity recognizers in Portuguese.
@@ -124,7 +123,7 @@ List of resources and tools developed with focus on Portuguese.
 - [UlyssesNER-Br](https://github.com/ulysses-camara/ulysses-ner-br/) - Corpus of Brazilian Legislative Documents for Named Entity Recognition
 - [UTLCorpus](https://github.com/RogerFig/UTLCorpus) - a corpus of online reviews in Brazilian Portuguese annotated with helpfulness classification.
 - [Winograd Schema Challenge](https://github.com/gabimelo/portuguese_wsc) - Solver for the Portuguese-based Winograd Schema Challenge.
-- [WizardVicuna-PTBR-Instruct-Clean](https://huggingface.co/datasets/cnmoro/WizardVicuna-PTBR-Instruct-Clean)
+- [WizardVicuna-PTBR-Instruct-Clean](https://huggingface.co/datasets/cnmoro/WizardVicuna-PTBR-Instruct-Clean) - Wizard Vicuna PT-Br Instruct Clean dataset.
 
 ### Multilingual datasets
 
@@ -181,7 +180,7 @@ List of resources and tools developed with focus on Portuguese.
 - [VerbNet.Br 1.0](http://143.107.183.175:21380/portlex/index.php/en/projects/verbnetbringl) - verbal lexicon of Brazilian Portuguese.
 - [wikidict-dsl-pt](https://github.com/open-dsl-dict/wikidict-dsl-pt) - Wikidata Bilingual DSL Dictionaries.
 - [Wordnetaffectbr](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/wordnetaffectbr/) - vocabulary of emotions words.
-- [Wordnet.Br](http://www.nilc.icmc.usp.br/wordnetbr/).
+- [Wordnet.Br](http://www.nilc.icmc.usp.br/wordnetbr/) - Portuguese WordNet.
 
 ## Models
 - [Albertina PT-BR](https://huggingface.co/PORTULAN/albertina-ptbr) - It is an encoder of the BERT family for the Portuguese language - the American variant from Brazil.
@@ -205,27 +204,27 @@ List of resources and tools developed with focus on Portuguese.
 - [RoBERTaLexPT-base](https://huggingface.co/eduagarcia/RoBERTaLexPT-base) - Portuguese Masked Language Model pretrained from scratch from the LegalPT and CrawlPT corpora
 - [Sabiá](https://huggingface.co/maritaca-ai/sabia-7b) - Sabiá-7B is Portuguese language model developed by Maritaca AI.
 - [Sabiá 2](https://www.maritaca.ai/en/sabia-2) - Language model trained on Portuguese text, especially in the Brazilian domain.
-- [T5](https://github.com/unicamp-dl/PTT5)
+- [T5](https://github.com/unicamp-dl/PTT5) - T5 model on Brazilian Portuguese data.
 - [tgf-xlm-roberta-base-pt-br](https://huggingface.co/thegoodfellas/tgf-xlm-roberta-base-pt-br) ([Github](https://github.com/the-good-fellas/xlm-roberta-pt-br))
-- [Wav2vec](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-portuguese)
+- [Wav2vec](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-portuguese) - Fine-tuned facebook/wav2vec2-large-xlsr-53 on Portuguese using the train and validation splits of Common Voice 6.1. 
 
 ### Multilingual Models
 
-- [Bloom](https://huggingface.co/bigscience/bloom)
-- [mBert](https://huggingface.co/bert-base-multilingual-cased)
+- [Bloom](https://huggingface.co/bigscience/bloom) - BigScience Large Open-science Open-access Multilingual Language Model.
+- [mBert](https://huggingface.co/bert-base-multilingual-cased) - Pretrained model on the top 104 languages with the largest Wikipedia using a masked language modeling (MLM) objective.
 - [mDeBERTa](https://huggingface.co/microsoft/mdeberta-v3-base)
 - [mGPT](https://huggingface.co/sberbank-ai/mGPT) - Multilingual GPT model. An autoregressive GPT-like model.
 - [mMiniLM](https://huggingface.co/unicamp-dl/mMiniLM-L6-v2-pt-v2) - mMiniLM-L6-v2 Reranker finetuned on mMARCO
 - [mT5](https://huggingface.co/google/mt5-base) - Multilingual T5. A massively multilingual pre-trained text-to-text transformer.
-- [XLM-RoBERTa](https://huggingface.co/xlm-roberta-base)
+- [XLM-RoBERTa](https://huggingface.co/xlm-roberta-base) - XLM-RoBERTa model pre-trained on 2.5TB of filtered CommonCrawl data containing 100 languages. 
 - [LaBSE](https://huggingface.co/sentence-transformers/LaBSE) - Language-agnostic BERT Sentence Encoder (LaBSE) is a BERT-based model trained for sentence embedding for 109 languages. 
 
 
 ## Word Embeddings
 
 - [fastText](https://fasttext.cc/docs/en/crawl-vectors.html) - Multi-lingual word vectors.
-- [LASER](https://github.com/facebookresearch/LASER).
-- [NILC-Embeddings](http://www.nilc.icmc.usp.br/embeddings).
+- [LASER](https://github.com/facebookresearch/LASER) - Language-Agnostic SEntence Representations.
+- [NILC-Embeddings](http://www.nilc.icmc.usp.br/embeddings) - Word embeddings trained in Portuguese by USP.
 - [MUSE](https://github.com/facebookresearch/MUSE) - Multilingual Unsupervised and Supervised Embeddings.
 - [word vectors](https://github.com/Kyubyong/wordvectors) - Pre-trained word vectors of 30+ languages.
 
