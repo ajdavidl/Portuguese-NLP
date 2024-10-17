@@ -94,6 +94,7 @@ List of resources and tools developed with focus on Portuguese.
 - [Projeto ACDC](https://www.linguateca.pt/ACDC/) - Internet Access to Corpora.
 - [Puntuguese](https://github.com/Superar/Puntuguese/) - A Corpus of Puns in Portuguese with Micro-editions ([HuggingFace](https://huggingface.co/datasets/Superar/Puntuguese))
 - [QA-Portuguese](https://huggingface.co/datasets/ju-resplande/qa-pt) - Adaptation from MQA dataset Portuguese split (QA entailment pairs).
+- [Quati](https://huggingface.co/datasets/unicamp-dl/quati) - This dataset aims to support Brazilian Portuguese (pt-br) Information Retrieval (IR) systems development, providing document passagens originally created in pt-br, as well as queries (topics) created by native speakers.
 - [REBEL-Portuguese](https://huggingface.co/datasets/ju-resplande/rebel-pt) - Datasets de relações a partir da Wikipedia.
 - [ReLi](https://www.linguateca.pt/Repositorio/ReLi/) - REsenha de LIvros.
 - [RePro: A Benchmark Dataset for Opinion Mining for Brazilian Portuguese](https://github.com/lucasnil/repro) - A Benchmark Dataset for Opinion Mining for Brazilian Portuguese. ([HuggingFace](https://huggingface.co/datasets/lucasnil/repro))
