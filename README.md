@@ -18,6 +18,7 @@ List of resources and tools developed with focus on Portuguese.
 - [BoolQ](https://huggingface.co/datasets/maritaca-ai/boolq_pt) - tradução automática do BoolQ.
 - [br-quad-2.0](https://github.com/piEsposito/br-quad-2.0) - Stanford Question Answering Dataset (SQuAD) 2.0 translated to Brazilian Portuguese (PT-BR) language.
 - [Brands.Br](https://github.com/metalmorphy/Brands.Br) - a Portuguese Reviews Corpus
+- [Brazilian Court Decisions](joelniklaus/brazilian_court_decisions) - collection of 4043 Ementa (summary) court decisions and their metadata from the Tribunal de Justiça de Alagoas (TJAL), the State Supreme Court of Alagoas (Brazil).
 - [Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) - Brazilian E-Commerce Public Dataset by Olist store.
 - [Brazilian Headlines Sentiments](https://www.kaggle.com/datasets/brunoluvizotto/brazilian-headlines-sentiments) - Dataset containing sentiment analysis of Brazilian news agencies headlines.
 - [Brazilian Portuguese Literature Corpus](https://www.kaggle.com/datasets/rtatman/brazilian-portuguese-literature-corpus) - 3.7 million word corpus of Brazilian literature published between 1840-1908.
@@ -28,7 +29,7 @@ List of resources and tools developed with focus on Portuguese.
 - [BrWac2Wiki](https://github.com/aseidelo/BrWac2Wiki) - a dataset for multi-document summarization in Portuguese.
 - [B2W-Reviews01](https://github.com/americanas-tech/b2w-reviews01) - product reviews.
 - [Canarim](https://github.com/DominguesM/canarim) - A Large-Scale Dataset of Web Pages in the Portuguese Language ([huggingface](https://huggingface.co/datasets/dominguesm/canarim))
-- [Carolina](https://sites.usp.br/corpuscarolina/) - Corpus Geral do Português Brasileiro Contemporâneo.
+- [Carolina](https://sites.usp.br/corpuscarolina/) - Corpus Geral do Português Brasileiro Contemporâneo ([huggingface](https://huggingface.co/datasets/carolina-c4ai/corpus-carolina)).
 - [Capes](https://huggingface.co/datasets/capes) - parallel corpus of theses and dissertations abstracts in English and Portuguese.
 - [CC100-Portuguese](https://autonlp.ai/datasets/cc100-portuguese) - Created by Conneau & Wenzek et al. at 2020. This dataset is one of the 100 corpora of monolingual data that was processed from the January-December 2018 Commoncrawl snapshots from the CC-Net repository. 
 - [CETENFolha](https://www.linguateca.pt/cetenfolha/index_info.html) - news from the newspaper Folha de S. Paulo.
