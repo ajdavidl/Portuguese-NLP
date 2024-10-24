@@ -51,6 +51,7 @@ List of resources and tools developed with focus on Portuguese.
 - [Extended Essay-BR](https://github.com/lplnufpi/essay-br) - Extended version of the Essay-BR corpus.
 - [FACTCK.BR](https://github.com/jghm-f/FACTCK.BR) - A dataset to study Fake News in Portuguese.
 - [FactNews](https://github.com/franciellevargas/FactNews) - dataset to predict sentence-level factuality of news reporting.
+- [fake voices](https://huggingface.co/datasets/unfake/fake_voices) - deepfakes in Brazilian Portuguese created with XTTS model.
 - [Fake.Br](https://github.com/roneysco/Fake.br-Corpus) - aligned true and fake news written in Brazilian Portuguese ([Hugginface](https://huggingface.co/datasets/fake-news-UFG/fakebr)).
 - [Central_de_fatos](https://doi.org/10.5281/zenodo.5191798) - ([Huggingface](https://huggingface.co/datasets/fake-news-UFG/central_de_fatos)).
 - [FakeNewsSet](https://github.com/kamplus/FakeNewsSetGen) - ([HuggingFace](https://huggingface.co/datasets/fake-news-UFG/FakeNewsSet)).
