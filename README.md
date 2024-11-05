@@ -65,6 +65,7 @@ List of resources and tools developed with focus on Portuguese.
 - [HateBR](https://github.com/franciellevargas/HateBR) - large-scale expert annotated corpus of Brazilian Instagram comments for hate speech and offensive language detection on the web and social media.
 - [Historical Portuguese Corpora](http://www.nilc.icmc.usp.br/nilc/projects/hpc/) - tools and resources for manipulation of historical corpora and management of historical dictionaries.
 - [IMDB pt](https://huggingface.co/datasets/maritaca-ai/imdb_pt) - Tradução atomática do IMBD.
+- [InferBR](https://github.com/lbencke/InferBR) - Natural Language Inference dataset.
 - [Iudicium Textum Dataset](http://dadosabertos.c3sl.ufpr.br/acordaos/) - contains legal documents created by Brazilian Federal Supreme Court in its integral composition ([paper](https://www.researchgate.net/publication/336022563_Iudicium_Textum_Dataset_Uma_Base_de_Textos_Juridicos_para_NLP)).
 - [LeNER-Br](https://github.com/peluz/lener-br) - a Dataset for Named Entity Recognition in Brazilian Legal Text.
 - [LegalPT_dedup](https://huggingface.co/datasets/eduagarcia/LegalPT_dedup) - LegalPT (deduplicated) aggregates the maximum amount of publicly available legal data in Portuguese.
