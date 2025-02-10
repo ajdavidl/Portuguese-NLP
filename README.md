@@ -78,9 +78,9 @@ List of resources and tools developed with focus on Portuguese.
 - [News-Crawl-PT](https://data.statmt.org/news-crawl/pt/) - Monolingual News Crawl used for WMT.
 - [News of the site Folha de São Paulo](https://www.kaggle.com/datasets/marlesson/news-of-the-site-folhauol) - news of the Brazilian Newspaper Folha de São Paulo.
 - [News published in Brazil](https://www.kaggle.com/datasets/diogocaliman/notcias-publicadas-no-brasil) - news compilation of the Globo group.
+<!-- - [NURC-SP](http://tarsila.icmc.usp.br:8080/nurc/catna) --> <!-- broken link -->
 - [OAB exams](https://github.com/legal-nlp/oab-exams) - Brazilian version of the BAR exam (USA) ([HuggingFace](https://huggingface.co/datasets/eduagarcia/oab_exams)).
 - [Parallel Corpora from Revista Pesquisa FAPESP](http://www.nilc.icmc.usp.br/nilc/tools/Fapesp%20Corpora.htm) - Portuguese-English and Portuguese-Spanish bilingual collections of the online issues of the scientific news Brazilian magazine Revista Pesquisa FAPESP.
-- [NURC-SP](http://tarsila.icmc.usp.br:8080/nurc/catna)
 - [Pirá](https://github.com/C4AI/Pira) - A Bilingual Portuguese-English Dataset for Question-Answering about the Ocean.
 - [PL-corpus](https://huggingface.co/datasets/bergoliveira/pl-corpus) - part of the UlyssesNER-Br, a corpus of Brazilian Legislative Documents for NER with quality baselines.
 - [PLUE](https://github.com/ju-resplande/PLUE) - Portuguese translation of the GLUE benchmark and Scitail dataset.
@@ -210,14 +210,14 @@ List of resources and tools developed with focus on Portuguese.
 - [Sabiá](https://huggingface.co/maritaca-ai/sabia-7b) - Sabiá-7B is Portuguese language model developed by Maritaca AI.
 - [Sabiá 2](https://www.maritaca.ai/en/sabia-2) - Language model trained on Portuguese text, especially in the Brazilian domain.
 - [T5](https://github.com/unicamp-dl/PTT5) - T5 model on Brazilian Portuguese data.
-- [tgf-xlm-roberta-base-pt-br](https://huggingface.co/thegoodfellas/tgf-xlm-roberta-base-pt-br) ([Github](https://github.com/the-good-fellas/xlm-roberta-pt-br))
+- [tgf-xlm-roberta-base-pt-br](https://huggingface.co/thegoodfellas/tgf-xlm-roberta-base-pt-br) - a fine-tuned version of xlm-roberta-base on the BrWac dataset ([Github](https://github.com/the-good-fellas/xlm-roberta-pt-br)).
 - [Wav2vec](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-portuguese) - Fine-tuned facebook/wav2vec2-large-xlsr-53 on Portuguese using the train and validation splits of Common Voice 6.1. 
 
 ### Multilingual Models
 
 - [Bloom](https://huggingface.co/bigscience/bloom) - BigScience Large Open-science Open-access Multilingual Language Model.
 - [mBert](https://huggingface.co/bert-base-multilingual-cased) - Pretrained model on the top 104 languages with the largest Wikipedia using a masked language modeling (MLM) objective.
-- [mDeBERTa](https://huggingface.co/microsoft/mdeberta-v3-base)
+- [mDeBERTa](https://huggingface.co/microsoft/mdeberta-v3-base) - improves the BERT and RoBERTa models.
 - [mGPT](https://huggingface.co/sberbank-ai/mGPT) - Multilingual GPT model. An autoregressive GPT-like model.
 - [mMiniLM](https://huggingface.co/unicamp-dl/mMiniLM-L6-v2-pt-v2) - mMiniLM-L6-v2 Reranker finetuned on mMARCO
 - [mT5](https://huggingface.co/google/mt5-base) - Multilingual T5. A massively multilingual pre-trained text-to-text transformer.
