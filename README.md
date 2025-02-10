@@ -193,6 +193,7 @@ List of resources and tools developed with focus on Portuguese.
 - [BART](https://huggingface.co/adalbertojunior/bart-base-portuguese) - BART pre-treinado em português.
 - [BERTimbau](https://huggingface.co/neuralmind/bert-base-portuguese-cased) - BERTimbau Base is a pretrained BERT model for Brazilian Portuguese that achieves state-of-the-art performances on three downstream NLP tasks: Named Entity Recognition, Sentence Textual Similarity and Recognizing Textual Entailment ([Github](https://github.com/neuralmind-ai/portuguese-bert)).
 - [BioBERTpt](https://huggingface.co/pucpr/biobertpt-all) - fine-tuned BERT models trained on the clinical domain for Portuguese language ([Github](https://github.com/HAILab-PUCPR/BioBERTpt)).
+- [Bode](https://huggingface.co/recogna-nlp/bode-7b-alpaca-pt-br) - a fine-tuned LLaMA 2-based model for Portuguese prompts ([13b](https://huggingface.co/recogna-nlp/bode-13b-alpaca-pt-br)).
 - [Cabrita](https://huggingface.co/22h/cabrita-lora-v0-1) - A portuguese finetuned instruction LLaMA ([Github](https://github.com/22-hours/cabrita)).
 - [DeBERTinha](https://huggingface.co/sagui-nlp/debertinha-ptbr-xsmall) - A DeBERTa V3 XSmall adapted to the Brazilian Portuguese language ([Github](https://github.com/sagui-nlp/DeBERTinha)).
 - [Electra](https://huggingface.co/dlb/electra-base-portuguese-uncased-brwac) - Electra model trained on BRWAC.
