@@ -197,6 +197,7 @@ List of resources and tools developed with focus on Portuguese.
 - [Cabrita](https://huggingface.co/22h/cabrita-lora-v0-1) - A portuguese finetuned instruction LLaMA ([Github](https://github.com/22-hours/cabrita)).
 - [DeBERTinha](https://huggingface.co/sagui-nlp/debertinha-ptbr-xsmall) - A DeBERTa V3 XSmall adapted to the Brazilian Portuguese language ([Github](https://github.com/sagui-nlp/DeBERTinha)).
 - [Electra](https://huggingface.co/dlb/electra-base-portuguese-uncased-brwac) - Electra model trained on BRWAC.
+- [FinBERT-PT-BR](https://huggingface.co/lucas-leme/FinBERT-PT-BR) - a pre-trained NLP model to analyze sentiment of Brazilian Portuguese financial texts.
 - [Gervasio-PT-BR](https://huggingface.co/PORTULAN/gervasio-ptbr-base) - It is a decoder of the GPT family for the Portuguese language - the American variant from Brazil.
 - [Gervasio-PT-PT](https://huggingface.co/PORTULAN/gervasio-ptpt-base) - It is a decoder of the GPT family for the Portuguese language - the European variant from Portugal.
 - [GlórIA 1.3B](https://github.com/rvlopes/GlorIA) - A Portuguese European-focused Large Language Model ([HuggingFace](https://huggingface.co/NOVA-vision-language/GlorIA-1.3B))
