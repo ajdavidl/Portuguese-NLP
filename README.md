@@ -183,6 +183,7 @@ List of resources and tools developed with focus on Portuguese.
 - [VaLexPB](https://github.com/jessemourao/VaLexPB) - a lexicon of Brazilian Portuguese verb valences.
 - [VerbNet.Br 1.0](http://143.107.183.175:21380/portlex/index.php/en/projects/verbnetbringl) - verbal lexicon of Brazilian Portuguese.
 - [wikidict-dsl-pt](https://github.com/open-dsl-dict/wikidict-dsl-pt) - Wikidata Bilingual DSL Dictionaries.
+- [wikidict-pt](https://github.com/open-dict-data/wikidict-pt) - Wikipedia Bilingual Reference Data (Portuguese).
 - [Wordnetaffectbr](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/wordnetaffectbr/) - vocabulary of emotions words.
 - [Wordnet.Br](http://www.nilc.icmc.usp.br/wordnetbr/) - Portuguese WordNet.
 
