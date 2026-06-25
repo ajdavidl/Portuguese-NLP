@@ -215,7 +215,11 @@ List of resources and tools developed with focus on Portuguese.
 - [Sabiá](https://huggingface.co/maritaca-ai/sabia-7b) - Sabiá-7B is Portuguese language model developed by Maritaca AI.
 - [Sabiá 2](https://www.maritaca.ai/en/sabia-2) - Language model trained on Portuguese text, especially in the Brazilian domain.
 - [T5](https://github.com/unicamp-dl/PTT5) - T5 model on Brazilian Portuguese data.
+- [teeny tiny llama](https://huggingface.co/collections/Polygl0t/teenytinyllama-portuguese) - a pair of compact language models based on the Llama 2 architecture trained on a Brazilian Portuguese corpus.
 - [tgf-xlm-roberta-base-pt-br](https://huggingface.co/thegoodfellas/tgf-xlm-roberta-base-pt-br) - a fine-tuned version of xlm-roberta-base on the BrWac dataset ([Github](https://github.com/the-good-fellas/xlm-roberta-pt-br)).
+- [tucano](https://huggingface.co/collections/Polygl0t/tucano-portuguese) - a series of decoder-transformers based on the Llama 2 architecture, natively pre-trained in Portuguese.
+- [tucano2](https://huggingface.co/collections/Polygl0t/tucano2) - An open suite of large language models (LLMs) with 0.5-3.7 billion parameters, designed to address the gap in open-source development for Portuguese.
+- [ViTucano-v1](https://huggingface.co/collections/Polygl0t/vitucano-v1-portuguese) - a vision assistant natively pretrained in Portuguese. ViTucano is built on top of the Tucano series.
 - [Wav2vec](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-portuguese) - Fine-tuned facebook/wav2vec2-large-xlsr-53 on Portuguese using the train and validation splits of Common Voice 6.1. 
 
 ### Multilingual Models
