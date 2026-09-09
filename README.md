@@ -86,6 +86,7 @@ List of resources and tools developed with focus on Portuguese.
 - [Pirá](https://github.com/C4AI/Pira) - A Bilingual Portuguese-English Dataset for Question-Answering about the Ocean.
 - [PL-corpus](https://huggingface.co/datasets/bergoliveira/pl-corpus) - part of the UlyssesNER-Br, a corpus of Brazilian Legislative Documents for NER with quality baselines.
 - [PLUE](https://github.com/ju-resplande/PLUE) - Portuguese translation of the GLUE benchmark and Scitail dataset.
+- [Ponys AI Character Consistency Benchmark](https://huggingface.co/datasets/wujoe132/ponys-multilingual-ai-character-consistency-benchmark) - protocolo pré-registrado com 140 casos para avaliar memória, estabilidade de persona, estado do relacionamento e identidade visual em sete configurações linguísticas, incluindo português do Brasil. Resultados ainda não coletados. ([DOI](https://doi.org/10.5281/zenodo.22172094), [fonte](https://ponys.ai/))
 - [POeTiSA](https://sites.google.com/icmc.usp.br/poetisa) - POrtuguese processing - Towards Syntactic Analysis and parsing.
 - [politiquices](https://github.com/politiquices/data-releases) -  Datasets related with the politiquices.pt project.
 - [PorSimplesSent](https://github.com/sidleal/porsimplessent) - of aligned sentences pairs to investigate sentence readability assessment.
