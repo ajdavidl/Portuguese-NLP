@@ -275,6 +275,7 @@ List of resources and tools developed with focus on Portuguese.
 - [BrGram](https://github.com/LR-POR/BrGram) - Computational grammar fragment of Brazilian Portuguese in the LFG formalism implemented in XLE.
 - [Dicio API](https://github.com/ThiagoNelsi/dicio-api) - Portuguese dictionary API.
 - [dict-pt-br](https://github.com/VisualText/dict-pt-br) - dictionary for Brazilian Portuguese.
+- [humanizer-pt-br](https://github.com/eurafaeldecarvalho/humanizer-pt-br) - Agent skill and prompt that flag 45 machine-writing patterns in Brazilian Portuguese and rewrite them without changing facts or numbers.
 - [Languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages.
 - [LegalNLP](https://github.com/felipemaiapolo/legalnlp) - Natural Language Processing Methods for the Brazilian Legal Language.
 - [LexML Parser](https://github.com/lexml/lexml-parser-projeto-lei) - parser for legal documents.
